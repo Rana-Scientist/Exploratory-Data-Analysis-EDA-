@@ -1,0 +1,29 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 1001 entries, 0 to 1000
+Data columns (total 22 columns):
+ #   Column                Non-Null Count  Dtype  
+---  ------                --------------  -----  
+ 0   id                    994 non-null    float64
+ 1   first_name            1001 non-null   object 
+ 2   last_name             926 non-null    object 
+ 3   email                 927 non-null    object 
+ 4   gender                995 non-null    object 
+ 5   patient_id            1001 non-null   int64  
+ 6   age                   856 non-null    float64
+ 7   race                  995 non-null    object 
+ 8   diagnosis_date        995 non-null    object 
+ 9   tumor_size            1001 non-null   float64
+ 10  tumor_grade           1001 non-null   int64  
+ 11  lymph_node_status     998 non-null    object 
+ 12  metastasis            1001 non-null   bool   
+ 13  treatment_start_date  1001 non-null   object 
+ 14  treatment_end_date    1001 non-null   object 
+ 15  treatment_type        1001 non-null   object 
+ 16  survival_status       1001 non-null   object 
+ 17  survival_months       1001 non-null   float64
+ 18  family_history        1001 non-null   bool   
+ 19  smoking_status        996 non-null    object 
+ 20  alcohol_consumption   996 non-null    object 
+ 21  diet                  996 non-null    object 
+dtypes: bool(2), float64(4), int64(2), object(14)
+memory usage: 158.5+ KB

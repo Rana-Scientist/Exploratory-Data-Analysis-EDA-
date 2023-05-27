@@ -1,0 +1,1004 @@
+,first name,last name,       EMAIL,,           gender  ,111,!@#$%^&*()%age,City,Country,diagnosis_date,tumor_size,tumor_grade,lymph_node_status,metastasis,treatment_start_date,treatment_end_date,treatment_type,survival_status,survival_months,family_history,smoking_status,alcohol_consumption,diet
+1,Revkah,Roseveare,rroseveare0@macromedia.com,1,Female,1,53,New York City,United States,26-May-01,26.23,2,negative,TRUE,18-Aug-09,05-Oct-01,surgery,alive,19.87,FALSE,former smoker,occasionally,vegetarian
+2,Drucill,McAline,dmcaline1@histats.com,2,Female,2,101,Newmarket,Canada,24-Apr-02,36.92,2,negative,TRUE,13-Feb-04,24-Jan-13,surgery,deceased,87.85,FALSE,current smoker,regularly,omnivore
+3,Tabbitha,Warstall,twarstall2@geocities.com,3,Female,3,54,Johnson City,United States,13-Jul-01,15.47,,positive,TRUE,04-Apr-16,27-Jul-13,radiation therapy,deceased,57.83,FALSE,former smoker,never,omnivore
+4,Leelah,Donaho,ldonaho3@nps.gov,4,Polygender,4,91,Oklahoma City,United States,30-Jun-17,9.59,,positive,TRUE,17-Apr-07,21-Nov-20,radiation therapy,deceased,57.06,FALSE,current smoker,regularly,vegetarian
+5,Kalle,Gwatkin,kgwatkin4@symantec.com,5,Male,5,70,Washington,United States,23-Aug-08,25.03,,positive,FALSE,30-Oct-07,21-Sep-06,radiation therapy,deceased,119.75,FALSE,never smoked,regularly,vegan
+6,Urbano,Shropsheir,ushropsheir5@biblegateway.com,6,Male,6,37,Saint-Constant,Canada,26-Jan-09,4.82,,positive,FALSE,17-Mar-00,09-Dec-04,radiation therapy,alive,76.19,TRUE,former smoker,never,vegetarian
+,Kath,Hughesdon,khughesdon6@apache.org,7,Female,7,2,Pangnirtung,Canada,01-May-21,48.57,,positive,TRUE,02-Mar-01,08-Aug-11,surgery,deceased,102.95,FALSE,current smoker,regularly,omnivore
+8,Shaun,Bartkiewicz,sbartkiewicz7@sourceforge.net,8,Male,8,66,Newport,United Kingdom,27-Feb-03,33.37,,negative,FALSE,07-Jan-06,21-Aug-20,chemotherapy,deceased,13.71,FALSE,current smoker,regularly,omnivore
+,Rickie,Akaster,rakaster8@goo.ne.jp,9,Bigender,9,3,Norton,United Kingdom,,6.34,,,TRUE,04-May-19,02-May-05,surgery,deceased,105.52,FALSE,,,vegan
+,James,Skillanders,jskillanders9@qq.com,10,Male,10,46,Halle,Germany,,29.71,,,FALSE,25-Nov-03,10-Nov-21,surgery,deceased,78.48,FALSE,,,
+,Hayley,Rymer,hrymera@ocn.ne.jp,11,Female,11,26,Oklahoma City,United States,,9.85,,,FALSE,16-Mar-02,16-Nov-14,radiation therapy,deceased,60.41,TRUE,,,
+,Lodovico,Smissen,lsmissenb@senate.gov,12,Agender,12,76,Ladner,Canada,,28.43,,negative,TRUE,05-Jan-09,26-Oct-14,chemotherapy,deceased,69.6,TRUE,,,
+,Erin,,ebellellic@newsvine.com,13,Male,13,92,San Antonio,United States,,46.48,,positive,TRUE,15-Oct-19,28-Mar-09,chemotherapy,deceased,1.86,FALSE,,,
+,Joscelin,,jfostersmithd@unicef.org,14,Female,14,11,Ford,United Kingdom,,42.83,,positive,FALSE,14-Jul-18,10-Nov-08,radiation therapy,alive,112.2,TRUE,current smoker,never,
+15,Jon,,jingermane@nps.gov,15,Male,15,55,Boissevain,Canada,17-Jun-06,39.64,,negative,FALSE,01-May-06,19-Apr-04,chemotherapy,alive,11.53,TRUE,current smoker,never,vegetarian
+16,Zebedee,,zcolbranf@parallels.com,16,Male,16,42,Bethlehem,United States,08-May-11,27.89,,negative,FALSE,26-Apr-02,29-Apr-19,chemotherapy,deceased,68.32,TRUE,current smoker,occasionally,vegan
+17,Merry,,mobispog@wix.com,17,Female,17,1500,Baltimore,United States,15-May-16,1.45,,positive,TRUE,16-Sep-04,09-Apr-10,,alive,,FALSE,former smoker,never,omnivore
+18,Kelsy,,kbourbonh@redcross.org,18,,18,,San Jose,United States,09-Feb-07,5.78,4,positive,FALSE,14-Mar-09,03-Sep-10,,deceased,,TRUE,former smoker,never,omnivore
+19,Skell,,sgorkei@prlog.org,19,,19,,Austin,United States,27-Dec-20,44.6,3,positive,TRUE,23-Jun-10,09-Apr-19,,deceased,,TRUE,current smoker,regularly,vegetarian
+20,Wilhelmine,,wchoatj@guardian.co.uk,20,,20,,Augsburg,Germany,10-May-07,3.3,2,negative,TRUE,04-Nov-15,25-Jan-06,,deceased,101.91,TRUE,former smoker,regularly,vegetarian
+21,Drona,,drileyk@netvibes.com,21,,21,,Rochester,United States,17-Jan-01,16.08,1,positive,FALSE,14-May-09,11-Jan-03,,deceased,113.47,TRUE,never smoked,never,vegan
+22,Paddy,,phousbeyl@360.cn,22,,22,,Dearborn,United States,06-Sep-04,7045.95,3,positive,TRUE,29-Sep-09,09-Jul-18,,deceased,3564.85,TRUE,former smoker,occasionally,vegetarian
+23,Bonnee,,bbatalinim@miitbeian.gov.cn,23,,23,1200,Maple Creek,Canada,04-Apr-20,6041.64,3,positive,FALSE,26-Jul-13,31-Oct-05,,alive,2826.15,TRUE,never smoked,occasionally,vegan
+24,Torey,,tlystonn@cmu.edu,24,,24,,Wilmington,United States,03-Dec-18,45.18,2,negative,FALSE,05-Jul-05,29-Aug-15,,deceased,83.24,TRUE,former smoker,occasionally,vegetarian
+25,Evelina,,ebrumbyeo@typepad.com,25,Female,25,,Richmond,Canada,02-Feb-20,46.56,2,negative,TRUE,13-Apr-07,25-Jul-18,,alive,115.74,FALSE,current smoker,occasionally,vegetarian
+26,Prue,,pbartalinip@google.fr,26,Female,26,,Lübeck,Germany,11-May-15,9.63,2,negative,FALSE,10-May-00,20-Feb-08,,alive,31.45,FALSE,former smoker,occasionally,omnivore
+27,Agnella,,achampneysq@icq.com,27,Female,27,,Philadelphia,United States,14-Jun-05,7.2,1,positive,TRUE,28-Oct-21,28-Dec-03,,alive,32.06,FALSE,never smoked,occasionally,vegan
+28,Emmett,,epetigrewr@smugmug.com,28,Male,28,,Aachen,Germany,27-Aug-09,4.31,1,positive,TRUE,08-Feb-06,31-Oct-13,,deceased,111.2,FALSE,never smoked,occasionally,vegetarian
+29,Judd,,jcamposs@economist.com,29,Genderfluid,29,,Smoky Lake,Canada,03-Apr-03,14.16,2,positive,TRUE,05-Jun-12,07-Nov-11,radiation therapy,deceased,64.23,TRUE,never smoked,occasionally,vegetarian
+30,Evangelina,,emccreeryt@so-net.ne.jp,30,Female,30,,Dallas,United States,11-Oct-12,15.62,1,positive,FALSE,27-Nov-21,23-Oct-19,radiation therapy,alive,88.38,TRUE,current smoker,regularly,vegan
+31,Missie,,mslyneu@weebly.com,31,Female,31,,Newton,United Kingdom,05-Feb-15,21.16,2,positive,TRUE,26-Jul-05,08-Nov-03,chemotherapy,deceased,0.96,TRUE,former smoker,never,omnivore
+32,Carolin,,clubomirskiv@flickr.com,32,Female,32,,West End,United Kingdom,25-Jul-21,10.55,1,negative,TRUE,21-Jan-04,26-Mar-19,surgery,deceased,96.33,TRUE,current smoker,occasionally,vegetarian
+33,Merrel,,makramw@time.com,33,Male,33,,Melville,Canada,23-Sep-15,5.74,4,positive,TRUE,19-Oct-08,20-Dec-14,radiation therapy,alive,16.69,TRUE,never smoked,occasionally,vegetarian
+34,Giffie,,gboudx@ihg.com,34,Male,34,,Anaheim,United States,10-Sep-03,20.24,2,positive,FALSE,02-Jul-01,26-Feb-07,chemotherapy,deceased,25.93,FALSE,current smoker,regularly,vegetarian
+35,Floyd,,fmaryy@wsj.com,35,Male,35,,Harrison Brook,Canada,14-Feb-12,5.77,3,positive,TRUE,08-Jun-00,17-Dec-21,chemotherapy,alive,51.64,TRUE,current smoker,never,vegan
+36,Berty,,bcleaverz@taobao.com,36,Male,36,,München,Germany,27-Sep-17,40.87,4,negative,FALSE,07-Apr-05,17-Mar-04,chemotherapy,deceased,38.05,FALSE,current smoker,occasionally,vegetarian
+37,Rafaela,,rpordall10@reuters.com,37,Female,37,,Cleveland,United States,09-Nov-18,16.68,3,negative,FALSE,10-Nov-06,02-Oct-09,chemotherapy,alive,34.08,FALSE,current smoker,occasionally,omnivore
+38,Anneliese,,abeddis11@vinaora.com,38,Female,38,,Thorold,Canada,11-Oct-20,4.86,3,positive,FALSE,09-Feb-15,08-Feb-04,radiation therapy,alive,75.14,FALSE,current smoker,regularly,vegetarian
+39,Josephine,,jkalkhoven12@cpanel.net,39,Female,39,,Maskinongé,Canada,01-Nov-07,36.52,3,positive,TRUE,25-Mar-12,26-Feb-09,surgery,alive,79.91,TRUE,former smoker,never,omnivore
+40,Salomon,,sdibden13@youku.com,40,Male,40,,Pont-Rouge,Canada,18-Oct-03,19.64,2,negative,TRUE,23-May-11,17-Nov-13,surgery,deceased,89.68,TRUE,never smoked,occasionally,vegan
+41,Laurent,,lpeperell14@e-recht24.de,41,Male,41,,Daveluyville,Canada,06-Oct-13,38.62,3,negative,TRUE,03-Apr-17,06-Oct-14,surgery,deceased,51.75,FALSE,former smoker,never,vegetarian
+42,Pandora,,pusmar15@netvibes.com,42,Female,42,,Peoria,United States,03-Jun-13,7.47,2,negative,TRUE,26-Aug-14,14-Jun-15,radiation therapy,alive,60.95,TRUE,never smoked,occasionally,omnivore
+43,Jourdain,,jnicholl16@dropbox.com,43,Male,43,,Englewood,United States,24-Jan-02,30.98,2,negative,TRUE,08-Jul-05,26-Jan-13,surgery,deceased,78.6,FALSE,current smoker,never,omnivore
+44,Sybil,,spellissier17@theguardian.com,44,Female,44,,Vaudreuil-Dorion,Canada,11-Feb-17,15.04,4,negative,TRUE,20-Apr-12,18-May-09,chemotherapy,alive,75.16,TRUE,former smoker,occasionally,vegan
+45,Dominic,,dgillow18@tripod.com,45,Male,45,,Marston,United Kingdom,23-Jan-05,17.24,2,positive,FALSE,10-Jun-16,28-Feb-08,surgery,alive,101.61,TRUE,former smoker,regularly,vegan
+46,Augusta,,asambiedge19@symantec.com,46,Female,46,,Washington,United States,17-Dec-17,13.95,1,positive,FALSE,07-Jul-20,17-Feb-00,radiation therapy,alive,117.3,FALSE,never smoked,regularly,vegetarian
+47,Averell,,,47,Male,47,,Kansas City,United States,23-Nov-02,29.21,4,negative,FALSE,28-Mar-17,03-Nov-06,chemotherapy,deceased,36.29,FALSE,former smoker,never,omnivore
+48,Luis,,,48,Male,48,,Chicago,United States,16-Nov-10,1,3,negative,FALSE,09-Sep-20,12-Oct-04,chemotherapy,deceased,49.79,TRUE,current smoker,regularly,vegetarian
+49,Sansone,,,49,Male,49,,Kingston,Canada,12-Apr-05,28.21,3,negative,FALSE,11-Jun-17,14-Jan-21,chemotherapy,deceased,106.3,TRUE,current smoker,occasionally,omnivore
+50,Florry,,,50,Female,50,,Torbay,Canada,10-Jan-21,35.92,2,negative,TRUE,04-Sep-04,02-Mar-13,radiation therapy,alive,104.7,FALSE,current smoker,regularly,vegetarian
+51,Ivan,,,51,Male,51,,Charlotte,United States,29-Dec-09,47.07,3,negative,FALSE,09-Jul-04,24-Feb-17,chemotherapy,deceased,4.12,TRUE,current smoker,regularly,omnivore
+52,Halley,,,52,Female,52,,Columbus,United States,25-Jul-02,31.61,3,negative,FALSE,30-Jul-07,15-Feb-10,surgery,deceased,31.55,FALSE,current smoker,regularly,vegan
+53,Devonna,,,53,Female,53,,Independence,United States,29-Dec-16,35.94,3,negative,FALSE,13-Jan-11,28-Sep-19,chemotherapy,deceased,111.33,TRUE,never smoked,occasionally,vegetarian
+54,Heall,,,54,Male,54,,Reno,United States,06-Sep-04,48.65,3,positive,TRUE,21-Oct-12,26-Sep-08,chemotherapy,alive,47.26,FALSE,never smoked,never,vegetarian
+55,Hewe,,,55,Male,55,,Inglewood,United States,17-Dec-06,14.77,3,negative,FALSE,01-Aug-12,25-Nov-12,surgery,deceased,31.01,TRUE,current smoker,regularly,vegan
+56,Martie,,,56,Female,56,,Cleveland,United States,23-Oct-07,4.4,1,negative,TRUE,17-Aug-09,08-Nov-06,surgery,deceased,68.4,TRUE,never smoked,never,vegetarian
+57,Reeta,,,57,Female,57,,Pembroke,Canada,12-May-06,22.96,4,negative,TRUE,16-Apr-04,04-Aug-16,chemotherapy,deceased,88.9,FALSE,current smoker,regularly,omnivore
+58,Sky,,,58,Male,58,,Amarillo,United States,28-Nov-17,42.12,1,positive,TRUE,11-May-11,24-Jan-07,chemotherapy,alive,44.82,FALSE,former smoker,never,omnivore
+59,Kimberley,,,59,Female,59,,Bridgewater,Canada,22-Feb-09,20.23,4,negative,FALSE,07-Dec-04,21-Apr-04,surgery,deceased,62.79,TRUE,former smoker,never,vegetarian
+60,Calli,,,60,Female,60,,Palmdale,United States,18-Mar-05,35.65,1,negative,FALSE,24-Oct-19,16-Apr-10,chemotherapy,alive,40.16,FALSE,former smoker,occasionally,vegan
+61,Brigida,,,61,Polygender,61,,Irving,United States,20-Jul-17,39.99,3,negative,FALSE,04-Sep-12,26-Dec-06,radiation therapy,alive,90.79,FALSE,former smoker,never,vegetarian
+62,Dolly,,,62,Female,62,,Köln,Germany,01-Sep-11,0.68,2,positive,FALSE,16-Apr-16,30-Jul-19,chemotherapy,alive,17.35,TRUE,former smoker,regularly,omnivore
+63,Candide,,,63,Female,63,,Indianapolis,United States,17-Jul-12,46.09,4,negative,TRUE,17-Jan-01,17-Dec-16,chemotherapy,deceased,102.56,FALSE,current smoker,regularly,vegan
+64,Miguelita,,,64,Female,64,,Niverville,Canada,11-Aug-17,46.96,2,negative,FALSE,08-Jul-13,02-Jul-00,chemotherapy,deceased,94.63,FALSE,former smoker,regularly,vegetarian
+65,Robert,,,65,Male,65,,Neebing,Canada,12-Jan-13,33.94,3,positive,TRUE,02-May-00,30-Mar-14,radiation therapy,deceased,42.44,FALSE,never smoked,regularly,vegan
+66,Raye,,,66,Female,66,,Washington,United States,25-Feb-18,3.11,2,negative,FALSE,01-Apr-12,17-Jan-04,radiation therapy,deceased,28.79,FALSE,current smoker,regularly,omnivore
+67,Dudley,,,67,Male,67,,Münster,Germany,14-May-10,4.34,4,positive,TRUE,24-Dec-06,13-Apr-01,radiation therapy,deceased,30.59,TRUE,never smoked,occasionally,omnivore
+68,Valaree,,,68,Female,68,,Osnabrück,Germany,26-May-14,14.22,2,positive,TRUE,14-Jul-20,08-Oct-05,radiation therapy,alive,97.37,FALSE,current smoker,regularly,vegetarian
+69,Del,,,69,Male,69,,Sutton,United Kingdom,11-Feb-18,31.02,1,negative,FALSE,06-May-20,15-Feb-03,radiation therapy,deceased,5.87,TRUE,former smoker,never,vegetarian
+70,Onofredo,,,70,Male,70,,Lexington,United States,10-Sep-11,47.99,4,negative,TRUE,12-Sep-09,22-Jun-00,radiation therapy,deceased,116.76,TRUE,former smoker,never,vegan
+71,Merwin,,,71,Male,71,,Columbus,United States,,31.47,3,negative,TRUE,29-Jun-15,05-Jun-14,radiation therapy,deceased,76.74,TRUE,current smoker,occasionally,omnivore
+72,Lind,,,72,Male,72,,Chester,Canada,,8.44,3,negative,FALSE,03-Jun-20,07-Feb-02,chemotherapy,deceased,116.27,FALSE,current smoker,occasionally,omnivore
+73,Paton,,,73,Male,73,,Hagerstown,United States,,27.21,2,positive,FALSE,26-Sep-06,05-Jan-01,chemotherapy,deceased,67.74,TRUE,current smoker,regularly,vegan
+74,Tod,,,74,,74,,Richibucto,Canada,,1.69,3,positive,TRUE,04-May-06,02-Mar-18,chemotherapy,deceased,6.81,TRUE,current smoker,never,omnivore
+75,Moll,,,75,,75,,Carson City,United States,,15.37,2,positive,TRUE,22-May-06,19-Mar-17,radiation therapy,deceased,33.86,FALSE,current smoker,occasionally,vegan
+76,Guthry,,,76,,76,,Vanderhoof,Canada,,30.43,2,negative,TRUE,29-Sep-02,13-Oct-18,radiation therapy,alive,53.89,FALSE,former smoker,occasionally,omnivore
+77,Annis,,,77,,77,,Oklahoma City,United States,,17.36,3,negative,TRUE,26-Mar-16,24-Apr-18,surgery,alive,41.38,FALSE,never smoked,never,omnivore
+78,Bertram,,,78,,78,,Birmingham,United States,,0.47,2,positive,FALSE,30-May-19,01-Nov-19,chemotherapy,deceased,61.99,FALSE,never smoked,never,vegan
+79,Godfree,,,79,,79,,Fort Lauderdale,United States,,44.94,3,negative,TRUE,12-Aug-09,28-Dec-00,radiation therapy,deceased,32.64,TRUE,current smoker,occasionally,omnivore
+80,Kandy,,,80,Genderqueer,80,,Denver,United States,,15.03,4,positive,TRUE,02-May-01,09-Jun-20,chemotherapy,alive,98.7,TRUE,former smoker,never,vegetarian
+81,Kendra,,,81,Female,81,,Durham,United States,,42.48,1,positive,FALSE,03-Mar-05,16-Jul-13,radiation therapy,deceased,82.57,FALSE,former smoker,regularly,omnivore
+82,Allan,,,82,Male,82,,Fort Smith,United States,,42.31,4,positive,TRUE,16-May-08,17-Sep-07,radiation therapy,deceased,96.19,FALSE,former smoker,occasionally,omnivore
+83,Brok,,,83,Male,83,,Orangeville,Canada,,44.96,1,positive,FALSE,08-Apr-09,03-Sep-19,radiation therapy,alive,108.56,FALSE,current smoker,never,vegan
+84,Nikoletta,,,84,Female,84,,Düsseldorf,Germany,,32.11,2,positive,FALSE,22-Jun-21,04-Oct-10,radiation therapy,alive,58.63,TRUE,never smoked,never,vegetarian
+85,Demetri,,,85,Non-binary,85,,Offenbach,Germany,,43.61,2,positive,FALSE,06-May-04,24-Jun-12,chemotherapy,deceased,109.62,TRUE,former smoker,never,omnivore
+86,Farley,,,86,Male,86,,Montague,Canada,,46.78,3,negative,FALSE,24-Aug-02,24-Oct-04,chemotherapy,deceased,97.31,TRUE,current smoker,occasionally,vegetarian
+87,Chanda,,,87,Female,87,,Chicago,United States,18-Dec-16,35.18,3,positive,TRUE,27-Feb-20,02-Apr-20,radiation therapy,alive,40.69,TRUE,former smoker,occasionally,vegetarian
+88,Susanetta,Downgate,,88,Female,88,,El Paso,United States,05-Apr-10,18.4,4,negative,TRUE,11-Jun-00,19-Oct-18,radiation therapy,alive,73.68,TRUE,current smoker,never,omnivore
+89,Sandor,Nestle,,89,Male,89,,Port Washington,United States,10-Aug-19,39.89,1,positive,FALSE,31-Oct-21,21-Mar-08,surgery,alive,104.56,FALSE,current smoker,never,vegan
+90,Alisun,Wackett,,90,Female,90,,Langford,Canada,04-Nov-13,34.2,4,positive,TRUE,19-Dec-04,11-Dec-13,chemotherapy,deceased,103.18,FALSE,former smoker,never,vegetarian
+91,Fin,Wenderott,,91,Male,91,,Savannah,United States,01-Mar-06,34.95,3,positive,FALSE,23-Nov-11,25-May-00,radiation therapy,alive,53.24,FALSE,current smoker,occasionally,vegetarian
+92,Marylinda,Wickardt,,92,Female,92,,Whitwell,United Kingdom,21-Aug-02,21.41,4,negative,TRUE,15-Dec-12,16-Jul-00,chemotherapy,deceased,92.23,TRUE,never smoked,never,vegan
+93,Xylia,Bunney,,93,Female,93,,Richmond,United States,01-Jul-01,15.09,1,positive,FALSE,28-Jan-16,14-May-12,surgery,deceased,35.02,TRUE,former smoker,regularly,vegetarian
+94,Pet,Burtt,,94,Female,94,,Charlotte,United States,25-Jul-00,17.09,2,positive,FALSE,10-May-00,04-Mar-14,radiation therapy,deceased,114.4,TRUE,current smoker,regularly,vegetarian
+95,Kirbee,Chander,,95,Female,95,,Swan Hills,Canada,10-Sep-21,3.9,4,positive,FALSE,22-Dec-09,05-Apr-04,radiation therapy,deceased,63.29,FALSE,current smoker,occasionally,omnivore
+96,Kaylee,Fosh,,96,Female,96,,Roberval,Canada,08-Jul-09,28.85,2,positive,FALSE,06-Mar-09,17-Feb-14,surgery,alive,69.36,FALSE,former smoker,regularly,vegetarian
+97,Alic,Robak,,97,Male,97,,Winter Haven,United States,08-Apr-10,27.42,2,positive,FALSE,27-Sep-07,30-Sep-19,radiation therapy,alive,17.77,FALSE,former smoker,occasionally,omnivore
+98,Melisent,Buckie,,98,Female,98,,El Paso,United States,04-Feb-04,26.31,1,negative,TRUE,16-Aug-11,06-Mar-12,surgery,deceased,83.96,TRUE,current smoker,occasionally,omnivore
+99,Bryant,Chomicki,,99,Male,99,,Collingwood,Canada,19-Jun-20,36,4,positive,FALSE,20-Jun-02,17-Sep-13,radiation therapy,alive,57.4,FALSE,current smoker,occasionally,vegan
+100,Matthiew,Heppenspall,,100,Male,100,,Alexandria,United States,26-Jun-06,22.96,2,positive,FALSE,08-Jan-05,15-Aug-06,radiation therapy,deceased,76.24,FALSE,current smoker,regularly,omnivore
+101,Brandie,Balf,,101,Female,101,,Kirkland Lake,Canada,20-Jun-20,25.86,3,negative,TRUE,27-Sep-20,29-Aug-00,surgery,deceased,14.3,TRUE,former smoker,occasionally,omnivore
+102,Nikaniki,Beneix,,102,Female,102,,Houston,United States,15-Apr-13,30.26,4,positive,FALSE,10-Feb-17,16-Jul-10,surgery,alive,40.43,TRUE,current smoker,regularly,vegan
+103,Bryn,Jouaneton,,103,Male,103,,Amherst,Canada,17-Aug-14,28.32,3,positive,FALSE,28-Aug-16,20-Jan-03,surgery,alive,102.5,FALSE,current smoker,never,omnivore
+104,Francyne,Mea,,104,Female,104,,Mont-Royal,Canada,04-Oct-13,6.02,2,negative,FALSE,13-Dec-04,31-Dec-02,surgery,alive,55.38,FALSE,former smoker,never,omnivore
+105,Davy,Dohmer,,105,Male,105,,Halton,United Kingdom,06-Aug-19,5.69,4,positive,TRUE,17-Jul-08,15-May-10,chemotherapy,alive,86.14,FALSE,current smoker,never,vegan
+106,Inesita,Jobes,,106,Female,106,,Sainte-Anne-des-Monts,Canada,14-Apr-00,34.86,2,positive,FALSE,05-Jun-08,09-Jun-04,chemotherapy,alive,18.72,FALSE,current smoker,never,omnivore
+107,Zeke,Goodluck,,107,Male,107,,Mülheim an der Ruhr,Germany,15-Aug-10,37.83,1,negative,TRUE,26-Mar-10,17-Nov-19,chemotherapy,deceased,62.14,FALSE,former smoker,never,omnivore
+108,Mary,Conry,,108,Female,108,,Gjoa Haven,Canada,13-Jan-04,46.25,2,negative,TRUE,02-Nov-18,06-Nov-10,chemotherapy,alive,60.08,FALSE,former smoker,never,omnivore
+109,Lynnette,Haliday,,109,Female,109,,Jamaica,United States,24-Jan-02,6.25,4,negative,FALSE,21-Aug-08,08-Apr-05,surgery,alive,116.12,TRUE,never smoked,occasionally,vegetarian
+110,Jayne,Lamprecht,,110,Female,110,,Cumming,United States,13-Sep-08,24.8,2,negative,FALSE,14-Sep-06,15-Mar-21,surgery,deceased,109.35,TRUE,never smoked,never,vegetarian
+111,Alon,Jerdan,,111,Male,111,,Calmar,Canada,04-Aug-00,34.95,4,negative,FALSE,06-Jun-02,16-Oct-11,surgery,alive,29.83,TRUE,former smoker,never,omnivore
+112,Ava,Bautiste,,112,Female,112,,Mont-Joli,Canada,25-Mar-14,27.47,3,positive,FALSE,23-May-03,07-Oct-10,chemotherapy,alive,38.37,TRUE,current smoker,regularly,omnivore
+113,Yul,Mordon,,113,Male,113,,Peachland,Canada,31-Oct-15,18.98,3,positive,TRUE,01-Jun-04,02-Jul-16,chemotherapy,alive,53.79,FALSE,former smoker,regularly,omnivore
+114,Beatriz,Dine-Hart,,114,Female,114,,Atlanta,United States,07-Apr-21,33.6,2,positive,TRUE,03-Jun-04,23-May-13,surgery,deceased,87.54,FALSE,former smoker,regularly,vegan
+115,Charin,Rosnau,,115,Female,115,,Newport News,United States,06-Feb-18,21.22,1,positive,TRUE,29-Dec-01,06-Mar-07,surgery,alive,63.29,TRUE,never smoked,regularly,vegan
+116,Mylo,Becks,,116,Male,116,,Frankfort,United States,16-Nov-11,40.8,4,positive,FALSE,15-Jul-00,17-Nov-03,surgery,alive,54.11,FALSE,former smoker,occasionally,omnivore
+117,Matti,Rossoni,,117,Female,117,,Herne,Germany,06-Dec-15,40.18,2,positive,FALSE,23-Feb-20,22-Oct-21,surgery,deceased,46.15,FALSE,never smoked,regularly,vegetarian
+118,Maggy,Hewertson,,118,Female,118,,Toledo,United States,28-May-09,33.7,2,negative,FALSE,18-Aug-10,03-Oct-10,chemotherapy,deceased,73.76,TRUE,never smoked,occasionally,vegetarian
+119,Chico,Izkovicz,,119,Non-binary,119,,Sechelt,Canada,06-Jan-19,35.83,2,negative,TRUE,03-Dec-02,18-May-08,chemotherapy,alive,118.83,FALSE,current smoker,regularly,omnivore
+120,Rube,Furney,,120,Male,120,,Ottawa,Canada,05-Mar-20,41.75,2,negative,FALSE,24-Feb-01,16-Sep-11,surgery,deceased,9.59,FALSE,current smoker,never,omnivore
+121,Chryste,Reddel,creddel3c@loc.gov,121,Female,121,,Dieppe,Canada,22-May-01,37.9,4,negative,FALSE,19-Feb-06,27-Apr-21,chemotherapy,deceased,0.92,TRUE,never smoked,occasionally,vegetarian
+122,Jada,Segrott,jsegrott3d@chicagotribune.com,122,Female,122,,Detroit,United States,29-Dec-11,36.21,1,negative,TRUE,21-Dec-05,24-Feb-17,chemotherapy,deceased,21.44,FALSE,never smoked,regularly,vegan
+123,Sholom,Sweetlove,ssweetlove3e@merriam-webster.com,123,Male,123,,Wilmington,United States,15-Jul-01,11.35,4,negative,FALSE,03-Sep-00,12-May-20,chemotherapy,alive,13.78,TRUE,current smoker,occasionally,vegetarian
+124,Gerhard,Float,gfloat3f@constantcontact.com,124,Male,124,,Hamburg,Germany,05-Feb-13,21.53,3,negative,TRUE,21-Aug-17,18-Oct-11,radiation therapy,alive,100.45,FALSE,former smoker,occasionally,vegetarian
+125,Andria,Sedworth,asedworth3g@msu.edu,125,Female,125,,Pont-Rouge,Canada,08-Nov-19,13,2,negative,FALSE,25-Dec-02,04-Apr-21,chemotherapy,deceased,0.15,FALSE,former smoker,never,vegan
+126,Gerrie,Corbitt,gcorbitt3h@dagondesign.com,126,Female,126,,Saint Petersburg,United States,30-Jan-16,26.16,4,positive,TRUE,04-Mar-20,03-Dec-10,surgery,alive,85.13,FALSE,current smoker,never,omnivore
+127,Kissiah,Dufaire,kdufaire3i@google.com.au,127,Female,127,,Herne,Germany,26-Mar-10,40.06,2,negative,TRUE,27-Aug-11,20-Apr-01,radiation therapy,alive,47.96,FALSE,former smoker,never,vegan
+128,Loraine,Ottosen,lottosen3j@hatena.ne.jp,128,Agender,128,,Staten Island,United States,06-Sep-20,48.53,4,positive,TRUE,23-Mar-10,16-Jun-13,chemotherapy,deceased,44.77,FALSE,former smoker,never,vegetarian
+129,Jana,Yude,jyude3k@adobe.com,129,Female,129,,Bonavista,Canada,11-Jun-18,25.55,3,positive,TRUE,09-Nov-08,11-Sep-06,radiation therapy,alive,22.39,TRUE,former smoker,never,vegan
+130,Kylen,Drejer,kdrejer3l@tinypic.com,130,Female,130,,Santa Rosa,United States,31-Dec-12,15.87,1,positive,TRUE,07-Jun-02,07-Jul-18,surgery,deceased,28.54,FALSE,never smoked,occasionally,vegetarian
+131,Maitilde,Simper,msimper3m@sohu.com,131,Female,131,,Ferme-Neuve,Canada,23-Oct-06,33.92,4,positive,FALSE,17-Aug-12,15-Sep-18,surgery,deceased,16.51,FALSE,current smoker,regularly,omnivore
+132,Athene,Hammerstone,ahammerstone3n@deviantart.com,132,Female,132,,Warwick,Canada,21-May-11,45.47,2,positive,FALSE,01-Jul-00,12-Nov-17,chemotherapy,alive,49.77,TRUE,former smoker,regularly,omnivore
+133,Miguela,Dumphrey,mdumphrey3o@mac.com,133,Female,133,,San Diego,United States,22-Nov-20,20.73,2,negative,FALSE,29-Sep-19,25-Jul-02,surgery,alive,47.62,FALSE,former smoker,regularly,vegetarian
+134,Jo,Petrashkov,jpetrashkov3p@360.cn,134,Male,134,,L'Assomption,Canada,03-Sep-00,37.61,3,positive,TRUE,11-Jul-07,03-Sep-21,radiation therapy,alive,91.46,FALSE,former smoker,never,omnivore
+135,Orran,See,osee3q@goo.ne.jp,135,Male,135,,Fresno,United States,01-Aug-17,24.58,1,negative,FALSE,02-Jun-20,15-Oct-07,surgery,deceased,16.55,TRUE,current smoker,occasionally,vegetarian
+136,Arlyne,Abson,aabson3r@theatlantic.com,136,Female,136,,Bells Corners,Canada,30-Jun-13,40.33,3,positive,FALSE,31-Dec-12,25-Dec-09,radiation therapy,deceased,20.47,TRUE,former smoker,regularly,vegan
+137,Mendel,Gavahan,mgavahan3s@myspace.com,137,Male,137,,Rosthern,Canada,16-May-09,37.4,4,negative,TRUE,21-Dec-18,21-Jun-08,radiation therapy,alive,24.39,TRUE,current smoker,never,omnivore
+138,Deanne,Attride,dattride3t@parallels.com,138,Female,138,,Amqui,Canada,13-Apr-15,18.99,3,positive,FALSE,06-Sep-17,05-Jun-05,surgery,alive,32.85,TRUE,never smoked,regularly,vegan
+139,Deerdre,Bearsmore,dbearsmore3u@wikia.com,139,Female,139,,Craigavon,United Kingdom,20-Jan-01,10.34,4,positive,TRUE,17-May-13,17-Dec-19,radiation therapy,deceased,55.71,TRUE,current smoker,regularly,vegan
+140,Freddie,Herrieven,fherrieven3v@ehow.com,140,Male,140,,Charlottetown,Canada,24-Jun-06,33.9,3,negative,FALSE,23-Nov-21,14-Nov-09,surgery,alive,62.71,FALSE,former smoker,never,omnivore
+141,Denice,Skellorne,dskellorne3w@house.gov,141,Female,141,,Las Vegas,United States,26-Oct-17,254.53,2,negative,TRUE,24-Mar-15,17-May-17,chemotherapy,deceased,30.94,TRUE,former smoker,occasionally,vegan
+142,Avery,Suatt,asuatt3x@themeforest.net,142,Male,142,,Washington,United States,29-Jun-01,25.92,4,positive,TRUE,26-May-12,03-Jan-01,surgery,deceased,69.82,TRUE,never smoked,never,omnivore
+143,Elmira,Lorenzetto,elorenzetto3y@edublogs.org,143,Female,143,,Aldergrove,Canada,30-Mar-20,24.07,4,positive,FALSE,26-Mar-14,04-Jun-08,radiation therapy,alive,80.06,TRUE,never smoked,occasionally,omnivore
+144,Thorin,Dentith,tdentith3z@nationalgeographic.com,144,Male,144,,Washington,United States,09-Nov-12,7.98,1,positive,TRUE,07-Apr-04,06-Jan-16,chemotherapy,alive,69.84,TRUE,never smoked,occasionally,vegan
+145,Tedda,Warfield,twarfield40@cafepress.com,145,Female,145,,Coaldale,Canada,15-Apr-20,6.53,1,positive,TRUE,25-Jul-16,27-May-03,surgery,alive,56.96,TRUE,never smoked,occasionally,omnivore
+146,Deny,Cockcroft,dcockcroft41@nytimes.com,146,Female,146,,Port Washington,United States,13-Aug-17,11.35,1,positive,TRUE,13-Feb-14,05-Nov-14,radiation therapy,alive,35.83,FALSE,former smoker,never,omnivore
+147,Karalynn,Shenton,kshenton42@elpais.com,147,Female,147,,La Sarre,Canada,05-Sep-21,45.86,4,negative,FALSE,11-Dec-06,25-Dec-04,radiation therapy,alive,77.82,TRUE,former smoker,regularly,vegan
+148,Rubi,Spall,rspall43@marketwatch.com,148,Female,148,,Dieppe,Canada,27-Jul-16,24.27,3,negative,TRUE,21-Jun-20,06-Feb-09,surgery,alive,3.26,FALSE,never smoked,regularly,vegan
+149,Moira,Quesne,mquesne44@twitpic.com,149,Female,149,,Lac-Brome,Canada,09-Mar-02,47.74,1,positive,FALSE,23-Mar-08,25-Apr-16,surgery,deceased,25.5,FALSE,never smoked,occasionally,vegan
+150,Marcelo,Eastman,meastman45@wordpress.com,150,Male,150,,Melville,Canada,22-Nov-15,17.14,1,negative,TRUE,26-May-11,12-May-04,surgery,deceased,58.44,FALSE,never smoked,occasionally,vegetarian
+151,Chester,Yude,cyude46@chronoengine.com,151,Male,151,,Dresden,Germany,28-Mar-10,22.18,4,negative,TRUE,04-Jul-19,30-Aug-09,surgery,alive,95.97,TRUE,never smoked,never,vegan
+152,Vitia,Havers,vhavers47@java.com,152,Female,152,,Carson City,United States,12-May-13,42.94,3,positive,TRUE,07-Nov-16,25-Aug-18,surgery,alive,21.83,TRUE,former smoker,occasionally,vegan
+153,Eimile,Varian,evarian48@is.gd,153,Female,153,,Claresholm,Canada,01-Nov-14,14.54,3,negative,TRUE,28-May-14,04-Oct-17,radiation therapy,alive,119.97,FALSE,former smoker,regularly,omnivore
+154,Shepperd,Sharer,ssharer49@360.cn,154,Male,154,,San Antonio,United States,02-Jan-18,49.34,4,positive,TRUE,23-Dec-20,19-Oct-13,chemotherapy,alive,43.73,FALSE,former smoker,occasionally,vegetarian
+155,Happy,John,hjohn4a@amazon.de,155,Genderfluid,155,,Philadelphia,United States,27-Jun-11,12.79,4,positive,TRUE,23-Mar-12,12-Feb-18,surgery,deceased,16.61,TRUE,never smoked,never,vegan
+156,Latrina,Arnal,larnal4b@soundcloud.com,156,Female,156,,Merton,United Kingdom,27-Jun-20,3.54,3,negative,TRUE,29-Sep-02,06-Jan-16,radiation therapy,alive,28.75,TRUE,never smoked,occasionally,omnivore
+157,Ervin,Youster,eyouster4c@utexas.edu,157,Male,157,,Havre-Saint-Pierre,Canada,18-May-18,38.84,3,negative,TRUE,23-Aug-09,30-Apr-21,radiation therapy,deceased,57.24,TRUE,never smoked,regularly,omnivore
+158,Fulton,Kedslie,fkedslie4d@nps.gov,158,Polygender,158,,Wuppertal,Germany,09-Jun-08,48.14,4,negative,FALSE,03-Nov-06,19-Dec-14,radiation therapy,deceased,88.28,TRUE,former smoker,never,vegetarian
+159,Polly,Boxe,pboxe4e@globo.com,159,Female,159,,Bouctouche,Canada,25-Apr-00,0.57,1,positive,TRUE,02-Feb-11,01-May-02,chemotherapy,deceased,16.95,TRUE,never smoked,never,vegan
+160,Lothario,Springford,lspringford4f@g.co,160,Male,160,,Ingersoll,Canada,29-May-07,20.49,1,negative,FALSE,28-Feb-08,27-Feb-14,radiation therapy,deceased,44.83,FALSE,never smoked,occasionally,omnivore
+161,Florina,O'Donohue,fodonohue4g@shutterfly.com,161,Female,161,,Stapleford,United Kingdom,25-May-19,30.95,2,negative,FALSE,21-May-06,05-Oct-12,surgery,deceased,44.68,TRUE,never smoked,occasionally,omnivore
+162,Ariella,Pearse,apearse4h@jugem.jp,162,Female,162,,Saint-Bruno-de-Guigues,Canada,11-Sep-14,0.99,4,positive,TRUE,13-Apr-02,11-Aug-10,surgery,alive,112.23,FALSE,former smoker,occasionally,vegan
+163,Maximo,Mullin,mmullin4i@cdc.gov,163,Male,163,76,Birmingham,United States,02-Apr-17,0.7,3,positive,TRUE,07-May-02,01-Mar-20,surgery,deceased,55.46,TRUE,current smoker,regularly,omnivore
+164,Robers,Costanza,rcostanza4j@usa.gov,164,Male,164,17,Saint Cloud,United States,20-Mar-02,19.78,3,negative,FALSE,13-Jan-05,07-Jul-11,surgery,deceased,89.59,TRUE,never smoked,never,omnivore
+165,Brear,de Villier,bdevillier4k@epa.gov,165,Genderfluid,165,67,Tulsa,United States,04-Oct-20,49.14,3,negative,FALSE,23-Mar-00,04-Jul-03,radiation therapy,alive,95.27,TRUE,current smoker,occasionally,omnivore
+166,Iolande,Kunrad,ikunrad4l@bloglines.com,166,Female,166,112,Gainesville,United States,22-May-21,11.06,3,positive,TRUE,27-Mar-05,07-Jun-11,chemotherapy,deceased,102.66,TRUE,current smoker,never,vegan
+167,Claudian,Drakeley,cdrakeley4m@posterous.com,167,Male,167,105,Anmore,Canada,10-Nov-01,31.5,2,negative,FALSE,13-Sep-07,22-Nov-13,surgery,deceased,15.16,FALSE,never smoked,regularly,vegan
+168,Mitchael,Riddoch,mriddoch4n@theglobeandmail.com,168,Male,168,39,Thompson,Canada,01-Mar-00,13.17,3,positive,FALSE,29-Oct-01,26-Apr-04,radiation therapy,deceased,115.47,TRUE,current smoker,regularly,vegetarian
+169,Clair,Dorcey,cdorcey4o@acquirethisname.com,169,Female,169,9,Sainte-Marthe-sur-le-Lac,Canada,22-Nov-00,38.95,4,negative,TRUE,11-Dec-17,28-Dec-11,surgery,deceased,22.67,TRUE,never smoked,regularly,omnivore
+170,Jillian,Gritskov,jgritskov4p@pagesperso-orange.fr,170,Female,170,92,Stratford,Canada,29-Aug-00,47.58,3,negative,TRUE,01-Mar-06,03-Mar-15,chemotherapy,deceased,113.86,FALSE,current smoker,never,omnivore
+171,Marris,MacUchadair,mmacuchadair4q@salon.com,171,Female,171,62,Greensboro,United States,29-Mar-10,21.9,3,negative,FALSE,30-Jan-05,18-Oct-19,radiation therapy,deceased,11.46,FALSE,never smoked,regularly,vegetarian
+172,Ronni,Danilowicz,rdanilowicz4r@forbes.com,172,Female,172,29,Denver,United States,05-Mar-18,46.54,2,positive,TRUE,12-Sep-21,23-Jun-10,surgery,alive,65.52,FALSE,current smoker,regularly,omnivore
+173,Hertha,Cockshoot,hcockshoot4s@naver.com,173,Female,173,66,Sacramento,United States,11-Jul-09,6.52,2,negative,TRUE,07-Apr-12,29-Sep-09,chemotherapy,alive,30.42,TRUE,current smoker,never,vegan
+174,Gustie,Linsay,glinsay4t@apache.org,174,Female,174,1,Terre Haute,United States,06-Apr-19,8.94,1,positive,TRUE,09-May-08,11-Sep-16,chemotherapy,deceased,68.3,FALSE,never smoked,never,vegetarian
+175,Jordon,Episcopio,jepiscopio4u@clickbank.net,175,Male,175,28,Boston,United States,07-Apr-12,3.54,2,negative,TRUE,28-Feb-03,10-Aug-12,chemotherapy,alive,21.64,FALSE,never smoked,occasionally,omnivore
+176,Emmit,Isaak,eisaak4v@digg.com,176,Male,176,96,Québec,Canada,28-Jul-18,33.82,3,negative,FALSE,18-Dec-19,29-Jun-03,radiation therapy,deceased,70.59,FALSE,never smoked,never,vegan
+177,Dew,Ramalhete,dramalhete4w@sun.com,177,Male,177,13,Sainte-Anne-des-Monts,Canada,01-Aug-19,12.58,4,negative,FALSE,08-May-06,19-Mar-21,radiation therapy,deceased,119.91,TRUE,former smoker,regularly,vegan
+178,Linzy,Swaine,lswaine4x@shinystat.com,178,Non-binary,178,42,Round Rock,United States,05-Sep-13,2.47,2,negative,FALSE,28-May-15,09-Nov-09,chemotherapy,deceased,48.47,TRUE,never smoked,occasionally,vegan
+179,Aubry,Eates,aeates4y@marriott.com,179,Female,179,32,Alhambra,United States,20-Jan-17,6.07,2,positive,TRUE,06-Jun-04,13-May-20,chemotherapy,deceased,100.64,TRUE,current smoker,never,vegan
+180,Florentia,Napper,fnapper4z@e-recht24.de,180,Female,180,90,Melfort,Canada,11-Apr-16,7,1,negative,TRUE,18-Oct-13,07-Oct-20,surgery,deceased,9.52,TRUE,never smoked,regularly,vegetarian
+181,Keeley,Trethowan,ktrethowan50@studiopress.com,181,Genderfluid,181,51,Bradenton,United States,06-Sep-00,12.81,2,positive,TRUE,27-Oct-09,07-Jul-21,chemotherapy,deceased,33.5,TRUE,former smoker,regularly,omnivore
+182,Jenn,Croucher,jcroucher51@simplemachines.org,182,Female,182,17,Waterloo,Canada,26-Aug-04,37.22,2,negative,FALSE,19-Feb-07,11-Apr-03,surgery,deceased,104.41,TRUE,current smoker,occasionally,vegetarian
+183,Sidney,Fredy,sfredy52@cafepress.com,183,Male,183,23,Los Angeles,United States,28-Oct-17,16.18,1,positive,TRUE,07-May-20,23-May-10,radiation therapy,deceased,19.03,FALSE,never smoked,occasionally,vegan
+184,Anny,Lansdowne,alansdowne53@boston.com,184,Female,184,7,Raleigh,United States,16-Sep-17,35.72,3,positive,TRUE,16-Sep-13,15-Nov-14,chemotherapy,alive,88.6,TRUE,never smoked,regularly,vegan
+185,Tina,Sinfield,tsinfield54@hhs.gov,185,Female,185,115,Dayton,United States,02-Aug-00,28.83,3,positive,FALSE,26-Jul-14,09-Jan-07,radiation therapy,alive,12.26,TRUE,current smoker,occasionally,vegan
+186,Tallia,Maes,tmaes55@lycos.com,186,Female,186,24,Columbus,United States,01-Jan-16,18.19,4,negative,TRUE,18-May-19,03-Sep-00,surgery,alive,9.63,TRUE,current smoker,occasionally,vegetarian
+187,Danika,Campa,dcampa56@apple.com,187,Female,187,101,Marieville,Canada,01-Jun-13,0.08,3,negative,TRUE,22-May-04,02-May-11,surgery,alive,117.43,TRUE,never smoked,regularly,omnivore
+188,Whit,Medcalf,wmedcalf57@ed.gov,188,Genderqueer,188,65,Mont-Joli,Canada,13-Dec-13,2.21,1,positive,FALSE,28-Dec-12,10-Jun-03,surgery,alive,119.46,FALSE,never smoked,occasionally,vegan
+189,Sibby,Druett,sdruett58@unc.edu,189,Female,189,49,Saint-Tite,Canada,25-Mar-07,45.68,3,negative,FALSE,31-Aug-20,05-Aug-21,radiation therapy,alive,47.25,TRUE,current smoker,regularly,vegan
+190,Al,Pohl,apohl59@china.com.cn,190,Male,190,1,Lacolle,Canada,30-Aug-17,33.69,1,positive,TRUE,22-Dec-19,24-Mar-16,radiation therapy,deceased,23.12,FALSE,never smoked,occasionally,omnivore
+191,Reine,Dougal,rdougal5a@gravatar.com,191,Female,191,88,Minneapolis,United States,30-Dec-15,27.15,4,positive,TRUE,01-Aug-09,15-Dec-13,radiation therapy,deceased,25.38,TRUE,never smoked,never,vegan
+192,Collin,Berardt,cberardt5b@bluehost.com,192,Male,192,104,Oshawa,Canada,25-Mar-14,20.35,3,negative,TRUE,03-Jun-18,24-Dec-06,surgery,deceased,65.83,TRUE,never smoked,occasionally,omnivore
+193,Michaela,Axel,maxel5c@ameblo.jp,193,Female,193,68,Indianapolis,United States,10-Apr-05,32.62,4,negative,TRUE,01-Dec-14,15-Apr-04,chemotherapy,deceased,64.79,FALSE,current smoker,regularly,omnivore
+194,Benedetta,Glasgow,bglasgow5d@blogger.com,194,Female,194,112,Thessalon,Canada,26-Jul-04,0.02,2,positive,TRUE,14-Mar-15,05-May-03,surgery,alive,67.75,FALSE,former smoker,regularly,vegan
+195,Guillermo,Shorto,gshorto5e@fotki.com,195,Male,195,109,Great Neck,United States,08-Feb-02,14.59,1,positive,TRUE,30-Jan-02,30-Jul-03,chemotherapy,alive,31.7,FALSE,former smoker,never,vegetarian
+196,Meris,Grellis,mgrellis5f@storify.com,196,Female,196,19,Tampa,United States,24-Jul-15,48.03,1,negative,TRUE,21-Apr-00,12-May-14,chemotherapy,deceased,68.09,FALSE,former smoker,never,vegan
+197,Rollie,Wands,rwands5g@yolasite.com,197,Male,197,36,Cookshire-Eaton,Canada,18-Feb-13,40.91,1,negative,FALSE,12-Dec-04,22-Jun-13,surgery,deceased,1.11,TRUE,current smoker,occasionally,omnivore
+198,Quintus,Vannuccinii,qvannuccinii5h@joomla.org,198,Male,198,78,Kimberley,Canada,30-Jun-07,46.98,2,positive,FALSE,20-Oct-21,13-Sep-05,chemotherapy,deceased,66.35,TRUE,current smoker,regularly,omnivore
+199,Darby,De Carolis,ddecarolis5i@prlog.org,199,Female,199,117,Carleton Place,Canada,03-Jun-08,41.64,2,negative,FALSE,26-Oct-01,24-Dec-16,radiation therapy,alive,89.84,TRUE,former smoker,regularly,vegan
+200,Tome,O'Bradden,tobradden5j@mysql.com,200,Male,200,22,Akron,United States,03-Feb-08,28.78,1,negative,TRUE,15-Aug-09,18-Nov-11,chemotherapy,deceased,106.47,TRUE,former smoker,occasionally,vegan
+201,Catlaina,Dauncey,cdauncey5k@yale.edu,201,Female,201,84,Hamburg,Germany,03-Jul-19,46.6,2,positive,TRUE,09-Nov-14,20-Jan-21,chemotherapy,deceased,115.42,FALSE,never smoked,occasionally,omnivore
+202,Rutger,Gaughan,rgaughan5l@furl.net,202,Male,202,67,Gainesville,United States,18-Mar-02,31.28,3,negative,TRUE,03-Jun-09,13-Aug-11,surgery,alive,76.77,FALSE,current smoker,never,vegetarian
+203,Arleta,Surcombe,asurcombe5m@blogs.com,203,Female,203,117,Chase,Canada,18-Oct-17,36.33,1,positive,FALSE,10-Oct-07,14-May-00,radiation therapy,alive,111.03,TRUE,former smoker,never,vegan
+204,Tybalt,Malletratt,tmalletratt5n@timesonline.co.uk,204,Male,204,33,Prince Edward,Canada,12-Jan-13,19.46,2,positive,FALSE,29-Mar-04,23-Aug-12,chemotherapy,alive,98.46,TRUE,never smoked,occasionally,omnivore
+205,Harmonie,Tarr,htarr5o@spotify.com,205,Female,205,41,Virginia Beach,United States,14-Jul-21,36.51,2,negative,TRUE,15-Aug-18,19-Dec-18,radiation therapy,alive,74.81,FALSE,current smoker,regularly,vegan
+206,Renaldo,Crake,rcrake5p@a8.net,206,Male,206,77,Cincinnati,United States,09-Dec-03,5.82,1,positive,TRUE,20-Jan-14,04-Jul-11,chemotherapy,alive,14.47,TRUE,current smoker,never,vegetarian
+207,Adams,Harbin,aharbin5q@skype.com,207,Male,207,51,Baltimore,United States,14-Nov-08,19.23,3,positive,FALSE,18-May-12,04-Dec-08,surgery,deceased,82.11,TRUE,current smoker,occasionally,vegan
+208,Stephanie,Sommer,ssommer5r@sogou.com,208,Female,208,48,Summerside,Canada,03-Sep-08,5.16,2,positive,FALSE,24-Nov-09,10-May-09,radiation therapy,deceased,63.99,TRUE,current smoker,never,vegetarian
+209,Kimberley,Merfin,kmerfin5s@prnewswire.com,209,Female,209,100,Bradenton,United States,26-May-05,27.37,1,negative,TRUE,02-Aug-15,04-Nov-04,chemotherapy,deceased,81.65,FALSE,current smoker,occasionally,omnivore
+210,Richie,Halston,rhalston5t@slashdot.org,210,Male,210,4,Irving,United States,21-Aug-13,43.71,3,negative,FALSE,19-Mar-07,07-Jun-12,radiation therapy,deceased,98.51,FALSE,former smoker,never,vegetarian
+211,Aubrey,Sallan,asallan5u@artisteer.com,211,Female,211,88,München,Germany,17-Jan-04,37.01,1,positive,FALSE,18-Nov-08,18-Oct-02,surgery,alive,64.87,TRUE,never smoked,occasionally,vegan
+212,Marlyn,McBrady,mmcbrady5v@icio.us,212,Female,212,95,West Palm Beach,United States,13-Jan-11,24.7,2,negative,TRUE,12-Jan-07,26-Oct-05,surgery,deceased,87.87,TRUE,never smoked,never,vegetarian
+213,Laurie,Dodgshon,ldodgshon5w@cyberchimps.com,213,Male,213,39,North Cowichan,Canada,23-Feb-08,12.09,2,negative,FALSE,14-Feb-11,15-Jan-19,surgery,deceased,57.41,FALSE,former smoker,regularly,vegetarian
+214,Trisha,Lashmar,tlashmar5x@example.com,214,Agender,214,6,Cornwall,Canada,18-Apr-02,37.04,2,positive,FALSE,25-May-09,01-Sep-10,radiation therapy,deceased,55.55,FALSE,former smoker,occasionally,vegetarian
+215,Orlando,McMearty,omcmearty5y@mayoclinic.com,215,Male,215,63,Saint Louis,United States,29-Aug-20,31.02,1,negative,TRUE,08-Oct-15,29-May-17,chemotherapy,alive,36.79,TRUE,former smoker,regularly,omnivore
+216,Shell,Turpie,sturpie5z@soup.io,216,Male,216,47,Olds,Canada,21-May-12,29.95,3,negative,TRUE,27-Jan-00,16-Aug-16,chemotherapy,deceased,42.14,FALSE,former smoker,occasionally,omnivore
+217,Rori,Humble,rhumble60@infoseek.co.jp,217,Genderfluid,217,17,Richibucto,Canada,18-Jul-20,17.78,2,negative,FALSE,10-Jun-00,22-Jun-00,chemotherapy,deceased,2.25,TRUE,former smoker,regularly,vegetarian
+218,Fidole,Bootland,fbootland61@umn.edu,218,Male,218,178,New York City,United States,10-Jun-18,30.57,4,positive,TRUE,07-Apr-03,14-Sep-20,chemotherapy,alive,70.25,FALSE,former smoker,regularly,omnivore
+219,Obidiah,Reeson,oreeson62@desdev.cn,219,Male,219,19,Philadelphia,United States,15-Dec-20,11.42,2,positive,FALSE,30-Sep-20,19-Aug-19,surgery,alive,25.73,FALSE,former smoker,never,omnivore
+220,Lonna,Kowalik,lkowalik63@usda.gov,220,Female,220,1500,Mesa,United States,15-Feb-20,36.75,3,positive,TRUE,18-Jan-12,17-Jun-14,chemotherapy,deceased,104.02,TRUE,never smoked,regularly,vegan
+221,Larissa,Puvia,lpuvia64@accuweather.com,221,Female,221,106,Des Moines,United States,27-May-15,21.07,2,positive,FALSE,14-Jun-09,09-Jan-18,surgery,deceased,87.51,TRUE,never smoked,occasionally,omnivore
+222,Tibold,Lamdin,tlamdin65@adobe.com,222,Male,222,120,Remscheid,Germany,20-Mar-10,33.7,2,negative,FALSE,03-Dec-14,01-Jun-02,surgery,deceased,87.07,FALSE,current smoker,never,vegetarian
+223,Ruby,Dadley,rdadley66@bloglovin.com,223,Female,223,70,Bécancour,Canada,26-Apr-13,24.66,2,negative,TRUE,27-Feb-00,14-Jun-06,surgery,deceased,71.19,FALSE,never smoked,occasionally,omnivore
+224,Cassie,Diver,cdiver67@nature.com,224,Female,224,15,Hantsport,Canada,05-Jun-10,5.06,4,positive,TRUE,16-Mar-08,03-Jul-15,chemotherapy,deceased,62.25,FALSE,former smoker,never,omnivore
+225,Teri,Lunge,tlunge68@instagram.com,225,Female,225,10,Fullerton,United States,15-Sep-00,0.96,3,positive,TRUE,02-Jan-07,04-Jun-06,surgery,deceased,70.04,TRUE,former smoker,occasionally,vegetarian
+226,Arly,Meadmore,ameadmore69@google.ca,226,Female,226,88,Casselman,Canada,11-Nov-17,31.22,2,positive,TRUE,19-Jan-14,22-Jan-20,surgery,alive,24.5,TRUE,never smoked,never,vegan
+227,Care,Naisbitt,cnaisbitt6a@berkeley.edu,227,Male,227,108,Torbay,Canada,02-Dec-13,32.03,1,negative,TRUE,01-Dec-21,09-Jul-09,chemotherapy,deceased,72.53,TRUE,current smoker,occasionally,omnivore
+228,Bekki,Hancke,bhancke6b@mozilla.com,228,Female,228,43,Rochester,United States,20-Dec-11,17.42,1,positive,FALSE,24-Apr-16,04-Aug-07,surgery,deceased,117.14,FALSE,former smoker,regularly,vegetarian
+229,Vinny,Bullin,vbullin6c@dmoz.org,229,Male,229,65,Knoxville,United States,24-Dec-00,37.61,3,negative,TRUE,18-Jul-21,01-May-09,surgery,alive,59.88,FALSE,never smoked,never,vegetarian
+230,Blakelee,Earle,bearle6d@ucla.edu,230,Female,230,79,Nanaimo,Canada,22-Jun-02,28.16,3,negative,FALSE,27-Mar-08,02-May-11,radiation therapy,deceased,9.53,FALSE,never smoked,occasionally,vegetarian
+231,Brant,Mandel,bmandel6e@amazon.com,231,Male,231,51,Ingersoll,Canada,30-Apr-18,2.46,4,positive,TRUE,26-Sep-21,05-Oct-16,surgery,alive,98.84,FALSE,never smoked,regularly,vegan
+232,Albertine,Kinder,akinder6f@patch.com,232,Female,232,82,Wilkes Barre,United States,31-Aug-14,27.77,3,positive,TRUE,19-Aug-00,05-Dec-03,radiation therapy,alive,117.23,FALSE,current smoker,occasionally,vegan
+233,Adore,Surgison,asurgison6g@yahoo.com,233,Female,233,69,San Antonio,United States,14-Jul-06,43.45,4,negative,FALSE,27-Feb-18,23-Oct-13,radiation therapy,alive,54.16,FALSE,former smoker,occasionally,omnivore
+234,Norris,Pinchen,npinchen6h@mayoclinic.com,234,Male,234,4,Las Vegas,United States,06-May-17,8.54,3,positive,TRUE,04-Jun-04,05-Jan-20,surgery,alive,75.21,FALSE,current smoker,regularly,vegetarian
+235,Sallyanne,Kalisz,skalisz6i@auda.org.au,235,Female,235,95,Danville,Canada,18-Oct-06,12.88,4,negative,FALSE,18-Jul-04,03-May-12,chemotherapy,alive,17.67,FALSE,former smoker,occasionally,omnivore
+236,Emmit,Pechan,epechan6j@over-blog.com,236,Bigender,236,86,London,United Kingdom,03-Feb-14,18.53,1,negative,TRUE,21-Nov-09,21-Apr-11,surgery,alive,64.87,FALSE,never smoked,never,omnivore
+237,Serene,Brasted,sbrasted6k@who.int,237,Female,237,10,Cincinnati,United States,11-Aug-14,7.08,1,negative,FALSE,05-Oct-08,11-May-20,chemotherapy,alive,53.87,TRUE,never smoked,never,vegan
+238,Carmon,Hammett,chammett6l@blog.com,238,Genderqueer,238,13,Nürnberg,Germany,28-Feb-17,18.48,4,negative,FALSE,24-Dec-09,01-Jun-17,radiation therapy,deceased,109.86,TRUE,never smoked,never,vegan
+239,Angelique,Brislan,abrislan6m@upenn.edu,239,Female,239,51,Sacramento,United States,04-Dec-12,44.91,1,negative,TRUE,17-Feb-01,20-May-01,chemotherapy,deceased,108.94,FALSE,former smoker,regularly,vegetarian
+240,Wilone,Stocking,wstocking6n@1688.com,240,Female,240,55,Saint Louis,United States,12-Jan-16,16.17,3,positive,TRUE,23-Nov-07,02-Dec-17,surgery,deceased,67.09,TRUE,current smoker,regularly,omnivore
+241,Olvan,Hinrichs,ohinrichs6o@vistaprint.com,241,Male,241,117,Los Angeles,United States,18-Feb-00,23.44,3,negative,TRUE,01-Feb-18,19-Mar-02,radiation therapy,deceased,0.07,FALSE,never smoked,never,vegan
+242,Hiram,Rowly,hrowly6p@odnoklassniki.ru,242,Male,242,58,Kamloops,Canada,31-Oct-20,41.75,1,negative,FALSE,22-Apr-05,09-Jun-20,surgery,deceased,22.42,TRUE,former smoker,occasionally,vegan
+243,Zsa zsa,Bayly,zbayly6q@etsy.com,243,Female,243,96,Lions Bay,Canada,23-Mar-05,39.57,4,negative,FALSE,13-Jul-08,21-Dec-05,chemotherapy,deceased,99.96,FALSE,current smoker,regularly,vegan
+244,Galven,Olivetta,golivetta6r@angelfire.com,244,Male,244,34,Athabasca,Canada,09-May-10,24.74,1,positive,FALSE,20-Nov-01,20-Oct-12,chemotherapy,deceased,14.79,TRUE,current smoker,occasionally,vegan
+245,Cullan,Mechan,cmechan6s@technorati.com,245,Male,245,80,Lions Bay,Canada,03-Jul-13,38.98,1,negative,FALSE,27-Sep-03,02-Jul-02,radiation therapy,deceased,59.19,FALSE,former smoker,regularly,vegan
+246,Frans,Sybbe,fsybbe6t@ebay.com,246,Male,246,102,Concord,Canada,07-Aug-01,6.16,2,negative,FALSE,04-Jul-10,30-Apr-05,radiation therapy,alive,116.77,FALSE,former smoker,regularly,vegetarian
+247,Milt,Beviss,mbeviss6u@shop-pro.jp,247,Male,247,19,Colorado Springs,United States,21-Jun-13,44.56,2,negative,TRUE,01-Feb-13,15-Oct-09,chemotherapy,alive,30.24,FALSE,former smoker,occasionally,omnivore
+248,Ibrahim,McGillreich,imcgillreich6v@amazon.com,248,Male,248,86,Flushing,United States,12-Nov-21,48.68,4,positive,TRUE,27-Jan-15,28-May-09,surgery,alive,27.76,FALSE,never smoked,regularly,omnivore
+249,Gipsy,Gwilliams,ggwilliams6w@last.fm,249,Female,249,104,Sterling,United States,30-Apr-12,28.3,4,negative,TRUE,13-Jul-07,08-Aug-15,radiation therapy,deceased,79.65,FALSE,current smoker,regularly,vegetarian
+250,Regine,Duro,rduro6x@nationalgeographic.com,250,Female,250,58,San Diego,United States,18-Oct-14,35.94,2,positive,FALSE,29-Nov-11,22-Nov-09,chemotherapy,deceased,26.96,FALSE,current smoker,occasionally,vegetarian
+251,Jany,Scraggs,jscraggs6y@arstechnica.com,251,Female,251,85,Oxbow,Canada,10-Sep-14,13.15,2,positive,FALSE,05-Jun-13,19-Jul-03,chemotherapy,alive,0.65,TRUE,never smoked,never,omnivore
+252,Matthieu,Vigars,mvigars6z@wsj.com,252,Male,252,29,Columbus,United States,15-Jun-12,47.34,1,negative,TRUE,29-May-18,16-Jan-21,chemotherapy,alive,12.46,FALSE,current smoker,regularly,vegan
+253,Padraic,Binch,pbinch70@yale.edu,253,Male,253,95,Baltimore,United States,31-Jul-18,47.65,4,negative,FALSE,19-Dec-14,20-Oct-16,chemotherapy,deceased,102.88,FALSE,current smoker,never,vegan
+254,Olva,Oddie,ooddie71@topsy.com,254,Female,254,61,Maniwaki,Canada,19-Apr-19,12.48,3,positive,FALSE,01-Dec-16,03-Nov-06,surgery,alive,0.95,FALSE,former smoker,occasionally,omnivore
+255,Jacob,Tregona,jtregona72@boston.com,255,Male,255,98,Saint-Lambert-de-Lauzon,Canada,10-May-06,33.74,3,negative,FALSE,25-Mar-12,29-May-18,surgery,alive,42.36,FALSE,former smoker,regularly,vegan
+256,Wyn,Pancost,wpancost73@theguardian.com,256,Male,256,10,Gatesville,United States,09-Mar-13,39.42,3,positive,TRUE,28-Jul-21,07-Oct-16,surgery,alive,48.71,TRUE,former smoker,regularly,omnivore
+257,Valry,Barkworth,vbarkworth74@oaic.gov.au,257,Female,257,111,Braunschweig,Germany,28-Nov-11,25.61,3,negative,FALSE,08-Oct-10,20-Nov-09,chemotherapy,deceased,109.95,TRUE,former smoker,occasionally,omnivore
+258,Gabbey,Birdwhistell,gbirdwhistell75@taobao.com,258,Female,258,56,High Point,United States,07-Jan-01,14.94,1,positive,FALSE,21-Apr-15,11-Mar-04,chemotherapy,deceased,93.51,FALSE,former smoker,never,omnivore
+259,Van,Callington,vcallington76@hibu.com,259,Female,259,33,Berlin,Germany,14-Jun-13,13.74,2,negative,FALSE,01-Jul-06,07-May-05,surgery,alive,28.46,TRUE,current smoker,never,omnivore
+260,Corinne,Van Merwe,cvanmerwe77@psu.edu,260,Female,260,8,Upton,United Kingdom,13-Feb-01,43.7,4,positive,TRUE,22-Jan-00,07-Jul-07,radiation therapy,alive,16.25,TRUE,never smoked,never,omnivore
+261,Vail,Younger,vyounger78@oaic.gov.au,261,Male,261,57,Killarney,Canada,10-Apr-03,22.61,1,negative,FALSE,17-Mar-01,27-Jul-10,radiation therapy,alive,108.91,FALSE,never smoked,occasionally,vegan
+262,Lucilia,Martinson,lmartinson79@va.gov,262,Female,262,93,Château-Richer,Canada,20-Nov-00,45.92,1,positive,FALSE,17-Oct-01,17-Aug-08,surgery,alive,54.04,TRUE,former smoker,regularly,vegetarian
+263,Friedrich,Grafom,fgrafom7a@plala.or.jp,263,Male,263,50,Richmond,United States,20-Feb-13,42.24,4,negative,TRUE,10-Dec-05,01-Feb-00,chemotherapy,alive,114.56,TRUE,former smoker,never,vegetarian
+264,Ashlee,Mariotte,amariotte7b@intel.com,264,Female,264,63,Saint Louis,United States,05-Dec-08,13.99,3,positive,FALSE,11-Sep-12,11-Jan-09,chemotherapy,alive,92.46,FALSE,never smoked,regularly,vegan
+265,Joshua,Dingivan,jdingivan7c@jigsy.com,265,Male,265,58,Mont-Royal,Canada,09-Dec-10,8.19,2,positive,TRUE,03-Jun-04,21-Apr-07,chemotherapy,alive,36.24,FALSE,current smoker,occasionally,vegetarian
+266,Gerardo,Oran,goran7d@de.vu,266,Male,266,8,Denver,United States,05-May-06,13.32,1,positive,TRUE,23-Jun-05,30-Sep-04,surgery,alive,110.86,FALSE,former smoker,regularly,vegan
+267,Yettie,Tick,ytick7e@google.pl,267,Agender,267,35,Eaton,United Kingdom,25-Jun-00,30.75,1,negative,TRUE,16-Jan-08,27-May-05,radiation therapy,deceased,64.57,FALSE,current smoker,never,vegetarian
+268,Thekla,Snartt,tsnartt7f@topsy.com,268,Female,268,36,Knoxville,United States,03-Dec-04,6.17,4,negative,FALSE,03-Mar-08,26-Jun-00,chemotherapy,alive,96.82,FALSE,former smoker,occasionally,omnivore
+269,Ban,Jacklin,bjacklin7g@state.tx.us,269,Male,269,71,Cap-Santé,Canada,25-Apr-17,31.97,2,positive,FALSE,07-Jul-16,11-Apr-08,surgery,deceased,73.47,TRUE,current smoker,never,vegetarian
+270,Aretha,Bellam,abellam7h@skype.com,270,Female,270,31,Santa Ana,United States,03-Mar-14,38.07,2,positive,TRUE,13-Sep-16,02-Aug-07,chemotherapy,alive,60.78,TRUE,current smoker,regularly,vegan
+271,Norman,Treske,ntreske7i@amazon.co.uk,271,Male,271,12,Amarillo,United States,07-May-21,24.61,1,positive,TRUE,10-Apr-13,28-Jun-04,surgery,alive,13.02,TRUE,former smoker,regularly,vegetarian
+272,Silvana,Francomb,sfrancomb7j@unesco.org,272,Female,272,80,Sacramento,United States,15-Sep-21,46.37,3,negative,FALSE,15-Jun-13,30-Dec-05,radiation therapy,alive,34.84,FALSE,never smoked,regularly,vegetarian
+273,Geoffry,Pietrusiak,gpietrusiak7k@people.com.cn,273,Male,273,86,Melita,Canada,14-Oct-12,43.39,4,positive,TRUE,11-Jun-19,10-Sep-04,chemotherapy,deceased,100.42,TRUE,never smoked,never,omnivore
+274,Charmion,Allridge,callridge7l@nymag.com,274,Female,274,24,Münster,Germany,16-Apr-16,41.32,2,negative,FALSE,07-Oct-17,12-Jul-06,radiation therapy,deceased,56.35,TRUE,former smoker,regularly,omnivore
+275,Orran,Cresar,ocresar7m@ucoz.ru,275,Male,275,23,Chicago,United States,26-Apr-12,24.56,1,positive,FALSE,15-Nov-03,14-Mar-21,radiation therapy,alive,58.87,FALSE,current smoker,regularly,omnivore
+276,Norean,Landre,nlandre7n@independent.co.uk,276,Female,276,45,Erie,United States,15-Jan-10,30.33,4,positive,TRUE,30-Aug-15,05-Jun-09,surgery,deceased,67.48,FALSE,never smoked,occasionally,omnivore
+277,Constantino,Freebury,cfreebury7o@fotki.com,277,Male,277,23,Newark,United States,14-Apr-16,28.18,3,positive,FALSE,01-Dec-04,18-Mar-08,chemotherapy,deceased,79.69,FALSE,former smoker,never,vegan
+278,Pierce,Winton,pwinton7p@ucoz.com,278,Male,278,58,Greensboro,United States,17-Jun-17,32.04,4,negative,TRUE,26-Aug-18,28-Aug-16,surgery,alive,39.3,FALSE,never smoked,occasionally,vegetarian
+279,Adela,McMurraya,amcmurraya7q@sourceforge.net,279,Polygender,279,84,Lorraine,Canada,06-Dec-08,1.34,4,positive,FALSE,20-Dec-21,30-Jan-17,surgery,deceased,68.7,TRUE,never smoked,occasionally,omnivore
+280,Mikol,Enrigo,menrigo7r@salon.com,280,Male,280,21,North Saanich,Canada,25-Jan-04,30.86,2,negative,FALSE,20-Apr-04,12-Apr-21,radiation therapy,deceased,119.65,FALSE,former smoker,never,vegetarian
+281,Ida,Pitcaithly,ipitcaithly7s@domainmarket.com,281,Female,281,19,Saint Paul,United States,10-Feb-07,4.31,2,positive,TRUE,31-Oct-13,16-Jan-13,surgery,deceased,58.19,FALSE,current smoker,never,vegetarian
+282,Frankie,Duiguid,fduiguid7t@example.com,282,Male,282,49,Port Moody,Canada,21-Apr-18,35.46,3,positive,FALSE,27-Aug-00,11-Feb-08,radiation therapy,deceased,76.37,FALSE,never smoked,occasionally,vegan
+283,Shannan,Filon,sfilon7u@sun.com,283,Male,283,42,Bremerhaven,Germany,05-May-06,5.69,4,negative,FALSE,06-Jul-14,06-Feb-15,radiation therapy,alive,35.1,TRUE,former smoker,never,omnivore
+284,Alessandra,Wildt,awildt7v@jiathis.com,284,Female,284,25,Neuville,Canada,12-Jul-05,18.53,1,negative,TRUE,27-Oct-15,11-Jun-05,chemotherapy,deceased,28.51,TRUE,current smoker,occasionally,omnivore
+285,Vina,Urion,vurion7w@icq.com,285,Female,285,18,Sterling,United States,07-Feb-08,1.73,1,negative,TRUE,29-Apr-00,02-Jun-02,chemotherapy,deceased,107.85,TRUE,current smoker,regularly,omnivore
+286,Sayre,Scrine,sscrine7x@jugem.jp,286,Female,286,81,Washington,United States,03-Nov-12,45.88,2,positive,FALSE,25-Jun-21,24-Sep-00,surgery,deceased,2.94,TRUE,current smoker,occasionally,vegetarian
+287,Benedict,Cregeen,bcregeen7y@usgs.gov,287,Male,287,82,Springfield,United States,20-Mar-05,24.46,4,negative,TRUE,23-Apr-07,22-Apr-10,surgery,deceased,50.94,TRUE,current smoker,regularly,omnivore
+288,Carmon,Corden,ccorden7z@slideshare.net,288,Female,288,36,San Francisco,United States,24-Jul-10,14.89,4,positive,TRUE,09-Nov-02,18-Jan-07,surgery,deceased,17.8,FALSE,former smoker,never,omnivore
+289,Dani,Robecon,drobecon80@dyndns.org,289,Female,289,28,Columbus,United States,15-Apr-04,18.09,2,negative,FALSE,18-Dec-16,20-Apr-18,surgery,alive,86.25,TRUE,never smoked,never,vegan
+290,Cassius,Oliveras,coliveras81@seesaa.net,290,Male,290,2,Syracuse,United States,03-Aug-14,23.44,3,positive,TRUE,09-Jul-19,23-Apr-04,radiation therapy,deceased,117.81,TRUE,former smoker,occasionally,omnivore
+291,Aila,Compton,acompton82@foxnews.com,291,Female,291,16,Louisville,United States,30-Nov-06,15.13,2,positive,TRUE,29-May-02,17-Mar-05,chemotherapy,deceased,43.65,TRUE,former smoker,occasionally,vegan
+292,Franciskus,Raun,fraun83@angelfire.com,292,Male,292,99,El Paso,United States,06-Apr-05,14.55,4,negative,TRUE,13-Nov-18,01-Apr-07,chemotherapy,alive,85.04,TRUE,current smoker,occasionally,vegetarian
+293,Garth,Toth,gtoth84@dedecms.com,293,Male,293,93,Pittsburgh,United States,22-Apr-12,31.51,1,positive,TRUE,18-Jul-17,23-Feb-18,chemotherapy,deceased,54.63,TRUE,former smoker,never,omnivore
+294,Nealy,Faircliffe,nfaircliffe85@uol.com.br,294,Male,294,48,Dallas,United States,22-Feb-00,16.22,3,negative,TRUE,17-Jan-12,11-Nov-18,chemotherapy,deceased,35.72,FALSE,current smoker,never,vegan
+295,Emilie,Boerder,eboerder86@tuttocitta.it,295,Female,295,10,Naples,United States,10-Sep-15,12.27,4,negative,FALSE,13-Apr-03,10-Feb-09,radiation therapy,alive,46.79,FALSE,former smoker,occasionally,vegetarian
+296,Rudolph,Kubes,rkubes87@purevolume.com,296,Male,296,63,Trenton,United States,30-Jun-00,26.89,4,negative,TRUE,01-Dec-05,11-May-08,surgery,alive,59.22,TRUE,never smoked,never,vegetarian
+297,Tadeo,Klainman,tklainman88@example.com,297,Non-binary,297,26,Lavaltrie,Canada,22-Jun-01,3.27,2,positive,FALSE,04-Apr-04,25-May-20,radiation therapy,deceased,3.09,FALSE,never smoked,regularly,vegan
+298,Belvia,Hindhaugh,bhindhaugh89@imgur.com,298,Female,298,52,Saint Petersburg,United States,22-Dec-15,11.75,1,positive,FALSE,25-Sep-19,22-Oct-14,chemotherapy,deceased,4.03,FALSE,former smoker,never,vegetarian
+299,Aimil,Caser,acaser8a@whitehouse.gov,299,Female,299,27,Kingsport,United States,30-Jan-03,31.07,1,negative,TRUE,30-Mar-13,23-Apr-12,radiation therapy,alive,99.34,FALSE,former smoker,occasionally,vegetarian
+300,Kalila,Dagnan,kdagnan8b@ft.com,300,Female,300,10,Marathon,Canada,19-Oct-11,16.31,3,negative,TRUE,17-Aug-20,24-Feb-20,radiation therapy,alive,118.72,FALSE,former smoker,never,vegan
+301,Hedy,Mingame,hmingame8c@sourceforge.net,301,Female,301,103,El Paso,United States,19-Aug-21,19.94,4,positive,FALSE,08-Oct-02,17-Sep-14,radiation therapy,alive,86.82,FALSE,former smoker,occasionally,omnivore
+302,Barrett,Paz,bpaz8d@ibm.com,302,Male,302,64,Arlington,United States,08-Apr-07,46.16,2,positive,TRUE,09-Nov-20,09-Feb-02,surgery,alive,58.72,TRUE,never smoked,never,vegan
+303,Rurik,Reschke,rreschke8e@deviantart.com,303,Male,303,95,Norfolk County,Canada,31-Jul-19,21.79,2,negative,FALSE,15-Jun-05,17-Jan-09,surgery,alive,82.48,FALSE,current smoker,occasionally,vegan
+304,Hillary,Volante,hvolante8f@multiply.com,304,Male,304,118,Prince Rupert,Canada,11-Sep-00,7.2,3,positive,FALSE,15-Jun-19,24-Jun-21,radiation therapy,alive,51.87,TRUE,never smoked,occasionally,vegetarian
+305,Crin,Guiso,cguiso8g@usnews.com,305,Female,305,65,Irvine,United States,07-Oct-06,17.14,2,negative,TRUE,23-Jul-12,24-Feb-00,chemotherapy,alive,115.57,FALSE,current smoker,regularly,vegetarian
+306,Warden,Sawney,wsawney8h@oracle.com,306,Male,306,106,Virginia Beach,United States,18-May-03,25.7,2,positive,FALSE,18-Oct-12,04-Nov-12,radiation therapy,deceased,50.69,TRUE,former smoker,never,vegetarian
+307,Yoko,Musslewhite,ymusslewhite8i@wikispaces.com,307,Female,307,9,Hannover,Germany,18-Mar-19,12.04,4,negative,FALSE,20-Nov-20,08-Nov-08,surgery,deceased,90.39,TRUE,current smoker,occasionally,vegetarian
+308,Sergei,Swanwick,sswanwick8j@mlb.com,308,Male,308,76,San Diego,United States,21-Jul-00,9.64,2,positive,TRUE,30-Jun-12,25-Apr-13,chemotherapy,deceased,33.64,TRUE,former smoker,occasionally,vegetarian
+309,Friederike,Chewter,fchewter8k@businessinsider.com,309,Female,309,116,Palatine,United States,08-Jul-14,10.24,2,negative,TRUE,31-Jul-01,23-Dec-20,chemotherapy,deceased,11.32,FALSE,former smoker,regularly,omnivore
+310,Kerry,Hurcombe,khurcombe8l@webmd.com,310,Male,310,4,Wetzlar,Germany,22-Aug-14,49.8,3,positive,TRUE,17-Sep-06,22-Apr-00,chemotherapy,alive,48.33,FALSE,never smoked,occasionally,omnivore
+311,Enos,Ropcke,eropcke8m@google.ru,311,Male,311,113,Tampa,United States,04-Oct-01,19.29,3,negative,FALSE,09-Jun-08,13-Jan-15,radiation therapy,deceased,33.38,FALSE,former smoker,regularly,omnivore
+312,Nadean,Landreth,nlandreth8n@shareasale.com,312,Female,312,79,Arlington,United States,23-Jan-03,23.8,2,positive,FALSE,29-Jun-05,06-Feb-04,surgery,alive,53,TRUE,never smoked,regularly,omnivore
+313,Barry,Bony,bbony8o@google.com.hk,313,Genderqueer,313,64,Oakland,United States,09-Oct-12,32.3,4,negative,FALSE,10-Feb-10,13-Aug-10,surgery,deceased,1.77,TRUE,never smoked,regularly,omnivore
+314,Maisey,Habbin,mhabbin8p@netlog.com,314,Bigender,314,28,Woodstock,Canada,01-Nov-05,41.52,2,positive,FALSE,05-Jan-08,25-Jun-13,radiation therapy,alive,7.74,TRUE,never smoked,never,vegetarian
+315,Batsheva,Clerc,bclerc8q@devhub.com,315,Female,315,79,Alexandria,United States,19-Jan-09,27.98,1,negative,FALSE,21-Jun-16,21-Jul-16,radiation therapy,deceased,79.18,FALSE,never smoked,occasionally,vegetarian
+316,Martino,Calltone,mcalltone8r@soup.io,316,Male,316,36,Springfield,United States,29-Oct-18,27.33,4,negative,FALSE,14-May-03,14-Nov-01,surgery,alive,52.74,TRUE,never smoked,regularly,omnivore
+317,Dame,Semarke,dsemarke8s@google.cn,317,Male,317,119,San Antonio,United States,17-May-12,25.94,3,negative,FALSE,11-Aug-05,10-Apr-18,surgery,alive,43.07,TRUE,former smoker,regularly,vegetarian
+318,Micheal,Benjamin,mbenjamin8t@homestead.com,318,Male,318,51,Berlin,Germany,14-Apr-21,27.47,3,positive,TRUE,01-Feb-13,22-Apr-04,chemotherapy,alive,117.45,TRUE,former smoker,regularly,vegan
+319,Reine,Orgee,rorgee8u@live.com,319,Female,319,8,Madison,United States,06-Apr-00,29.2,2,negative,FALSE,07-Sep-19,09-Jun-02,chemotherapy,deceased,85.71,FALSE,current smoker,regularly,omnivore
+320,Yank,O'Concannon,yoconcannon8v@deliciousdays.com,320,Male,320,54,Winston Salem,United States,25-May-09,30.15,3,positive,FALSE,27-May-02,18-Jan-02,surgery,alive,112.41,FALSE,never smoked,regularly,vegetarian
+321,Barbara,Smithe,bsmithe8w@epa.gov,321,Female,321,96,Fort Wayne,United States,30-Mar-00,8.74,1,positive,FALSE,22-Feb-10,14-Jul-06,chemotherapy,alive,63.97,TRUE,former smoker,occasionally,vegetarian
+322,Nial,Starbuck,nstarbuck8x@people.com.cn,322,Male,322,19,Cabano,Canada,19-Aug-02,43.19,1,positive,FALSE,30-Jul-15,21-Jul-16,radiation therapy,alive,103.16,TRUE,current smoker,regularly,vegetarian
+323,Ragnar,Yurkin,ryurkin8y@mapquest.com,323,Male,323,94,Richmond,United States,02-Dec-17,30.87,4,negative,TRUE,16-Sep-17,01-Apr-16,chemotherapy,alive,79.83,FALSE,former smoker,occasionally,vegetarian
+324,Hymie,Isakovic,hisakovic8z@harvard.edu,324,Male,324,57,Roanoke,United States,08-Jun-16,40.18,3,positive,FALSE,25-Jan-15,23-Sep-14,radiation therapy,alive,2.11,TRUE,current smoker,regularly,vegetarian
+325,Hy,Kleszinski,hkleszinski90@ibm.com,325,Male,325,30,Côte-Saint-Luc,Canada,17-Jan-09,21.74,4,negative,TRUE,10-Nov-20,18-Dec-15,radiation therapy,deceased,64.5,FALSE,current smoker,regularly,vegetarian
+326,Colette,Welham,cwelham91@google.de,326,Female,326,62,Albany,United States,11-Apr-07,34.66,2,negative,TRUE,21-Apr-17,06-Sep-13,chemotherapy,alive,19.8,TRUE,current smoker,occasionally,vegan
+327,Wayne,Isitt,wisitt92@state.tx.us,327,Male,327,53,Saint-Rémi,Canada,26-Nov-05,48.88,1,positive,TRUE,04-Jan-21,09-Dec-16,surgery,deceased,43.29,FALSE,never smoked,regularly,vegetarian
+328,Gwenore,Egentan,gegentan93@linkedin.com,328,Female,328,80,Wolfville,Canada,29-Jul-00,25.18,2,negative,FALSE,20-May-20,30-Apr-08,radiation therapy,alive,20.52,TRUE,never smoked,occasionally,vegan
+329,Dall,O'Ferris,doferris94@businesswire.com,329,Male,329,119,Baltimore,United States,08-Dec-12,46.26,4,negative,TRUE,31-Jan-09,29-Jul-21,chemotherapy,alive,88.49,FALSE,current smoker,regularly,omnivore
+330,Susie,Giraudo,sgiraudo95@psu.edu,330,Agender,330,72,Herne,Germany,01-Sep-17,4.83,1,negative,TRUE,23-Mar-10,08-Oct-19,radiation therapy,alive,7.58,FALSE,never smoked,regularly,omnivore
+331,Cullin,Derricoat,cderricoat96@github.com,331,Male,331,96,L'Assomption,Canada,09-Mar-15,3.71,2,negative,TRUE,17-Sep-02,06-Apr-12,chemotherapy,alive,102.91,TRUE,current smoker,occasionally,vegan
+332,Maritsa,Reidie,mreidie97@ihg.com,332,Female,332,34,Ajax,Canada,04-Dec-09,44.14,1,positive,TRUE,12-Nov-10,11-Jan-11,surgery,deceased,66.21,TRUE,never smoked,never,vegetarian
+333,Peg,Hancell,phancell98@nydailynews.com,333,Female,333,34,Frankfort,United States,16-Jul-00,15.29,3,negative,FALSE,04-Aug-00,02-Mar-14,chemotherapy,alive,88.15,FALSE,never smoked,regularly,omnivore
+334,Hestia,Woffenden,hwoffenden99@list-manage.com,334,Female,334,99,Smoky Lake,Canada,18-Mar-18,40.91,1,positive,TRUE,19-Jan-12,31-Jan-06,radiation therapy,deceased,119.36,TRUE,former smoker,occasionally,vegetarian
+335,Bryana,Stile,bstile9a@dmoz.org,335,Female,335,24,Notre-Dame-des-Prairies,Canada,10-May-18,23.27,2,negative,TRUE,02-Feb-09,30-Jun-18,surgery,alive,36.79,FALSE,former smoker,occasionally,omnivore
+336,Timmy,Hollingdale,thollingdale9b@time.com,336,Male,336,1,Meadow Lake,Canada,16-Jan-05,2.48,1,positive,FALSE,28-May-17,07-Aug-13,surgery,deceased,97.15,TRUE,current smoker,regularly,vegetarian
+337,Amabelle,Mcimmie,amcimmie9c@craigslist.org,337,Female,337,110,Jacksonville,United States,12-Oct-05,44.37,4,positive,FALSE,12-Nov-08,12-Jul-05,surgery,alive,71.77,FALSE,never smoked,never,vegetarian
+338,Caesar,Tomet,ctomet9d@soundcloud.com,338,Male,338,10,Niagara Falls,Canada,05-Sep-04,23.28,4,negative,TRUE,21-Apr-16,15-Mar-02,radiation therapy,deceased,52.61,FALSE,current smoker,regularly,omnivore
+339,Kipp,Crossthwaite,kcrossthwaite9e@biglobe.ne.jp,339,Bigender,339,74,Memphis,United States,15-Feb-18,4.84,1,positive,TRUE,15-Nov-04,28-Aug-08,chemotherapy,deceased,58.75,TRUE,former smoker,occasionally,omnivore
+340,Shirley,Daout,sdaout9f@flickr.com,340,Female,340,85,Antigonish,Canada,23-Aug-12,23.14,4,negative,FALSE,28-Mar-05,18-Sep-04,radiation therapy,deceased,12.16,FALSE,never smoked,occasionally,omnivore
+341,Kalie,Billo,kbillo9g@drupal.org,341,Bigender,341,64,Anniston,United States,28-Apr-17,49.21,4,positive,TRUE,06-Aug-02,19-Sep-15,surgery,alive,51.16,TRUE,never smoked,regularly,vegan
+342,Amy,Micallef,amicallef9h@indiatimes.com,342,Female,342,7,Newark,United States,14-Mar-16,38.88,2,positive,TRUE,03-Aug-12,02-Apr-12,radiation therapy,deceased,28.92,FALSE,never smoked,never,vegan
+343,Hedvige,Winckles,hwinckles9i@networksolutions.com,343,Female,343,4,Roblin,Canada,16-Nov-12,34.66,2,positive,FALSE,14-Oct-18,04-Jun-07,chemotherapy,deceased,37.44,FALSE,never smoked,occasionally,vegetarian
+344,Martguerita,Topper,mtopper9j@slashdot.org,344,Female,344,11,Carman,Canada,12-Dec-18,21.8,2,positive,TRUE,28-May-08,23-May-14,radiation therapy,alive,0.82,TRUE,current smoker,never,vegetarian
+345,Raffarty,Chasles,rchasles9k@lycos.com,345,Male,345,72,Sicamous,Canada,06-May-07,9.23,4,negative,FALSE,10-Sep-10,25-Jan-16,chemotherapy,alive,58.49,TRUE,former smoker,occasionally,vegan
+346,Terri-jo,Petriello,tpetriello9l@blogtalkradio.com,346,Polygender,346,78,Springfield,United States,28-Dec-12,18.47,2,positive,FALSE,15-Mar-06,06-Apr-09,surgery,alive,91.44,FALSE,never smoked,regularly,vegetarian
+347,Violet,Earie,vearie9m@woothemes.com,347,Female,347,77,Durham,United States,25-Aug-20,10.04,2,negative,FALSE,06-Jan-06,30-Nov-13,chemotherapy,alive,112.54,FALSE,current smoker,never,omnivore
+348,Ariel,Antoniazzi,aantoniazzi9n@phoca.cz,348,Genderfluid,348,98,North Saanich,Canada,14-Nov-20,4.26,1,positive,TRUE,24-Nov-16,13-Mar-19,surgery,alive,59.6,TRUE,former smoker,occasionally,vegetarian
+349,Hector,Langthorne,hlangthorne9o@sfgate.com,349,Male,349,119,Vancouver,United States,18-Jan-20,41.19,1,positive,TRUE,08-Nov-09,04-Mar-09,radiation therapy,alive,69.26,FALSE,current smoker,regularly,vegan
+350,Roosevelt,Pirri,rpirri9p@nature.com,350,Male,350,75,Danbury,United States,15-Jun-20,7.2,3,positive,FALSE,02-Apr-10,19-Mar-12,chemotherapy,deceased,80.81,FALSE,never smoked,occasionally,vegetarian
+351,Rodina,St. Louis,rstlouis9q@alexa.com,351,Female,351,70,Marietta,United States,20-Sep-09,19.26,1,positive,FALSE,28-Mar-00,04-Mar-12,radiation therapy,deceased,2.9,TRUE,current smoker,regularly,vegan
+352,Toddie,Soltan,tsoltan9r@altervista.org,352,Male,352,23,Rochester,United States,27-Mar-16,21.04,1,negative,TRUE,12-Jan-02,19-Sep-03,chemotherapy,deceased,45.84,FALSE,never smoked,never,vegan
+353,Saba,Wegener,swegener9s@google.cn,353,Female,353,89,Evansville,United States,24-Aug-17,44.58,1,positive,FALSE,21-Feb-13,13-Sep-15,surgery,alive,46.34,FALSE,never smoked,never,vegan
+354,Obadias,Paur,opaur9t@tumblr.com,354,Male,354,108,Richmond,Canada,05-Feb-18,44.35,3,positive,TRUE,08-May-03,26-Jan-15,radiation therapy,alive,3.46,TRUE,former smoker,regularly,vegan
+355,Brigid,Keymar,bkeymar9u@issuu.com,355,Female,355,2,Newport Beach,United States,19-Jan-10,38.44,1,negative,FALSE,02-Oct-04,01-Dec-21,chemotherapy,deceased,22.94,FALSE,current smoker,regularly,omnivore
+356,Rora,Eastes,reastes9v@bbc.co.uk,356,Female,356,94,Maple Plain,United States,20-Aug-10,45.43,2,negative,TRUE,17-Nov-03,10-Jun-10,surgery,deceased,54.9,FALSE,former smoker,never,omnivore
+357,Shelby,Darkin,sdarkin9w@pcworld.com,357,Female,357,91,Boisbriand,Canada,20-Apr-17,26.28,1,negative,TRUE,20-Aug-05,14-Jan-08,chemotherapy,alive,46.2,FALSE,former smoker,occasionally,vegan
+358,Roby,Hakeworth,rhakeworth9x@newsvine.com,358,Female,358,99,Norfolk,United States,20-Aug-18,2.63,1,positive,FALSE,31-Jul-17,11-Apr-12,chemotherapy,deceased,30.55,FALSE,former smoker,never,vegan
+359,Fanny,Vatcher,fvatcher9y@storify.com,359,Female,359,65,Hudson,Canada,20-May-18,6.6,1,positive,FALSE,11-Aug-02,26-Apr-01,surgery,alive,82.76,FALSE,current smoker,never,vegetarian
+360,Olivero,Hovard,ohovard9z@independent.co.uk,360,Male,360,29,Miami,United States,07-Aug-02,29.8,3,negative,FALSE,04-Sep-03,25-Jun-12,radiation therapy,alive,1.62,TRUE,current smoker,occasionally,omnivore
+361,Berri,Catenot,bcatenota0@imdb.com,361,Female,361,101,Liverpool,United Kingdom,05-Apr-00,8.75,3,negative,FALSE,16-Feb-11,13-Oct-18,radiation therapy,deceased,6.46,TRUE,never smoked,never,omnivore
+362,Raul,Tumini,rtuminia1@google.com,362,Male,362,28,Fairbanks,United States,05-Mar-20,21.23,2,positive,TRUE,11-Dec-11,03-May-18,surgery,deceased,28.32,FALSE,never smoked,regularly,omnivore
+363,Claudetta,Sherel,csherela2@ucsd.edu,363,Polygender,363,9,Phoenix,United States,16-Jul-14,0.41,4,positive,FALSE,25-Sep-16,14-Sep-09,chemotherapy,deceased,97.24,TRUE,former smoker,occasionally,vegan
+364,Benjy,Hofner,bhofnera3@typepad.com,364,Male,364,54,Washington,United States,12-Mar-02,30.76,2,positive,FALSE,08-Jun-11,09-Mar-21,chemotherapy,alive,81.85,TRUE,former smoker,occasionally,omnivore
+365,Ingrid,Arend,iarenda4@hugedomains.com,365,Agender,365,82,Pilot Butte,Canada,16-Jul-00,10.7,4,positive,FALSE,16-May-02,09-Jul-14,surgery,deceased,34.45,FALSE,never smoked,regularly,omnivore
+366,Johnny,Trayford,jtrayforda5@prnewswire.com,366,Male,366,98,Sechelt,Canada,31-Jan-06,11.37,2,positive,TRUE,01-Feb-00,04-Sep-15,surgery,deceased,5.5,FALSE,current smoker,occasionally,vegetarian
+367,Heall,Achromov,hachromova6@utexas.edu,367,Genderfluid,367,104,Newport Beach,United States,14-May-15,47.77,1,negative,FALSE,20-May-00,06-Apr-01,surgery,deceased,106.82,TRUE,current smoker,regularly,vegetarian
+368,Farlay,Benneyworth,fbenneywortha7@sitemeter.com,368,Male,368,56,Washington,United States,23-Sep-14,20.46,2,positive,FALSE,25-Oct-17,28-Apr-15,radiation therapy,deceased,95.66,TRUE,never smoked,regularly,vegan
+369,Mayer,Banat,mbanata8@xinhuanet.com,369,Male,369,111,Aldergrove,Canada,05-May-21,48.54,4,positive,TRUE,27-May-08,07-Sep-19,chemotherapy,alive,31.04,TRUE,never smoked,occasionally,omnivore
+370,Amil,Teresse,ateressea9@reuters.com,370,Female,370,83,Shawnee Mission,United States,15-Jul-16,16.97,3,negative,TRUE,06-Aug-18,06-Nov-13,radiation therapy,deceased,36.1,TRUE,current smoker,never,omnivore
+371,Verge,Meagher,vmeagheraa@live.com,371,Male,371,84,Washington,United States,19-Aug-20,3.2,2,negative,TRUE,24-Aug-03,07-Feb-04,surgery,alive,11.71,FALSE,former smoker,occasionally,vegetarian
+372,Georgeanne,Lepper,glepperab@jalbum.net,372,Female,372,59,Topeka,United States,21-Mar-10,42.51,4,positive,FALSE,03-Aug-15,11-Nov-10,radiation therapy,alive,5.22,FALSE,former smoker,occasionally,vegan
+373,Finlay,Wedmore,fwedmoreac@naver.com,373,Male,373,105,London,United Kingdom,07-Jun-18,3.49,4,positive,FALSE,05-Aug-08,09-Jun-09,chemotherapy,deceased,46.78,FALSE,former smoker,never,omnivore
+374,Lauraine,Crottagh,lcrottaghad@slideshare.net,374,Female,374,18,New Hyde Park,United States,25-Feb-21,4.86,3,negative,TRUE,26-Nov-00,27-Aug-20,chemotherapy,alive,11.68,FALSE,current smoker,regularly,vegetarian
+375,Correna,Kornacki,ckornackiae@wikimedia.org,375,Female,375,76,Sainte-Thérèse,Canada,16-Sep-03,31.76,4,positive,FALSE,06-Feb-15,09-Oct-04,chemotherapy,alive,112.42,TRUE,current smoker,regularly,vegan
+376,Catriona,Euels,ceuelsaf@liveinternet.ru,376,Polygender,376,72,Minneapolis,United States,14-Apr-14,27.99,3,negative,TRUE,31-Mar-20,15-Dec-05,chemotherapy,deceased,112.95,FALSE,current smoker,occasionally,vegetarian
+377,Krisha,Theis,ktheisag@blogtalkradio.com,377,Male,377,42,Iowa City,United States,13-Oct-20,23.04,4,positive,TRUE,17-Feb-18,25-Jun-19,chemotherapy,alive,15.31,TRUE,current smoker,regularly,vegan
+378,Shelli,Locksley,slocksleyah@bandcamp.com,378,Bigender,378,56,Nipawin,Canada,17-May-11,27.52,3,negative,FALSE,03-Jun-04,10-Dec-02,radiation therapy,deceased,24.15,FALSE,never smoked,regularly,vegan
+379,Camala,Iacovo,ciacovoai@miitbeian.gov.cn,379,Female,379,78,Chattanooga,United States,10-Aug-09,31.65,4,negative,FALSE,15-Sep-07,11-Nov-03,radiation therapy,alive,6.47,TRUE,current smoker,regularly,vegan
+380,Dix,Meffan,dmeffanaj@nationalgeographic.com,380,Female,380,9,Boucherville,Canada,14-Jun-11,17.26,2,positive,FALSE,19-Mar-09,08-Jan-13,surgery,deceased,102.88,TRUE,current smoker,regularly,omnivore
+381,Westbrooke,Keppy,wkeppyak@mediafire.com,381,Male,381,52,Birmingham,United States,14-Jan-08,34.92,3,positive,TRUE,04-Jun-05,02-Feb-03,chemotherapy,alive,107.11,TRUE,never smoked,occasionally,vegan
+382,Isidore,Ghost,ighostal@fema.gov,382,Male,382,44,Rostock,Germany,09-Apr-08,36.08,2,negative,TRUE,09-Jun-01,15-Jan-21,chemotherapy,alive,41.23,FALSE,current smoker,never,vegetarian
+383,Dru,Sneyd,dsneydam@ebay.co.uk,383,Male,383,47,Kansas City,United States,09-Aug-00,7.44,2,negative,TRUE,04-May-08,19-Sep-00,surgery,deceased,46.75,FALSE,current smoker,regularly,omnivore
+384,Correy,Goodbanne,cgoodbannean@nifty.com,384,Male,384,61,West Hartford,United States,18-Feb-06,29.28,4,positive,FALSE,01-Feb-06,03-Jul-14,surgery,deceased,66.3,TRUE,current smoker,occasionally,omnivore
+385,Kennie,Grombridge,kgrombridgeao@house.gov,385,Male,385,105,Collingwood,Canada,21-Feb-03,33.71,3,negative,FALSE,27-Oct-09,13-Feb-21,radiation therapy,alive,21.32,TRUE,former smoker,never,omnivore
+386,Leontyne,Niccols,lniccolsap@artisteer.com,386,Genderfluid,386,75,Mount Pearl,Canada,27-Apr-00,40.78,1,negative,TRUE,07-Feb-08,19-Dec-00,chemotherapy,alive,55.39,FALSE,never smoked,never,vegetarian
+387,Delainey,Chominski,dchominskiaq@alibaba.com,387,Male,387,93,Killam,Canada,28-Jun-01,4.96,2,positive,FALSE,29-Sep-05,23-Jun-21,radiation therapy,deceased,25.16,TRUE,former smoker,never,omnivore
+388,Artus,Caudwell,acaudwellar@ted.com,388,Male,388,62,Keswick,Canada,22-Apr-19,23.91,1,negative,FALSE,08-Feb-21,08-May-09,radiation therapy,alive,117.89,TRUE,current smoker,regularly,vegetarian
+389,Claudina,Cleyburn,ccleyburnas@ucsd.edu,389,Female,389,41,München,Germany,31-Aug-13,33.11,4,negative,TRUE,06-Oct-03,23-Sep-04,radiation therapy,deceased,56.56,FALSE,never smoked,regularly,omnivore
+390,Sharai,McAusland,smcauslandat@dyndns.org,390,Female,390,56,Hamburg,Germany,24-Dec-07,25.83,4,negative,FALSE,06-Jan-00,22-Feb-04,radiation therapy,alive,108.6,TRUE,former smoker,never,omnivore
+391,Kareem,Swindin,kswindinau@statcounter.com,391,Male,391,114,Flushing,United States,04-Dec-14,10.1,1,positive,TRUE,19-Sep-07,21-Dec-19,chemotherapy,alive,116.48,TRUE,current smoker,regularly,vegan
+392,Ulises,McCambrois,umccambroisav@google.co.uk,392,Male,392,44,Washington,United States,19-Mar-12,43.97,4,negative,FALSE,20-Sep-07,12-Jun-18,surgery,alive,55.99,TRUE,former smoker,occasionally,vegan
+393,Edgardo,Wintringham,ewintringhamaw@weather.com,393,Agender,393,95,Milwaukee,United States,22-Jun-19,26.11,4,negative,FALSE,26-Aug-18,27-Jul-15,radiation therapy,deceased,113.73,FALSE,current smoker,occasionally,vegetarian
+394,Maye,Bartholin,mbartholinax@icio.us,394,Agender,394,73,Winston Salem,United States,05-Feb-09,37.53,3,negative,TRUE,23-Jun-17,21-Mar-18,surgery,deceased,66.99,FALSE,current smoker,occasionally,omnivore
+395,Casandra,Huson,chusonay@vinaora.com,395,Female,395,15,Naples,United States,19-Jul-11,23.55,4,negative,TRUE,26-Jul-21,27-Feb-13,radiation therapy,deceased,100.47,TRUE,never smoked,occasionally,vegan
+396,Alric,Atthowe,aatthoweaz@ehow.com,396,Male,396,32,Bremen,Germany,11-Jul-14,12.39,4,positive,TRUE,18-Oct-09,28-Apr-17,surgery,deceased,3.69,TRUE,never smoked,occasionally,vegetarian
+397,Allsun,Baal,abaalb0@pagesperso-orange.fr,397,Female,397,45,Beaverton,United States,05-Mar-17,34.15,4,negative,FALSE,21-May-03,07-Mar-18,chemotherapy,deceased,99.79,FALSE,former smoker,never,omnivore
+398,Sapphira,Everill,severillb1@sphinn.com,398,Female,398,3,Pittsburgh,United States,15-Nov-17,16.18,1,positive,TRUE,23-Nov-19,17-Jun-20,surgery,deceased,62.09,FALSE,current smoker,occasionally,vegetarian
+399,Julina,Halsall,jhalsallb2@ftc.gov,399,Female,399,52,Magog,Canada,28-Dec-10,23.33,2,positive,FALSE,15-Jul-17,17-Dec-09,chemotherapy,deceased,17.54,TRUE,never smoked,never,vegan
+400,Berti,Cranidge,bcranidgeb3@amazon.co.uk,400,Male,400,54,Sioux Falls,United States,10-Mar-00,16.69,4,negative,TRUE,03-Mar-10,26-Jul-02,surgery,deceased,97.17,FALSE,never smoked,occasionally,vegetarian
+401,Theresina,Heinel,theinelb4@businessweek.com,401,Female,401,97,Cookshire-Eaton,Canada,22-Aug-03,44.91,4,positive,FALSE,13-May-00,02-May-19,surgery,deceased,59.28,TRUE,former smoker,never,vegetarian
+402,Lisa,Fleetwood,lfleetwoodb5@usnews.com,402,Female,402,84,Austin,United States,27-May-16,24.6,1,positive,FALSE,20-Nov-01,21-Oct-15,chemotherapy,alive,64.55,FALSE,current smoker,never,vegetarian
+403,Vania,Rumble,vrumbleb6@ft.com,403,Female,403,6,Macamic,Canada,04-Oct-16,5.64,3,negative,TRUE,10-Mar-07,19-Apr-08,radiation therapy,deceased,10.17,TRUE,former smoker,never,omnivore
+404,Kalindi,Renyard,krenyardb7@naver.com,404,Female,404,73,Kansas City,United States,21-Dec-16,28.19,1,positive,TRUE,01-Apr-07,21-Jun-04,chemotherapy,deceased,103.33,FALSE,current smoker,never,vegetarian
+405,Libbi,Kydd,lkyddb8@si.edu,405,Female,405,75,Saint Louis,United States,29-Sep-06,22.91,4,negative,FALSE,06-Dec-13,19-Dec-04,surgery,alive,20.02,FALSE,current smoker,never,vegan
+406,Shelby,Cudiff,scudiffb9@ocn.ne.jp,406,Male,406,82,Des Moines,United States,04-Apr-20,30.8,1,positive,FALSE,27-Aug-07,03-Aug-07,radiation therapy,alive,113.22,FALSE,never smoked,never,vegetarian
+407,Gideon,Pococke,gpocockeba@unc.edu,407,Male,407,22,Delaware,Canada,05-Sep-05,3.36,2,negative,FALSE,20-Jun-03,02-Jan-07,surgery,alive,89.21,FALSE,current smoker,never,vegetarian
+408,Emmett,Jessup,ejessupbb@ameblo.jp,408,Male,408,89,Amarillo,United States,17-Dec-19,7.91,1,positive,FALSE,29-Jun-03,05-Mar-00,radiation therapy,deceased,92.08,FALSE,current smoker,regularly,omnivore
+409,Udall,Pavlata,upavlatabc@japanpost.jp,409,Male,409,119,Indianapolis,United States,09-Jul-07,47.37,3,positive,FALSE,26-Sep-15,29-Jun-00,chemotherapy,alive,102.69,FALSE,current smoker,occasionally,omnivore
+410,Nahum,Bassano,nbassanobd@ihg.com,410,Male,410,102,Cleveland,United States,10-May-02,35.88,4,negative,FALSE,18-Apr-16,25-Jul-05,surgery,deceased,6.11,TRUE,former smoker,occasionally,vegetarian
+411,Sofia,Setchell,ssetchellbe@behance.net,411,Female,411,110,Cookshire-Eaton,Canada,11-Oct-01,6.99,3,positive,TRUE,14-Mar-04,26-Sep-18,surgery,deceased,74.1,TRUE,former smoker,never,vegetarian
+412,Debee,Bantham,dbanthambf@nationalgeographic.com,412,Female,412,68,Berlin,Germany,29-May-18,38.96,2,negative,TRUE,07-Jun-19,01-Apr-12,chemotherapy,alive,77.46,TRUE,former smoker,occasionally,vegetarian
+413,Petunia,Poppy,ppoppybg@desdev.cn,413,Female,413,104,Jackson,United States,21-Sep-09,45.13,4,negative,TRUE,15-Aug-04,18-Sep-19,radiation therapy,alive,89.13,TRUE,current smoker,never,vegan
+414,Sandye,Waterland,swaterlandbh@china.com.cn,414,Female,414,107,Denver,United States,08-Jan-00,32.04,2,negative,FALSE,01-Jul-09,10-Jul-04,radiation therapy,alive,84.84,FALSE,never smoked,occasionally,vegetarian
+415,Claybourne,Kemston,ckemstonbi@google.com.au,415,Male,415,60,Elmira,United States,19-Feb-03,13.28,3,positive,TRUE,02-Nov-20,08-Jul-18,surgery,alive,103.84,TRUE,current smoker,occasionally,vegan
+416,Silvester,Preist,spreistbj@mozilla.org,416,Male,416,114,Orlando,United States,21-Dec-11,21.72,4,negative,TRUE,04-Sep-15,09-Nov-15,surgery,deceased,50.65,FALSE,former smoker,never,vegan
+417,Gaston,Venners,gvennersbk@comcast.net,417,Male,417,82,Portland,United States,14-Nov-20,46.44,1,negative,TRUE,11-Oct-08,26-Jul-04,radiation therapy,deceased,39.93,TRUE,current smoker,regularly,omnivore
+418,Arnuad,McGann,amcgannbl@slashdot.org,418,Male,418,77,New Orleans,United States,24-Jun-03,3.39,3,negative,TRUE,15-Jul-02,22-Nov-05,radiation therapy,alive,29.69,FALSE,current smoker,regularly,omnivore
+419,Rosemaria,Dalman,rdalmanbm@abc.net.au,419,Female,419,88,Brant,Canada,31-May-00,41.23,2,negative,TRUE,13-Oct-21,06-Aug-13,radiation therapy,alive,89.9,TRUE,never smoked,occasionally,vegan
+420,Culley,McGeachey,cmcgeacheybn@bandcamp.com,420,Male,420,6,Gary,United States,17-May-10,6.95,2,positive,FALSE,23-Sep-20,26-Nov-07,chemotherapy,alive,118.39,FALSE,former smoker,regularly,omnivore
+421,Darla,Elwood,delwoodbo@msn.com,421,Female,421,54,Greeley,United States,01-Sep-09,0.93,3,positive,FALSE,10-Dec-21,13-Dec-12,surgery,deceased,63.85,TRUE,never smoked,never,omnivore
+422,Sheffield,Hattam,shattambp@msn.com,422,Male,422,19,Pasadena,United States,24-Feb-06,47.88,4,positive,TRUE,13-Oct-03,26-Mar-17,radiation therapy,deceased,100.19,FALSE,current smoker,regularly,vegetarian
+423,Boot,Bertin,bbertinbq@oracle.com,423,Male,423,78,Aberdeen,United Kingdom,07-Jun-09,14.35,4,negative,FALSE,27-Mar-13,05-Aug-09,surgery,alive,60.07,TRUE,never smoked,regularly,vegan
+424,Tracie,Cockayme,tcockaymebr@vkontakte.ru,424,Female,424,19,Vancouver,United States,24-May-06,49.93,2,negative,TRUE,19-Sep-07,19-Jul-05,radiation therapy,alive,87.32,FALSE,never smoked,regularly,vegetarian
+425,Rusty,Dillon,rdillonbs@discuz.net,425,Male,425,77,Oklahoma City,United States,05-Oct-01,19.53,2,positive,TRUE,08-May-17,28-Mar-21,surgery,deceased,63.97,TRUE,current smoker,occasionally,omnivore
+426,Dorie,Hessing,dhessingbt@51.la,426,Polygender,426,118,Naples,United States,23-Apr-08,40.42,4,positive,FALSE,21-Apr-11,02-Mar-16,surgery,alive,22.4,FALSE,never smoked,never,vegan
+427,Gayla,Overland,goverlandbu@whitehouse.gov,427,Female,427,29,West Kelowna,Canada,09-May-04,49.16,4,positive,TRUE,20-Jun-20,19-Aug-19,radiation therapy,deceased,81.62,FALSE,never smoked,regularly,omnivore
+428,Shaun,Dmytryk,sdmytrykbv@lulu.com,428,Non-binary,428,50,Mississauga,Canada,20-Oct-00,26.74,2,positive,FALSE,07-Mar-15,21-Dec-13,surgery,alive,24.77,FALSE,former smoker,regularly,vegetarian
+429,Cecilla,Duffitt,cduffittbw@webnode.com,429,Female,429,96,West Palm Beach,United States,22-May-01,10.44,4,positive,TRUE,05-Apr-03,21-May-05,surgery,deceased,9.43,FALSE,current smoker,occasionally,vegan
+430,Ingram,Jedrzejczyk,ijedrzejczykbx@about.com,430,Male,430,76,Houston,United States,25-Jul-17,31.5,4,positive,FALSE,25-Jan-00,08-May-15,chemotherapy,alive,28.4,FALSE,current smoker,occasionally,omnivore
+431,Collen,Bunch,cbunchby@va.gov,431,Female,431,49,Scottsdale,United States,16-Jan-12,47.61,4,positive,FALSE,20-Feb-03,17-Nov-21,radiation therapy,alive,63.87,TRUE,never smoked,never,omnivore
+432,Olin,Dawtre,odawtrebz@ovh.net,432,Male,432,63,Vaudreuil-Dorion,Canada,13-Feb-06,30.1,2,positive,FALSE,01-Mar-05,27-Sep-15,surgery,alive,69.32,FALSE,never smoked,regularly,omnivore
+433,Jule,Croser,jcroserc0@stumbleupon.com,433,Male,433,16,Sherbrooke,Canada,19-Dec-06,17.82,3,negative,FALSE,05-Jan-01,17-Apr-04,surgery,deceased,29.99,TRUE,never smoked,regularly,vegan
+434,Maxi,Eede,meedec1@spiegel.de,434,Female,434,112,Amarillo,United States,01-Jul-15,20.2,3,negative,FALSE,25-Apr-12,18-Feb-14,radiation therapy,alive,7.84,TRUE,former smoker,never,vegan
+435,Marrilee,Burge,mburgec2@jugem.jp,435,Female,435,95,Little Rock,United States,31-May-19,18.39,1,positive,TRUE,28-Dec-17,05-Mar-10,chemotherapy,deceased,0.63,TRUE,current smoker,occasionally,vegan
+436,Elden,Embery,eemberyc3@photobucket.com,436,Male,436,50,Berthierville,Canada,07-Mar-14,42.66,1,negative,TRUE,02-Jun-11,03-Jun-19,radiation therapy,deceased,71.97,TRUE,never smoked,occasionally,vegan
+437,Karil,Booth,kboothc4@theguardian.com,437,Agender,437,22,Austin,United States,18-Apr-09,42.71,2,negative,TRUE,25-May-19,04-Nov-16,surgery,alive,1.19,TRUE,former smoker,never,vegan
+438,Dell,Medwell,dmedwellc5@reverbnation.com,438,Male,438,82,White City,Canada,09-Jun-21,11.07,1,negative,TRUE,18-Jul-12,13-Sep-12,radiation therapy,alive,88.87,TRUE,former smoker,occasionally,vegan
+439,Theressa,Tommei,ttommeic6@huffingtonpost.com,439,Female,439,90,Dallas,United States,04-May-11,8.13,1,positive,TRUE,01-Oct-19,03-Nov-07,chemotherapy,alive,86.44,FALSE,current smoker,occasionally,vegan
+440,Marius,Sigars,msigarsc7@nydailynews.com,440,Polygender,440,5,Fort Lauderdale,United States,23-Sep-00,13.39,2,negative,TRUE,18-Mar-09,22-Jul-07,radiation therapy,alive,19.15,TRUE,former smoker,regularly,omnivore
+441,Barbaraanne,Craske,bcraskec8@java.com,441,Female,441,65,Evansville,United States,13-Jul-04,19.59,4,negative,TRUE,01-Dec-10,17-Jan-03,radiation therapy,deceased,78.42,FALSE,current smoker,occasionally,omnivore
+442,Vaclav,Cambden,vcambdenc9@ihg.com,442,Male,442,83,Arlington,United States,31-May-05,42.54,1,positive,TRUE,17-Apr-21,09-May-17,radiation therapy,deceased,47.77,TRUE,never smoked,never,vegan
+443,Reynolds,Guilloneau,rguilloneauca@alexa.com,443,Bigender,443,54,Englewood,United States,28-Mar-21,16.34,3,negative,TRUE,17-Jul-12,13-Feb-18,surgery,deceased,88.75,TRUE,never smoked,never,omnivore
+444,Chantal,Oboy,coboycb@weibo.com,444,Female,444,93,Wingham,Canada,06-Sep-17,0.59,1,negative,TRUE,23-Feb-11,10-Dec-11,surgery,alive,19.58,TRUE,current smoker,never,vegetarian
+445,Robby,Hurren,rhurrencc@example.com,445,Female,445,63,San Angelo,United States,18-Oct-12,10.48,3,negative,TRUE,17-Nov-02,28-May-20,chemotherapy,alive,117.48,TRUE,former smoker,regularly,omnivore
+446,Ax,Barthelemy,abarthelemycd@newsvine.com,446,Male,446,1,Warren,United States,12-Mar-06,29.77,2,positive,FALSE,18-Jul-03,11-Apr-12,radiation therapy,deceased,104.84,TRUE,current smoker,occasionally,omnivore
+447,Eleen,Siege,esiegece@tinyurl.com,447,Female,447,68,Norwalk,United States,07-Sep-03,37.17,4,negative,FALSE,30-Jul-07,04-Jan-03,radiation therapy,deceased,112.18,FALSE,never smoked,regularly,omnivore
+448,Sloan,Winnard,swinnardcf@discovery.com,448,Male,448,90,Fruitvale,Canada,24-Jan-07,0.45,4,positive,TRUE,24-Apr-12,23-Nov-00,radiation therapy,alive,76.79,TRUE,never smoked,occasionally,omnivore
+449,Irene,Argyle,iargylecg@exblog.jp,449,Female,449,24,Tacoma,United States,25-Feb-13,13.59,1,negative,TRUE,26-May-19,03-Feb-10,surgery,deceased,28.05,FALSE,current smoker,occasionally,vegan
+450,Esmeralda,Rosenthaler,erosenthalerch@wunderground.com,450,Female,450,1,Wuppertal,Germany,28-Mar-13,1.63,2,negative,FALSE,30-Nov-01,21-Jul-16,radiation therapy,alive,23.8,TRUE,current smoker,occasionally,omnivore
+451,Llywellyn,Timblett,ltimblettci@fastcompany.com,451,Male,451,63,Washington,United States,20-Jul-12,27.71,2,negative,FALSE,16-Apr-13,14-Mar-16,surgery,alive,78.87,TRUE,current smoker,never,vegetarian
+452,Anselma,Luckwell,aluckwellcj@independent.co.uk,452,Female,452,107,Kiel,Germany,07-Apr-20,46.31,2,positive,TRUE,27-Nov-13,30-Oct-10,surgery,alive,10.38,TRUE,former smoker,occasionally,omnivore
+453,Lonnie,Ewert,lewertck@dagondesign.com,453,Male,453,5,Reno,United States,05-Aug-15,49.77,3,negative,TRUE,06-Mar-20,17-Jul-06,radiation therapy,deceased,46.33,TRUE,former smoker,occasionally,vegan
+454,Salomo,Jubb,sjubbcl@hhs.gov,454,Male,454,75,Cincinnati,United States,22-Jan-06,8.05,3,negative,TRUE,13-Jul-12,08-Jun-13,surgery,alive,17.82,TRUE,former smoker,never,omnivore
+455,Davon,Eul,deulcm@dropbox.com,455,Male,455,50,Tacoma,United States,11-Oct-09,35.3,3,positive,FALSE,27-Dec-16,29-Apr-17,surgery,alive,31.89,FALSE,current smoker,regularly,omnivore
+456,Blanche,Yukhov,byukhovcn@unesco.org,456,Female,456,29,Albuquerque,United States,26-Jan-18,22.3,3,positive,TRUE,21-May-05,22-Feb-19,chemotherapy,deceased,100.35,TRUE,never smoked,occasionally,omnivore
+457,Ranee,Stoade,rstoadeco@wufoo.com,457,Female,457,110,Las Vegas,United States,23-Nov-12,3.2,4,positive,TRUE,14-May-15,06-Dec-14,surgery,alive,5.04,FALSE,former smoker,regularly,vegetarian
+458,Even,Reany,ereanycp@earthlink.net,458,Male,458,112,Logan Lake,Canada,19-Apr-20,3.93,4,positive,TRUE,21-Jan-15,23-Jun-04,radiation therapy,alive,110.89,TRUE,never smoked,never,vegetarian
+459,Donia,Dmitrovic,ddmitroviccq@symantec.com,459,Female,459,17,Norman Wells,Canada,07-Jan-15,10.73,1,positive,FALSE,15-Aug-01,08-Nov-03,surgery,alive,75.93,TRUE,current smoker,occasionally,vegetarian
+460,Ilse,Scholling,ischollingcr@loc.gov,460,Female,460,107,Atlanta,United States,22-May-03,26.53,3,negative,TRUE,09-Sep-01,12-Apr-01,chemotherapy,alive,68.41,TRUE,current smoker,regularly,omnivore
+461,Rickert,O'Brian,robriancs@google.fr,461,Male,461,54,Amarillo,United States,02-Apr-07,0.64,1,positive,FALSE,13-Jan-18,09-Apr-19,radiation therapy,alive,117.76,TRUE,former smoker,regularly,vegan
+462,Elinor,Bulbeck,ebulbeckct@merriam-webster.com,462,Female,462,57,Peachland,Canada,21-Apr-02,4.84,2,positive,FALSE,02-Jul-20,15-Aug-13,surgery,deceased,78.29,FALSE,former smoker,regularly,omnivore
+463,Millisent,Oldcote,moldcotecu@squarespace.com,463,Female,463,83,Frankfort,United States,04-Sep-14,37.23,4,positive,FALSE,28-Jan-05,18-Aug-12,surgery,deceased,56.75,FALSE,never smoked,regularly,vegetarian
+464,Melanie,Ottosen,mottosencv@arstechnica.com,464,Female,464,66,Austin,United States,07-Mar-11,13.45,3,positive,TRUE,23-Mar-12,20-Jan-01,radiation therapy,deceased,84.94,FALSE,never smoked,occasionally,vegan
+465,Rad,Zannotti,rzannotticw@dropbox.com,465,Male,465,89,Louiseville,Canada,22-Apr-11,22.14,2,negative,TRUE,12-Aug-08,30-Oct-14,chemotherapy,alive,46.47,TRUE,current smoker,regularly,vegetarian
+466,Doloritas,Dewis,ddewiscx@comsenz.com,466,Female,466,28,Springfield,United States,20-May-19,20.81,2,negative,TRUE,05-Sep-00,19-Sep-16,surgery,deceased,107.36,TRUE,former smoker,never,vegetarian
+467,Mikaela,Devennie,mdevenniecy@etsy.com,467,Female,467,53,Knoxville,United States,25-Aug-00,21.76,2,positive,TRUE,26-Jul-19,25-Jan-14,radiation therapy,alive,67.17,TRUE,never smoked,regularly,omnivore
+468,Marjory,Stowe,mstowecz@imageshack.us,468,Female,468,0,Jackson,United States,08-Dec-17,32.12,3,positive,FALSE,17-May-16,14-Jan-15,chemotherapy,alive,26.82,TRUE,never smoked,regularly,vegetarian
+469,Millisent,Sporrij,msporrijd0@goo.gl,469,Bigender,469,47,Denver,United States,26-Jun-03,24.46,4,negative,TRUE,07-Aug-03,20-Jun-11,chemotherapy,deceased,72.1,TRUE,former smoker,never,vegetarian
+470,Angelle,Essex,aessexd1@go.com,470,Female,470,66,Fruitvale,Canada,16-Jan-10,19.18,1,positive,TRUE,31-Oct-03,11-Sep-16,surgery,deceased,104.46,TRUE,current smoker,regularly,omnivore
+471,Bella,Gianolini,bgianolinid2@cpanel.net,471,Female,471,86,Selkirk,Canada,03-Mar-08,40.48,1,negative,FALSE,08-Aug-13,16-Dec-19,surgery,deceased,59.54,TRUE,current smoker,occasionally,vegan
+472,Teena,Batalle,tbatalled3@ehow.com,472,Female,472,89,Woodstock,Canada,09-Jun-10,21.98,2,positive,FALSE,19-Oct-18,03-Oct-18,surgery,deceased,7.08,FALSE,former smoker,occasionally,omnivore
+473,Carmel,Detloff,cdetloffd4@i2i.jp,473,Female,473,61,Fruitvale,Canada,09-Jul-16,9.83,4,negative,TRUE,09-Aug-03,14-Jan-06,radiation therapy,deceased,80.83,FALSE,current smoker,never,vegetarian
+474,Maureene,Tattershall,mtattershalld5@wordpress.com,474,Female,474,0,Shreveport,United States,11-Nov-07,6.29,1,positive,TRUE,24-Jun-02,12-May-15,radiation therapy,deceased,67.02,FALSE,current smoker,occasionally,vegan
+475,Zonnya,McQuillin,zmcquillind6@sun.com,475,Female,475,55,Berlin,Germany,09-Oct-11,15.93,2,positive,TRUE,06-Aug-04,10-Jul-12,surgery,alive,47.82,FALSE,former smoker,occasionally,vegetarian
+476,Carolynn,Cattenach,ccattenachd7@unesco.org,476,Female,476,110,San Diego,United States,06-Dec-03,26.64,1,negative,TRUE,02-Jul-19,20-Sep-07,radiation therapy,alive,93.52,TRUE,current smoker,occasionally,omnivore
+477,Andeee,Frankcombe,afrankcombed8@delicious.com,477,Female,477,55,Richmond,United States,29-Aug-08,32.85,2,negative,FALSE,25-Nov-19,17-May-14,chemotherapy,deceased,12.4,TRUE,current smoker,regularly,omnivore
+478,Alfy,Fussen,afussend9@pbs.org,478,Female,478,13,Lebel-sur-Quévillon,Canada,11-Dec-13,30.73,2,negative,FALSE,30-Jul-04,03-May-15,radiation therapy,alive,80.44,TRUE,former smoker,occasionally,vegan
+479,Brinna,Lippo,blippoda@opera.com,479,Female,479,21,Skatepark,Canada,23-Apr-13,2.04,2,negative,TRUE,06-Apr-17,05-Sep-18,chemotherapy,deceased,40.14,FALSE,never smoked,never,vegan
+480,Artur,Domico,adomicodb@bing.com,480,Male,480,88,Wolfville,Canada,18-Feb-03,17.93,3,negative,TRUE,12-Oct-07,20-Dec-15,surgery,alive,42.64,FALSE,never smoked,never,vegan
+481,Lynda,Whitcombe,lwhitcombedc@mit.edu,481,Female,481,119,Olympia,United States,19-Jun-02,20.37,4,positive,FALSE,19-Jul-03,02-Jun-14,chemotherapy,alive,26.79,TRUE,never smoked,occasionally,vegan
+482,Nicolais,Oulner,noulnerdd@cnbc.com,482,Male,482,46,Tyler,United States,19-May-11,43.16,2,negative,FALSE,11-May-15,19-Sep-06,chemotherapy,alive,12.21,TRUE,current smoker,regularly,vegan
+483,Bev,Hanselmann,bhanselmannde@com.com,483,Male,483,96,Port Hawkesbury,Canada,21-Feb-13,8.42,2,negative,TRUE,23-Jul-04,25-Dec-13,chemotherapy,deceased,68.73,TRUE,never smoked,never,vegan
+484,Lara,Hollington,lhollingtondf@hao123.com,484,Female,484,70,Hannover,Germany,28-Nov-18,23.78,1,positive,FALSE,16-May-06,02-Jan-16,chemotherapy,deceased,9.07,TRUE,former smoker,occasionally,vegan
+485,Gunilla,Cotton,gcottondg@dmoz.org,485,Bigender,485,69,Richmond,United States,19-Dec-11,16.27,4,negative,TRUE,30-Apr-03,13-Nov-13,surgery,deceased,115.11,TRUE,former smoker,regularly,omnivore
+486,Tatiania,Normansell,tnormanselldh@wikimedia.org,486,Female,486,112,Martensville,Canada,14-Feb-07,20.3,3,negative,TRUE,20-Jan-07,17-Dec-09,surgery,deceased,105.7,TRUE,former smoker,regularly,vegetarian
+487,Lonee,Medwell,lmedwelldi@seesaa.net,487,Female,487,80,Tulsa,United States,06-May-06,49.14,4,positive,FALSE,05-Nov-16,21-Mar-09,chemotherapy,alive,91.79,TRUE,current smoker,regularly,vegetarian
+488,Salem,Markl,smarkldj@cdc.gov,488,Male,488,23,Great Neck,United States,13-Jun-15,38.49,4,positive,FALSE,24-Jun-15,28-Jul-03,chemotherapy,alive,16.18,FALSE,never smoked,regularly,vegetarian
+489,Crichton,Miguet,cmiguetdk@skype.com,489,Male,489,19,Fullerton,United States,14-Jul-14,32.6,3,negative,FALSE,08-Oct-02,04-Sep-21,radiation therapy,alive,6.48,FALSE,never smoked,occasionally,vegetarian
+490,Bertrand,Egell,begelldl@liveinternet.ru,490,Male,490,0,Charlotte,United States,10-Dec-08,39.17,4,negative,TRUE,27-Dec-13,02-Sep-07,chemotherapy,alive,109.18,FALSE,former smoker,never,vegan
+491,Ward,Bullerwell,wbullerwelldm@zdnet.com,491,Male,491,1,Tulsa,United States,08-Sep-17,43.74,2,negative,TRUE,13-Jul-03,17-Dec-19,surgery,alive,1.7,TRUE,current smoker,occasionally,vegan
+492,Keenan,Nesbitt,knesbittdn@harvard.edu,492,Male,492,117,Düsseldorf,Germany,08-Mar-01,3.08,4,positive,FALSE,03-Nov-14,21-Feb-17,chemotherapy,alive,56.03,FALSE,current smoker,occasionally,vegetarian
+493,Nina,Rowett,nrowettdo@about.me,493,Female,493,89,New York City,United States,05-Oct-15,43.13,2,positive,FALSE,08-Jan-05,21-Oct-16,radiation therapy,alive,85.22,TRUE,former smoker,never,vegan
+494,Meara,Louys,mlouysdp@woothemes.com,494,Female,494,54,Peachland,Canada,26-Jan-03,17.38,3,negative,FALSE,26-Aug-03,27-Jan-07,radiation therapy,deceased,101.13,FALSE,never smoked,occasionally,vegan
+495,Maybelle,Bradbeer,mbradbeerdq@diigo.com,495,Female,495,64,Lanigan,Canada,06-Feb-13,47.01,4,positive,TRUE,12-Sep-13,03-Dec-02,chemotherapy,deceased,15.86,TRUE,never smoked,occasionally,omnivore
+496,Marsha,Fearnill,mfearnilldr@adobe.com,496,Female,496,1,Penhold,Canada,16-May-21,15.65,2,positive,FALSE,29-Mar-21,13-Apr-13,surgery,alive,24.97,FALSE,never smoked,never,omnivore
+497,Shayna,Denyagin,sdenyaginds@stanford.edu,497,Genderfluid,497,103,Tulsa,United States,08-Nov-09,33.02,3,positive,FALSE,23-Feb-15,17-Mar-04,chemotherapy,deceased,61.77,FALSE,current smoker,occasionally,omnivore
+498,Roy,Wellington,rwellingtondt@deliciousdays.com,498,Male,498,27,Ingersoll,Canada,03-Sep-05,22.42,1,positive,TRUE,01-Apr-11,01-Aug-13,radiation therapy,deceased,112.23,FALSE,former smoker,regularly,omnivore
+499,Denna,Fort,dfortdu@merriam-webster.com,499,Agender,499,4,Memphis,United States,29-Mar-21,41.9,4,positive,FALSE,04-Apr-07,17-Oct-02,radiation therapy,deceased,105.96,FALSE,former smoker,regularly,vegetarian
+500,Alexandre,Eccleston,aecclestondv@last.fm,500,Male,500,94,Tallahassee,United States,15-Aug-16,28.17,1,negative,TRUE,25-Feb-19,13-Aug-06,surgery,deceased,96.28,TRUE,former smoker,occasionally,vegetarian
+501,Jodie,Shadfourth,jshadfourthdw@t.co,501,Female,501,59,Frankfurt am Main,Germany,17-Sep-13,26.19,2,positive,TRUE,20-May-11,14-May-13,surgery,alive,7.05,TRUE,current smoker,never,vegan
+502,Claiborn,Cranmere,ccranmeredx@ftc.gov,502,Male,502,102,Leipzig,Germany,22-Dec-08,43.92,3,positive,FALSE,28-Feb-00,29-May-08,chemotherapy,deceased,93.71,TRUE,never smoked,never,vegetarian
+503,Oralle,Frampton,oframptondy@apache.org,503,Polygender,503,31,Devon,Canada,14-Oct-02,49.93,4,positive,TRUE,20-Dec-05,14-Apr-19,chemotherapy,deceased,75.31,FALSE,current smoker,occasionally,vegan
+504,Catherin,Smorfit,csmorfitdz@squidoo.com,504,Female,504,111,Springfield,United States,31-Dec-02,11.63,1,negative,TRUE,27-Feb-19,08-Dec-17,radiation therapy,deceased,90.09,TRUE,never smoked,never,vegetarian
+505,Hewet,Eldon,heldone0@hc360.com,505,Male,505,95,Lexington,United States,26-Aug-13,35.56,2,positive,FALSE,28-Jun-16,12-Aug-12,surgery,alive,98.63,TRUE,never smoked,occasionally,vegan
+506,Che,Jozefowicz,cjozefowicze1@redcross.org,506,Male,506,74,Orange,United States,23-Oct-21,22.33,3,negative,TRUE,26-Jul-00,08-Mar-20,radiation therapy,alive,66.69,TRUE,former smoker,never,omnivore
+507,Dicky,Spataro,dspataroe2@cloudflare.com,507,Male,507,63,San Antonio,United States,28-Mar-10,40.94,3,negative,TRUE,05-Oct-21,25-Dec-12,chemotherapy,deceased,2.88,TRUE,never smoked,occasionally,vegetarian
+508,Allsun,Blum,ablume3@taobao.com,508,Female,508,12,Toronto,Canada,17-Feb-19,8.81,1,negative,FALSE,22-Jan-21,02-Feb-20,surgery,alive,46.48,FALSE,never smoked,occasionally,vegan
+509,Chester,Rickeard,crickearde4@webs.com,509,Male,509,70,Salt Lake City,United States,21-Feb-10,15.54,2,positive,FALSE,06-Jul-11,20-Sep-21,surgery,deceased,71.77,TRUE,former smoker,occasionally,vegan
+510,Kayla,Lowdyane,klowdyanee5@stanford.edu,510,Female,510,5,Trail,Canada,19-Feb-13,30.94,1,negative,TRUE,07-Oct-07,19-Jan-11,chemotherapy,alive,44.81,FALSE,current smoker,regularly,vegan
+511,Desi,Husselbee,dhusselbeee6@washington.edu,511,Male,511,77,Trois-Rivières,Canada,02-Dec-15,14.53,2,positive,FALSE,19-Jan-15,22-Aug-07,chemotherapy,deceased,70.07,FALSE,former smoker,regularly,vegan
+512,Drud,Grise,dgrisee7@cnbc.com,512,Male,512,64,Nanaimo,Canada,06-Mar-13,35.69,2,negative,FALSE,28-Jun-10,14-Oct-04,surgery,alive,30.92,TRUE,never smoked,regularly,vegetarian
+513,Thea,Moxom,tmoxome8@flickr.com,513,Female,513,81,Portland,United States,27-Feb-02,12.05,3,negative,FALSE,03-Dec-01,17-Feb-11,radiation therapy,deceased,74.06,FALSE,former smoker,occasionally,vegan
+514,Care,Haley,chaleye9@kickstarter.com,514,Male,514,59,Spring,United States,20-Apr-10,18.76,2,negative,FALSE,30-Aug-21,07-Sep-05,surgery,alive,77.62,FALSE,current smoker,regularly,vegetarian
+515,Ezmeralda,Ivanichev,eivanichevea@marriott.com,515,Female,515,78,Boisbriand,Canada,27-Mar-11,5.57,1,negative,TRUE,10-Jun-08,20-Apr-08,chemotherapy,alive,16.67,FALSE,never smoked,occasionally,vegan
+516,Talyah,Millions,tmillionseb@nytimes.com,516,Female,516,109,El Paso,United States,25-Apr-07,9.1,3,negative,TRUE,23-Dec-15,08-Feb-19,surgery,alive,74.33,TRUE,current smoker,occasionally,omnivore
+517,Dido,Pinnock,dpinnockec@theglobeandmail.com,517,Female,517,108,Köln,Germany,26-Oct-12,12.36,2,positive,FALSE,20-Sep-07,04-Aug-16,chemotherapy,alive,55.49,TRUE,never smoked,occasionally,vegan
+518,Barnabas,Blundell,bblundelled@pcworld.com,518,Male,518,89,Detroit,United States,06-Jun-15,28.92,3,negative,TRUE,28-Aug-00,20-Aug-10,surgery,deceased,115.16,TRUE,current smoker,never,vegetarian
+519,Nikolaus,Kinsella,nkinsellaee@reddit.com,519,Male,519,33,Saginaw,United States,14-Aug-10,44.5,1,negative,TRUE,11-Feb-05,22-Apr-18,radiation therapy,deceased,51.75,FALSE,current smoker,regularly,vegetarian
+520,Anstice,Syphus,asyphusef@miitbeian.gov.cn,520,Female,520,108,Daveluyville,Canada,11-Aug-10,47.16,4,negative,FALSE,12-Jan-05,19-Sep-05,radiation therapy,deceased,102.6,TRUE,never smoked,regularly,vegan
+521,Lawton,Glackin,lglackineg@amazonaws.com,521,Male,521,7,Eaton,United Kingdom,18-Jul-09,47.12,2,positive,TRUE,27-Jan-14,08-Sep-19,chemotherapy,deceased,18.2,TRUE,never smoked,occasionally,omnivore
+522,Norma,MacConneely,nmacconneelyeh@wordpress.com,522,Female,522,15,Notre-Dame-des-Prairies,Canada,11-Jan-13,46.88,1,positive,FALSE,10-Jul-08,15-Oct-09,chemotherapy,deceased,97.84,TRUE,never smoked,regularly,vegetarian
+523,Boonie,Pettengell,bpettengellei@answers.com,523,Male,523,14,Halle,Germany,03-Sep-11,9.42,1,negative,FALSE,22-Aug-21,01-Jun-00,chemotherapy,deceased,25.83,FALSE,former smoker,regularly,vegan
+524,Cornell,Grisewood,cgrisewoodej@privacy.gov.au,524,Male,524,91,Lambton Shores,Canada,13-Dec-05,15.23,4,negative,TRUE,04-Sep-00,05-Feb-04,surgery,deceased,89.48,TRUE,former smoker,regularly,vegan
+525,Richard,Orbine,rorbineek@plala.or.jp,525,Male,525,92,Rockford,United States,13-Mar-20,14.11,3,negative,TRUE,04-Mar-03,09-Feb-05,radiation therapy,deceased,62.61,TRUE,never smoked,never,vegetarian
+526,Alan,Densie,adensieel@webs.com,526,Male,526,7,Erie,United States,20-Nov-01,36.49,3,negative,TRUE,28-Sep-08,07-Jul-17,surgery,alive,117.1,FALSE,never smoked,never,vegan
+527,Brantley,Schulter,bschulterem@phpbb.com,527,Male,527,72,Cincinnati,United States,08-May-12,35.21,1,positive,TRUE,20-Apr-11,17-Aug-21,surgery,deceased,110.59,FALSE,former smoker,never,vegan
+528,Artus,Sandercock,asandercocken@theglobeandmail.com,528,Male,528,99,Pueblo,United States,06-Feb-09,46.38,4,negative,FALSE,28-Apr-07,04-Jul-01,chemotherapy,deceased,112.62,FALSE,former smoker,never,vegetarian
+529,Gayleen,Spenley,gspenleyeo@twitter.com,529,Agender,529,11,Reston,United States,12-May-01,46.06,2,positive,TRUE,21-Oct-21,23-Jun-12,surgery,deceased,51.14,TRUE,former smoker,regularly,vegan
+530,Ronnie,Johansson,rjohanssonep@t.co,530,Male,530,73,Düsseldorf,Germany,06-Nov-07,44.44,1,negative,FALSE,19-Nov-14,20-Dec-11,surgery,alive,47.16,FALSE,current smoker,occasionally,vegetarian
+531,Addison,Bottleson,abottlesoneq@xing.com,531,Male,531,81,Stuttgart,Germany,05-Oct-07,41.63,4,positive,FALSE,06-Nov-17,20-Jul-21,surgery,alive,6.09,TRUE,never smoked,never,omnivore
+532,Emera,Huguenet,ehugueneter@studiopress.com,532,Female,532,109,Dortmund,Germany,07-Aug-14,9.32,1,negative,FALSE,03-Mar-10,17-Jul-18,radiation therapy,deceased,72.57,TRUE,former smoker,regularly,omnivore
+533,Giacobo,Wapples,gwappleses@edublogs.org,533,Male,533,73,Denver,United States,24-Nov-13,45.24,3,negative,FALSE,29-Oct-11,04-Mar-05,chemotherapy,deceased,72.3,TRUE,current smoker,regularly,vegan
+534,Merrick,Collumbine,mcollumbineet@oaic.gov.au,534,Male,534,36,Wiesbaden,Germany,16-Mar-01,20.15,3,positive,FALSE,06-Dec-16,05-Feb-08,chemotherapy,alive,73.58,FALSE,never smoked,regularly,vegetarian
+535,Hewett,Gamil,hgamileu@google.com.hk,535,Male,535,42,Reutlingen,Germany,17-Mar-00,35.28,3,negative,TRUE,29-Nov-03,24-Oct-19,surgery,alive,110.41,TRUE,never smoked,never,omnivore
+536,Silvain,Adamczyk,sadamczykev@nsw.gov.au,536,Male,536,106,Glendale,United States,14-Dec-20,23.44,4,positive,TRUE,26-Aug-16,22-Aug-03,surgery,alive,54,TRUE,current smoker,never,vegan
+537,Gweneth,Morforth,gmorforthew@answers.com,537,Female,537,44,London,United States,08-Sep-16,34.34,1,positive,FALSE,13-Sep-06,07-Jul-00,radiation therapy,alive,3.42,FALSE,former smoker,never,vegan
+538,Kathy,Kubin,kkubinex@chron.com,538,Female,538,110,Corona,United States,24-Nov-00,8.25,1,negative,TRUE,08-Jun-07,26-Jul-07,radiation therapy,deceased,46.89,TRUE,never smoked,regularly,vegetarian
+539,Zora,Ilymanov,zilymanovey@squarespace.com,539,Female,539,84,Greenville,United States,13-Sep-02,47.39,3,positive,FALSE,22-Jul-01,09-Oct-17,chemotherapy,alive,29.23,FALSE,former smoker,never,omnivore
+540,Skye,Bemand,sbemandez@google.co.uk,540,Male,540,68,Jacksonville,United States,07-May-12,43.45,4,positive,TRUE,13-Jun-07,19-Oct-15,surgery,deceased,37.18,TRUE,current smoker,never,omnivore
+541,Gabbey,Isac,gisacf0@edublogs.org,541,Female,541,18,Nanaimo,Canada,15-Feb-04,3.2,4,positive,TRUE,08-Aug-10,17-Jul-12,chemotherapy,alive,77.73,FALSE,current smoker,never,omnivore
+542,Zacharia,Benbow,zbenbowf1@shareasale.com,542,Male,542,47,Moose Jaw,Canada,26-Jun-10,22.11,4,positive,FALSE,08-Jan-16,12-Feb-04,radiation therapy,deceased,84.72,FALSE,current smoker,occasionally,vegetarian
+543,Gayleen,Jackes,gjackesf2@last.fm,543,Non-binary,543,64,Biggar,Canada,16-May-04,21.38,2,positive,TRUE,27-Jan-19,12-Nov-21,radiation therapy,alive,2.05,FALSE,current smoker,occasionally,vegetarian
+544,Bernard,Jeandillou,bjeandillouf3@stanford.edu,544,Male,544,95,Port Colborne,Canada,14-Mar-16,15.94,3,negative,TRUE,12-Aug-02,05-Aug-14,chemotherapy,alive,40.48,TRUE,current smoker,regularly,omnivore
+545,Abrahan,Peacock,apeacockf4@networksolutions.com,545,Male,545,113,Terre Haute,United States,16-Feb-10,32.29,1,negative,FALSE,11-Jul-13,15-Jul-20,chemotherapy,alive,55.06,TRUE,former smoker,occasionally,vegan
+546,Elnora,Whightman,ewhightmanf5@networksolutions.com,546,Female,546,40,Charlotte,United States,10-Jan-10,15.47,1,positive,FALSE,16-Aug-17,28-Apr-02,radiation therapy,deceased,34.93,FALSE,former smoker,never,vegan
+547,Elden,Jagger,ejaggerf6@linkedin.com,547,Male,547,4,Carlsbad,United States,17-Jan-08,48.57,1,positive,TRUE,22-Jan-21,06-Oct-14,chemotherapy,deceased,72.88,FALSE,never smoked,occasionally,vegetarian
+548,Junette,Bertelsen,jbertelsenf7@deviantart.com,548,Female,548,29,Garland,United States,21-Sep-11,12.42,1,negative,FALSE,09-Sep-07,30-Nov-18,radiation therapy,deceased,1.61,FALSE,current smoker,never,vegan
+549,Dalia,Takkos,dtakkosf8@bluehost.com,549,Female,549,85,Columbus,United States,18-Dec-17,34.84,4,positive,FALSE,13-Nov-19,27-Jul-13,chemotherapy,alive,85.49,TRUE,former smoker,never,vegetarian
+550,Cory,Asch,caschf9@youtu.be,550,Male,550,75,Notre-Dame-des-Prairies,Canada,10-Jun-14,30.69,4,positive,TRUE,04-Jul-10,15-Mar-05,chemotherapy,deceased,114.19,TRUE,never smoked,regularly,vegetarian
+551,Lombard,Miebes,lmiebesfa@moonfruit.com,551,Male,551,100,Largo,United States,01-Feb-03,156.75,3,negative,TRUE,26-Jan-19,15-Jul-01,radiation therapy,deceased,1.18,TRUE,current smoker,never,vegan
+552,Mack,Vaneev,mvaneevfb@free.fr,552,Male,552,92,Lees Summit,United States,25-Aug-14,13.09,4,negative,TRUE,05-Apr-13,10-Sep-06,radiation therapy,deceased,49.15,FALSE,current smoker,regularly,vegan
+553,Lefty,Olexa,lolexafc@microsoft.com,553,Male,553,89,Camden,United States,21-Jan-08,46.71,1,negative,TRUE,21-Jan-19,03-Dec-01,surgery,alive,6.31,FALSE,former smoker,regularly,vegan
+554,Kaila,O'Fallon,kofallonfd@imageshack.us,554,Female,554,104,Minneapolis,United States,20-Jul-02,4.46,4,negative,TRUE,09-Dec-05,17-Mar-16,chemotherapy,deceased,118.21,FALSE,current smoker,regularly,omnivore
+555,Dalila,Jory,djoryfe@networksolutions.com,555,Female,555,18,Oka,Canada,22-Nov-20,24.21,2,negative,TRUE,08-Jan-05,27-Nov-05,surgery,alive,75.52,TRUE,former smoker,never,omnivore
+556,Selestina,MacShirie,smacshirieff@barnesandnoble.com,556,Non-binary,556,105,Sacramento,United States,28-May-11,5.02,1,negative,TRUE,09-Sep-02,05-Aug-02,surgery,deceased,28.05,TRUE,current smoker,never,vegan
+557,Dominga,Rosgen,drosgenfg@a8.net,557,Female,557,67,Columbus,United States,26-Aug-02,23.01,4,positive,TRUE,27-Aug-11,07-Jan-09,radiation therapy,deceased,16,TRUE,current smoker,never,omnivore
+558,Any,Castro,acastrofh@arstechnica.com,558,Male,558,54,El Paso,United States,31-Dec-02,4.46,3,negative,FALSE,01-Oct-20,22-Jun-01,radiation therapy,deceased,103.11,TRUE,former smoker,regularly,omnivore
+559,Germana,Choke,gchokefi@smh.com.au,559,Female,559,14,Pittsburgh,United States,14-Jul-03,12.33,3,negative,FALSE,15-Mar-03,21-Nov-20,chemotherapy,deceased,3.98,FALSE,current smoker,never,omnivore
+560,Sonnie,Mitham,smithamfj@economist.com,560,Female,560,35,Little Rock,United States,19-Apr-00,29.81,2,negative,TRUE,08-Sep-14,08-May-06,chemotherapy,alive,40.16,FALSE,former smoker,regularly,vegetarian
+561,Fernande,Decort,fdecortfk@boston.com,561,Female,561,120,Merrifield,United States,13-Jul-03,45.5,4,positive,FALSE,06-Nov-09,25-Feb-03,radiation therapy,alive,57.41,TRUE,former smoker,never,vegan
+562,Thoma,Attlee,tattleefl@artisteer.com,562,Male,562,101,Fort Worth,United States,27-Mar-00,31.52,2,positive,TRUE,03-Feb-02,10-Jul-14,surgery,alive,28.19,TRUE,current smoker,never,omnivore
+563,Lila,Durdy,ldurdyfm@parallels.com,563,Female,563,64,Manning,Canada,26-Oct-06,23.15,3,negative,FALSE,07-Mar-16,24-Oct-00,chemotherapy,deceased,38.41,FALSE,former smoker,regularly,vegan
+564,Caddric,Sacks,csacksfn@ustream.tv,564,Male,564,63,Vaughan,Canada,12-Jul-10,44.62,2,negative,TRUE,24-Jun-04,22-Jul-16,surgery,alive,19.43,TRUE,former smoker,regularly,vegetarian
+565,Jobi,Demicoli,jdemicolifo@google.cn,565,Female,565,12,Lincoln,United States,16-Nov-07,28.4,2,negative,FALSE,12-Oct-19,29-Jul-17,surgery,alive,74.07,FALSE,former smoker,never,vegan
+566,Berta,Braunston,bbraunstonfp@baidu.com,566,Female,566,32,East Angus,Canada,01-Oct-18,46.55,2,negative,TRUE,19-Nov-18,23-Jun-07,chemotherapy,deceased,31.29,FALSE,former smoker,never,omnivore
+567,Valentin,De Mattia,vdemattiafq@fotki.com,567,Male,567,58,Kamsack,Canada,11-Jul-20,43.85,2,negative,TRUE,11-Nov-06,08-Nov-04,radiation therapy,alive,117.78,TRUE,never smoked,never,omnivore
+568,Aurel,Battill,abattillfr@un.org,568,Genderqueer,568,53,Durham,United States,12-Sep-03,43.28,1,negative,TRUE,23-Jul-03,08-Dec-06,chemotherapy,deceased,43.01,FALSE,never smoked,occasionally,omnivore
+569,Kerwin,Godridge,kgodridgefs@gnu.org,569,Male,569,88,Newport News,United States,27-Oct-08,25.02,2,negative,TRUE,02-Jun-12,20-Apr-01,surgery,deceased,39.83,FALSE,current smoker,never,vegetarian
+570,Donnie,Wolfart,dwolfartft@pcworld.com,570,Non-binary,570,99,Little Current,Canada,18-Apr-01,7.72,1,positive,FALSE,22-Jun-16,13-Nov-17,radiation therapy,deceased,110.1,TRUE,never smoked,occasionally,omnivore
+571,Courtney,Volante,cvolantefu@163.com,571,Agender,571,85,Berlin,Germany,17-Feb-12,12.42,4,positive,TRUE,02-Jun-06,19-Mar-07,chemotherapy,alive,93.33,FALSE,never smoked,regularly,vegetarian
+572,Mahala,Traske,mtraskefv@e-recht24.de,572,Genderqueer,572,5,Pictou,Canada,21-Jan-19,5.31,1,negative,TRUE,18-Feb-03,23-Sep-13,surgery,deceased,98.89,FALSE,never smoked,occasionally,omnivore
+573,Carlin,Eccott,ceccottfw@java.com,573,Female,573,34,Houston,United States,18-Jun-14,8.74,4,negative,TRUE,22-Aug-04,02-Mar-01,surgery,alive,115.63,FALSE,former smoker,never,omnivore
+574,Bondon,Zanneli,bzannelifx@hibu.com,574,Male,574,109,Springfield,United States,10-Aug-11,39.37,4,negative,FALSE,25-Nov-06,01-May-09,surgery,deceased,64.99,FALSE,former smoker,occasionally,omnivore
+575,Florie,Mitford,fmitfordfy@gnu.org,575,Female,575,26,Langford,Canada,30-Dec-05,6.81,4,positive,FALSE,21-Jul-03,24-Jan-18,radiation therapy,alive,114.81,TRUE,former smoker,regularly,vegetarian
+576,Johnathon,Bernini,jberninifz@dion.ne.jp,576,Male,576,65,Philadelphia,United States,27-Jan-21,40.51,3,positive,TRUE,10-Nov-05,04-Jul-07,radiation therapy,alive,4.1,FALSE,current smoker,occasionally,omnivore
+577,Cybil,Kilmurry,ckilmurryg0@google.es,577,Female,577,44,Springfield,United States,06-Jan-14,5.49,4,negative,TRUE,26-Jan-11,29-May-04,radiation therapy,alive,53.11,FALSE,never smoked,occasionally,vegetarian
+578,Norrie,Tootal,ntootalg1@4shared.com,578,Female,578,22,Allentown,United States,30-Oct-21,39.79,1,negative,FALSE,08-May-18,08-Jun-21,chemotherapy,alive,62.34,TRUE,former smoker,never,vegan
+579,Adina,Whistlecroft,awhistlecroftg2@sfgate.com,579,Female,579,107,Saint-Rémi,Canada,01-Mar-15,16.71,4,positive,TRUE,25-Jul-18,11-Nov-04,chemotherapy,deceased,86.52,TRUE,current smoker,never,vegetarian
+580,Alexa,McAviy,amcaviyg3@netlog.com,580,Female,580,69,Oklahoma City,United States,15-Oct-11,11.98,3,positive,FALSE,24-Apr-15,27-May-19,chemotherapy,deceased,20.66,FALSE,former smoker,never,omnivore
+581,Artur,Kerton,akertong4@rakuten.co.jp,581,Male,581,45,Louisville,United States,26-Jan-12,26.56,2,negative,FALSE,17-Apr-19,07-Jul-03,radiation therapy,deceased,53.07,FALSE,former smoker,regularly,vegan
+582,Wat,Copo,wcopog5@theguardian.com,582,Male,582,120,Düsseldorf,Germany,02-Jan-07,35.97,3,positive,TRUE,24-Aug-17,20-Jan-13,chemotherapy,deceased,111.9,TRUE,current smoker,regularly,vegetarian
+583,Olivier,Swaddle,oswaddleg6@godaddy.com,583,Male,583,27,Senneterre,Canada,12-Nov-00,8.68,1,positive,FALSE,02-Nov-14,20-Dec-14,surgery,deceased,49.69,FALSE,former smoker,never,vegetarian
+584,Ardra,Baddiley,abaddileyg7@cafepress.com,584,Female,584,78,Winter Haven,United States,30-Mar-03,48.86,3,negative,FALSE,08-May-18,07-Apr-06,chemotherapy,alive,102.09,TRUE,never smoked,occasionally,vegetarian
+585,Yuma,Hymas,yhymasg8@shutterfly.com,585,Male,585,38,Phoenix,United States,08-Nov-12,15.23,4,negative,TRUE,09-Feb-16,02-Jul-09,surgery,deceased,1.36,TRUE,current smoker,never,vegan
+586,Ortensia,Clewes,oclewesg9@dmoz.org,586,Female,586,69,Englewood,United States,12-May-14,31.64,2,positive,FALSE,26-Dec-01,24-Aug-02,radiation therapy,deceased,67.06,TRUE,never smoked,regularly,vegetarian
+587,Stevena,Skellen,sskellenga@tmall.com,587,Genderqueer,587,46,Miramichi,Canada,24-Sep-18,1.12,3,positive,FALSE,28-Aug-04,04-Jul-11,surgery,deceased,87.09,FALSE,never smoked,never,vegetarian
+588,Quincy,Brakewell,qbrakewellgb@mlb.com,588,Male,588,110,Frankfort,United States,20-Mar-02,9.8,2,positive,TRUE,25-Apr-19,06-Dec-00,surgery,deceased,70.61,FALSE,current smoker,occasionally,vegetarian
+589,Zitella,Henstone,zhenstonegc@digg.com,589,Female,589,111,Cookshire-Eaton,Canada,16-Feb-17,37.39,4,negative,TRUE,01-Dec-08,01-Nov-03,chemotherapy,alive,33.76,TRUE,current smoker,never,vegan
+590,Mordecai,Cissen,mcissengd@aol.com,590,Male,590,93,Cleveland,United States,04-Jul-07,46.02,3,positive,FALSE,27-Oct-15,23-Dec-05,chemotherapy,deceased,112.57,FALSE,former smoker,never,vegan
+591,Alf,Martinec,amartinecge@ed.gov,591,Male,591,51,Birmingham,United States,08-Mar-21,46.48,1,positive,TRUE,01-Oct-12,13-Apr-06,surgery,alive,30.52,TRUE,former smoker,regularly,vegan
+592,Mylo,Jachimak,mjachimakgf@xrea.com,592,Male,592,61,Taber,Canada,27-Jun-13,2.75,1,positive,TRUE,11-Mar-18,22-Jun-17,radiation therapy,alive,81.16,FALSE,former smoker,occasionally,vegan
+593,Tuesday,Huband,thubandgg@gravatar.com,593,Female,593,37,Jackson,United States,29-Jul-20,3.45,3,positive,FALSE,23-May-17,16-Jan-16,surgery,alive,98.19,FALSE,never smoked,occasionally,omnivore
+594,Michael,Muirhead,mmuirheadgh@seesaa.net,594,Male,594,81,Napierville,Canada,26-Feb-10,30.22,4,positive,FALSE,23-Oct-01,25-Mar-17,chemotherapy,deceased,113.34,TRUE,never smoked,occasionally,vegan
+595,Jaquelin,Flucks,jflucksgi@digg.com,595,Female,595,25,Vancouver,United States,19-May-14,19.57,4,negative,TRUE,26-Jan-07,14-Jul-11,chemotherapy,alive,112.61,FALSE,never smoked,occasionally,vegetarian
+596,Aloise,Tabbernor,atabbernorgj@google.es,596,Female,596,27,Owen Sound,Canada,26-Aug-10,4.95,4,negative,TRUE,03-Oct-09,16-May-09,surgery,deceased,37.39,FALSE,never smoked,occasionally,vegan
+597,Burg,Toohey,btooheygk@icio.us,597,Male,597,111,Rochester,United States,15-Nov-02,25.97,3,positive,TRUE,11-Jul-01,11-Jun-19,surgery,alive,113.71,FALSE,current smoker,regularly,vegetarian
+598,Millisent,Mattschas,mmattschasgl@boston.com,598,Female,598,44,Kerrobert,Canada,16-Sep-01,33.7,1,positive,FALSE,21-Mar-14,03-Dec-01,radiation therapy,deceased,67.1,FALSE,former smoker,regularly,vegetarian
+599,Filip,Leile,fleilegm@fastcompany.com,599,Male,599,23,Phoenix,United States,27-Dec-14,33.66,3,negative,FALSE,16-Dec-16,21-Aug-12,chemotherapy,deceased,91.87,FALSE,current smoker,occasionally,omnivore
+600,Alena,Sybe,asybegn@chron.com,600,Female,600,66,Hannover,Germany,14-Jul-02,1.11,3,negative,FALSE,21-Jul-01,09-Jun-11,radiation therapy,alive,113.58,TRUE,current smoker,regularly,vegetarian
+601,Vern,Collelton,vcolleltongo@guardian.co.uk,601,Male,601,17,Sainte-Anne-des-Plaines,Canada,25-Nov-01,11.67,4,negative,TRUE,19-Mar-01,20-Jun-20,surgery,alive,51.28,FALSE,former smoker,occasionally,vegan
+602,Heddi,Hannaby,hhannabygp@bluehost.com,602,Female,602,102,Drummondville,Canada,16-Nov-01,23.94,1,negative,TRUE,31-Dec-05,30-Jul-19,radiation therapy,deceased,10.44,TRUE,never smoked,occasionally,vegan
+603,Serena,Creaney,screaneygq@google.co.jp,603,Female,603,26,Kitimat,Canada,09-Dec-13,19.36,1,positive,FALSE,18-Mar-17,01-Jun-04,chemotherapy,alive,11.91,TRUE,current smoker,never,omnivore
+604,Jervis,Buckby,jbuckbygr@sciencedirect.com,604,Male,604,27,Warren,United States,29-Jun-01,45.73,2,negative,TRUE,01-Jun-05,30-Dec-14,chemotherapy,alive,113.13,TRUE,current smoker,never,vegetarian
+605,Maurita,Coles,mcolesgs@columbia.edu,605,Female,605,9,Gatesville,United States,16-Sep-09,44.26,1,negative,TRUE,21-Feb-07,01-Oct-04,surgery,deceased,44.42,FALSE,former smoker,never,omnivore
+606,Gunther,Kneale,gknealegt@jugem.jp,606,Male,606,59,Anchorage,United States,18-Sep-21,25.87,2,positive,FALSE,28-Nov-01,22-Apr-04,radiation therapy,alive,26.53,FALSE,former smoker,occasionally,vegan
+607,Ruben,Le Pruvost,rlepruvostgu@fastcompany.com,607,Male,607,70,Magrath,Canada,23-Mar-09,0.9,4,negative,FALSE,22-May-12,18-Mar-17,chemotherapy,deceased,2.28,FALSE,current smoker,occasionally,vegetarian
+608,Chandler,Swindell,cswindellgv@ed.gov,608,Male,608,110,Omaha,United States,18-Mar-02,11.98,2,negative,TRUE,05-Nov-14,22-Jun-11,radiation therapy,deceased,72.43,TRUE,never smoked,never,vegetarian
+609,Tulley,Klimentyev,tklimentyevgw@squarespace.com,609,Male,609,21,Saint Louis,United States,26-May-08,33.89,3,positive,FALSE,22-Oct-12,03-Mar-19,surgery,deceased,49.41,TRUE,former smoker,occasionally,omnivore
+610,Palm,Corke,pcorkegx@amazon.co.jp,610,Male,610,35,Stony Plain,Canada,04-May-02,18.54,2,negative,TRUE,30-Jun-02,25-Dec-02,chemotherapy,deceased,87.51,FALSE,current smoker,never,vegan
+611,Benetta,Boram,bboramgy@sun.com,611,Polygender,611,34,Springfield,United States,06-Oct-08,26.58,2,negative,TRUE,03-Nov-07,06-Oct-21,surgery,deceased,82,TRUE,current smoker,regularly,vegan
+612,Sibbie,Waber,swabergz@google.com.br,612,Female,612,109,Claresholm,Canada,08-Jan-12,10.61,3,positive,TRUE,30-Oct-13,27-Aug-16,radiation therapy,deceased,99.64,FALSE,current smoker,never,omnivore
+613,Barret,Downe,bdowneh0@yahoo.com,613,Male,613,114,Irvine,United States,04-Dec-02,17.74,2,negative,FALSE,31-Jan-15,11-Apr-07,chemotherapy,deceased,33.46,TRUE,never smoked,regularly,vegetarian
+614,Roseanne,Kolin,rkolinh1@rediff.com,614,Female,614,41,Daytona Beach,United States,20-Oct-15,26.04,4,negative,FALSE,28-Oct-09,18-Sep-05,chemotherapy,alive,46.98,FALSE,never smoked,occasionally,omnivore
+615,Sena,Lefridge,slefridgeh2@gmpg.org,615,Female,615,11,Memphis,United States,10-Jul-19,42.02,1,positive,TRUE,02-Jul-03,25-Aug-16,radiation therapy,alive,109.08,TRUE,former smoker,regularly,vegan
+616,Kiri,Lishmund,klishmundh3@simplemachines.org,616,Female,616,75,Young America,United States,20-Oct-17,39.99,4,positive,FALSE,31-Aug-08,21-May-00,surgery,deceased,89.48,TRUE,never smoked,never,vegan
+617,Jarrid,De Maria,jdemariah4@typepad.com,617,Male,617,88,Fort McMurray,Canada,20-Apr-19,5.55,4,negative,TRUE,21-Feb-03,12-Aug-13,radiation therapy,alive,7.37,FALSE,current smoker,regularly,vegetarian
+618,Lorne,Wolford,lwolfordh5@cnbc.com,618,Female,618,94,Taber,Canada,23-Jun-07,29.16,4,positive,TRUE,04-Sep-05,25-Apr-05,surgery,alive,32.11,FALSE,current smoker,occasionally,omnivore
+619,Gerome,Naismith,gnaismithh6@lycos.com,619,Male,619,58,Rochester,United States,10-Apr-01,22.97,3,positive,FALSE,28-Jun-07,25-Oct-08,chemotherapy,deceased,33.1,FALSE,current smoker,never,vegan
+620,Jamal,Housiaux,jhousiauxh7@cam.ac.uk,620,Bigender,620,52,Houston,United States,20-Jan-19,18.51,1,positive,FALSE,14-Jan-19,31-Jul-01,radiation therapy,deceased,61.05,FALSE,never smoked,occasionally,vegetarian
+621,Joyce,Jirzik,jjirzikh8@people.com.cn,621,Female,621,91,Washington,United States,27-Apr-07,16.25,4,positive,FALSE,02-Aug-19,24-Sep-10,radiation therapy,alive,0.77,TRUE,former smoker,regularly,vegetarian
+622,Phillipe,Raw,prawh9@imageshack.us,622,Male,622,95,Inglewood,United States,14-Oct-07,43.19,3,positive,TRUE,16-Sep-11,10-Jan-17,surgery,alive,75.72,TRUE,former smoker,never,omnivore
+623,Tammie,Molineux,tmolineuxha@naver.com,623,Bigender,623,72,Washington,United States,22-Oct-01,9.67,1,negative,FALSE,06-Jul-15,14-Nov-19,radiation therapy,deceased,7.54,TRUE,current smoker,occasionally,vegetarian
+624,Flora,Gietz,fgietzhb@sbwire.com,624,Female,624,7,Huntington,United States,28-Oct-20,30.55,4,positive,TRUE,11-Aug-06,12-Mar-01,chemotherapy,deceased,3.57,TRUE,current smoker,regularly,vegetarian
+625,Halette,Wakelam,hwakelamhc@myspace.com,625,Female,625,0,Toledo,United States,07-Jul-17,6.36,3,negative,FALSE,17-Oct-13,07-Jan-21,chemotherapy,deceased,44.21,TRUE,former smoker,regularly,vegetarian
+626,Otto,Barfford,obarffordhd@foxnews.com,626,Male,626,8,Kitchener,Canada,13-Aug-07,16.5,1,positive,FALSE,04-Sep-11,07-Jul-01,surgery,alive,64.94,FALSE,former smoker,occasionally,vegetarian
+627,Conant,Kretchmer,ckretchmerhe@admin.ch,627,Male,627,105,Scranton,United States,30-Nov-05,33.98,3,positive,FALSE,22-Feb-18,25-Jul-13,radiation therapy,alive,56.45,FALSE,never smoked,regularly,omnivore
+628,Albertine,Lumsdale,alumsdalehf@yellowbook.com,628,Female,628,74,Lafayette,United States,04-Apr-08,31.8,3,positive,TRUE,20-Apr-20,05-May-02,radiation therapy,alive,79.58,FALSE,never smoked,never,vegetarian
+629,Liz,Trineman,ltrinemanhg@arizona.edu,629,Female,629,116,Toledo,United States,18-Oct-14,24.24,1,negative,FALSE,27-Apr-01,08-Sep-19,surgery,alive,69.9,FALSE,current smoker,regularly,vegetarian
+630,Ettore,Simonett,esimonetthh@cargocollective.com,630,Male,630,101,Olympia,United States,19-May-16,17.04,2,negative,TRUE,21-Jan-02,25-Jan-01,radiation therapy,alive,6.76,TRUE,never smoked,occasionally,vegan
+631,Meriel,Currier,mcurrierhi@surveymonkey.com,631,Female,631,57,Sainte-Anne-des-Plaines,Canada,21-Apr-01,1.06,1,positive,TRUE,06-Mar-13,15-Jul-19,chemotherapy,deceased,15.92,FALSE,never smoked,regularly,vegetarian
+632,Bryn,Orme,bormehj@alibaba.com,632,Male,632,61,Washington,United States,20-Nov-02,21.64,2,positive,TRUE,16-Jul-12,19-Dec-13,radiation therapy,alive,41.38,TRUE,current smoker,never,omnivore
+633,Coleen,Bendley,cbendleyhk@arizona.edu,633,Female,633,80,Houston,United States,29-Mar-00,29.16,2,positive,TRUE,26-Aug-13,31-Aug-12,chemotherapy,alive,10.2,FALSE,current smoker,regularly,omnivore
+634,Hillie,Janowski,hjanowskihl@freewebs.com,634,Male,634,32,Syracuse,United States,24-Jul-16,36.65,1,positive,TRUE,02-Aug-06,09-Sep-16,radiation therapy,deceased,36.1,FALSE,former smoker,never,vegetarian
+635,Tammara,Blomfield,tblomfieldhm@vimeo.com,635,Female,635,116,San Diego,United States,17-Dec-04,43.51,2,positive,FALSE,02-Sep-12,20-Aug-12,radiation therapy,alive,102.39,TRUE,never smoked,never,omnivore
+636,Anna-diana,Craze,acrazehn@quantcast.com,636,Female,636,79,Houston,United States,22-Oct-03,26.69,4,positive,TRUE,28-Jul-08,15-Mar-18,surgery,deceased,27.55,FALSE,never smoked,regularly,vegan
+637,Mortimer,Pelman,mpelmanho@nationalgeographic.com,637,Male,637,88,San Antonio,United States,05-Oct-04,45.12,3,negative,TRUE,25-Jun-00,12-Aug-14,radiation therapy,alive,46.81,TRUE,former smoker,never,vegan
+638,Miguelita,Remmer,mremmerhp@miitbeian.gov.cn,638,Female,638,51,Biggar,Canada,12-Nov-12,31.31,3,positive,FALSE,30-Jan-06,07-Apr-10,surgery,deceased,60.28,TRUE,current smoker,occasionally,vegan
+639,Morgan,Bischop,mbischophq@weibo.com,639,Female,639,44,Kerrobert,Canada,23-Jun-02,35.17,3,negative,TRUE,18-Oct-20,23-Dec-08,radiation therapy,deceased,90.55,TRUE,never smoked,regularly,omnivore
+640,Chaddie,St. Ledger,cstledgerhr@miibeian.gov.cn,640,Male,640,106,San Bernardino,United States,23-Mar-08,26.48,4,negative,TRUE,15-Aug-16,16-Sep-15,radiation therapy,alive,66.35,FALSE,former smoker,regularly,omnivore
+641,Bobbette,Donovin,bdonovinhs@theguardian.com,641,Female,641,80,Cheyenne,United States,02-Nov-03,25.96,3,negative,TRUE,01-Jun-11,16-Oct-07,surgery,alive,83.22,TRUE,former smoker,never,vegetarian
+642,Linea,Finnis,lfinnisht@twitpic.com,642,Polygender,642,23,Hamburg,Germany,04-Mar-16,40.33,2,positive,TRUE,30-Jan-11,21-Oct-02,chemotherapy,deceased,26.21,FALSE,former smoker,never,vegetarian
+643,Michel,Tremaine,mtremainehu@ifeng.com,643,Male,643,106,North Bay,Canada,10-Dec-19,16.72,3,positive,FALSE,30-May-11,17-Nov-02,chemotherapy,alive,82.01,TRUE,current smoker,never,omnivore
+644,Lyle,Seed,lseedhv@unblog.fr,644,Male,644,72,Houston,United States,07-Feb-08,19.6,3,negative,FALSE,30-Dec-20,09-Nov-15,chemotherapy,deceased,23.87,TRUE,former smoker,regularly,vegetarian
+645,Avis,Nussii,anussiihw@blogs.com,645,Polygender,645,119,Dallas,United States,11-Jun-07,4.72,1,negative,FALSE,24-Jan-06,15-Jan-02,radiation therapy,alive,105.75,FALSE,former smoker,regularly,vegan
+646,Benita,Breyt,bbreythx@ameblo.jp,646,Female,646,60,Fairview,Canada,29-Dec-11,4.87,4,positive,FALSE,16-Oct-21,25-Oct-08,radiation therapy,deceased,49.11,FALSE,never smoked,occasionally,vegan
+647,Korella,Rantoull,krantoullhy@dedecms.com,647,Female,647,112,Seaton,United Kingdom,05-Sep-15,32.18,3,negative,TRUE,08-May-02,01-May-15,surgery,deceased,104.33,FALSE,current smoker,occasionally,omnivore
+648,Dot,Pellew,dpellewhz@msu.edu,648,Female,648,31,Concord,Canada,14-Nov-20,26.63,2,negative,TRUE,17-May-08,11-Feb-10,radiation therapy,alive,96.8,FALSE,never smoked,regularly,vegan
+649,Evey,Pyecroft,epyecrofti0@ehow.com,649,Female,649,92,Estevan,Canada,02-Jun-20,43.77,1,positive,TRUE,17-Jun-20,07-Mar-09,chemotherapy,alive,69.18,FALSE,never smoked,never,vegan
+650,Obadias,Andriss,oandrissi1@ask.com,650,Male,650,102,Raleigh,United States,28-Jun-12,16.46,4,positive,TRUE,13-Aug-19,11-Jul-14,chemotherapy,alive,104.82,FALSE,never smoked,never,vegan
+651,Quincy,Rilston,qrilstoni2@salon.com,651,Non-binary,651,83,Erie,United States,15-Dec-05,34.69,2,positive,TRUE,27-Oct-10,18-Sep-00,radiation therapy,alive,16.68,FALSE,current smoker,regularly,vegan
+652,Carrie,Eglin,ceglini3@microsoft.com,652,Polygender,652,12,New York City,United States,24-May-13,21.03,3,positive,FALSE,07-Oct-20,16-Dec-02,surgery,alive,61.62,FALSE,current smoker,occasionally,vegan
+653,Brant,Morley,bmorleyi4@shinystat.com,653,Male,653,78,Campbellton,Canada,26-Aug-16,42.18,4,negative,TRUE,10-Aug-18,12-Dec-11,chemotherapy,alive,73.74,TRUE,never smoked,occasionally,vegan
+654,Evaleen,Barnhill,ebarnhilli5@friendfeed.com,654,Non-binary,654,36,San Antonio,United States,27-Oct-10,45.1,2,positive,FALSE,25-Aug-15,11-Dec-16,chemotherapy,deceased,41.02,TRUE,former smoker,regularly,vegan
+655,Thia,Farryann,tfarryanni6@friendfeed.com,655,Female,655,44,Garden Grove,United States,07-Jan-17,13.33,4,negative,TRUE,07-Jul-20,27-May-19,surgery,alive,90.44,TRUE,former smoker,regularly,vegetarian
+656,Mellie,Windibank,mwindibanki7@nhs.uk,656,Female,656,106,Essen,Germany,05-Aug-12,14.58,2,negative,TRUE,21-Jun-18,22-Aug-17,chemotherapy,deceased,21.72,FALSE,former smoker,occasionally,vegan
+657,Kenyon,Curnow,kcurnowi8@gizmodo.com,657,Male,657,34,Washington,United States,25-Jun-11,14.71,2,negative,FALSE,07-Sep-00,30-Mar-12,surgery,deceased,114.46,TRUE,current smoker,regularly,vegan
+658,Zacharias,Arent,zarenti9@theatlantic.com,658,Male,658,40,Athabasca,Canada,30-Apr-16,25.2,4,positive,FALSE,09-Dec-15,02-Feb-00,surgery,alive,27.58,FALSE,never smoked,never,vegetarian
+659,Annalise,Twaite,atwaiteia@psu.edu,659,Female,659,60,Tampa,United States,22-May-04,19.83,2,positive,FALSE,06-Dec-08,08-Mar-17,radiation therapy,alive,96.21,TRUE,former smoker,never,vegan
+660,Josie,Bottleson,jbottlesonib@paginegialle.it,660,Genderfluid,660,85,Saint-Bruno,Canada,03-May-14,1.27,2,negative,TRUE,19-Apr-08,26-Aug-04,radiation therapy,alive,30.94,TRUE,never smoked,regularly,vegetarian
+661,Michelina,Kinzett,mkinzettic@php.net,661,Non-binary,661,25,Hope,Canada,17-Mar-08,22.51,2,negative,TRUE,29-Sep-18,01-Oct-05,surgery,deceased,18.53,TRUE,current smoker,occasionally,vegan
+662,Simeon,O'Cannavan,socannavanid@youku.com,662,Male,662,78,Grand Rapids,United States,26-Jan-17,4.1,4,negative,FALSE,31-Oct-17,14-Sep-01,surgery,alive,95.98,TRUE,never smoked,regularly,vegetarian
+663,Padraic,Cuttler,pcuttlerie@bloglovin.com,663,Male,663,52,Denver,United States,09-Sep-12,27.87,4,negative,FALSE,21-Nov-02,12-Feb-00,surgery,deceased,59.39,TRUE,never smoked,regularly,vegan
+664,Fitz,Mullaney,fmullaneyif@live.com,664,Male,664,77,Birmingham,United States,20-Jun-15,45.73,4,negative,FALSE,07-Aug-15,19-May-09,radiation therapy,deceased,107.08,FALSE,current smoker,occasionally,omnivore
+665,Farrah,Thompkins,fthompkinsig@japanpost.jp,665,Female,665,101,Midland,United States,11-Oct-12,29.76,2,positive,TRUE,08-May-06,18-Feb-03,surgery,deceased,23.49,FALSE,never smoked,regularly,omnivore
+666,Kennedy,Alvarado,kalvaradoih@go.com,666,Male,666,93,Madison,United States,27-Mar-16,33.87,4,positive,TRUE,24-Oct-09,16-Jul-08,radiation therapy,alive,107.68,FALSE,former smoker,never,vegan
+667,Jimmy,Rate,jrateii@psu.edu,667,Male,667,18,Midland,Canada,10-Jun-06,4.63,3,positive,FALSE,28-Jan-18,22-Feb-01,surgery,deceased,106.34,TRUE,current smoker,regularly,vegetarian
+668,Callean,Schistl,cschistlij@vk.com,668,Male,668,18,Berlin,Germany,23-Jan-01,20.42,3,positive,FALSE,30-May-01,08-May-13,chemotherapy,deceased,108.39,FALSE,former smoker,regularly,vegetarian
+669,Adolph,Kubicek,akubicekik@purevolume.com,669,Male,669,23,Huntsville,United States,28-Dec-02,36.42,4,positive,TRUE,15-Jul-00,21-May-13,radiation therapy,alive,90.59,FALSE,former smoker,never,vegan
+670,Dinah,Leroux,dlerouxil@sina.com.cn,670,Female,670,51,Skatepark,Canada,22-May-02,18.24,4,negative,FALSE,27-Jun-14,25-Feb-03,chemotherapy,deceased,13.27,TRUE,former smoker,never,vegetarian
+671,Jamima,Skellen,jskellenim@dropbox.com,671,Female,671,58,Wabana,Canada,13-Jan-11,25.66,2,positive,TRUE,08-Nov-03,05-Oct-00,chemotherapy,alive,54.83,FALSE,current smoker,regularly,omnivore
+672,Fred,Jacquemy,fjacquemyin@vimeo.com,672,Male,672,114,Ferme-Neuve,Canada,12-Jul-12,12.34,1,negative,FALSE,28-Sep-16,26-Jun-21,chemotherapy,alive,102.09,FALSE,former smoker,regularly,omnivore
+673,Felecia,Misken,fmiskenio@printfriendly.com,673,Female,673,66,Charlemagne,Canada,25-Jul-06,11.38,4,negative,FALSE,08-Nov-02,19-Jun-20,chemotherapy,deceased,88.49,FALSE,current smoker,regularly,vegan
+674,Ardyth,Gouldbourn,agouldbournip@tinypic.com,674,Female,674,79,Fort Wayne,United States,23-Nov-13,13.06,3,positive,FALSE,30-Nov-01,05-Oct-05,radiation therapy,alive,93.39,FALSE,never smoked,never,vegan
+675,Lynn,Darbey,ldarbeyiq@simplemachines.org,675,Non-binary,675,4,Newport News,United States,27-Jun-12,13.05,2,negative,FALSE,01-Aug-05,30-Jan-12,chemotherapy,deceased,100.73,TRUE,former smoker,occasionally,vegan
+676,Brew,Daniau,bdaniauir@fotki.com,676,Male,676,110,Düsseldorf,Germany,17-Apr-02,48.03,2,positive,FALSE,19-Oct-20,09-Sep-06,surgery,alive,1.34,FALSE,former smoker,regularly,vegan
+677,Ginevra,Laweles,glawelesis@imgur.com,677,Genderfluid,677,21,Houston,United States,28-Dec-11,22.61,4,positive,FALSE,22-Jan-09,24-Apr-20,chemotherapy,deceased,47.96,TRUE,former smoker,regularly,omnivore
+678,Gabriell,Beastall,gbeastallit@joomla.org,678,Female,678,24,Minneapolis,United States,05-Jan-08,43.99,1,negative,TRUE,27-Jul-12,02-Feb-00,radiation therapy,deceased,109.28,FALSE,former smoker,occasionally,vegetarian
+679,Ferdinande,Stihl,fstihliu@live.com,679,Female,679,12,Warren,United States,01-Feb-17,35.27,1,positive,TRUE,19-Jan-09,23-Jan-14,surgery,alive,76.53,TRUE,former smoker,occasionally,vegetarian
+680,Wynn,Watmough,wwatmoughiv@desdev.cn,680,Female,680,76,Harrisburg,United States,19-Jan-05,2.99,3,positive,TRUE,11-Apr-06,12-Jan-07,radiation therapy,deceased,98.03,FALSE,current smoker,never,vegan
+681,Paulie,Aggott,paggottiw@vkontakte.ru,681,Male,681,89,Raymond,Canada,09-Jun-07,2.93,2,positive,FALSE,14-Oct-16,24-Jan-04,radiation therapy,alive,97.13,FALSE,former smoker,never,vegan
+682,Kyle,Ricketts,krickettsix@netscape.com,682,Male,682,118,Little Current,Canada,06-Oct-16,34.06,3,negative,FALSE,27-May-21,06-Jul-14,surgery,deceased,22.39,FALSE,current smoker,regularly,vegetarian
+683,Gale,Latour,glatouriy@china.com.cn,683,Male,683,52,Québec,Canada,13-Oct-21,39.67,3,negative,TRUE,02-Jun-19,02-May-20,radiation therapy,alive,53.2,TRUE,current smoker,never,omnivore
+684,Cassondra,Mainland,cmainlandiz@eventbrite.com,684,Female,684,111,Magog,Canada,11-Feb-17,6.28,3,negative,TRUE,14-Oct-06,11-Sep-16,chemotherapy,deceased,74,TRUE,former smoker,never,omnivore
+685,Aldon,Scotchmur,ascotchmurj0@csmonitor.com,685,Male,685,58,Gainesville,United States,27-Jan-02,31.68,2,negative,TRUE,17-Apr-16,23-Jun-19,surgery,deceased,41.81,TRUE,current smoker,regularly,omnivore
+686,Artair,Shyre,ashyrej1@bing.com,686,Male,686,40,Dallas,United States,21-Apr-07,42.31,1,positive,TRUE,13-Jan-05,04-Apr-10,surgery,alive,42.22,TRUE,never smoked,regularly,omnivore
+687,Dale,Baudesson,dbaudessonj2@unesco.org,687,Female,687,38,Dillenburg,Germany,29-May-18,24.96,4,positive,TRUE,17-Jan-01,15-Sep-06,surgery,alive,100.9,FALSE,former smoker,occasionally,vegetarian
+688,Roseanne,Satterly,rsatterlyj3@dagondesign.com,688,Female,688,70,Berlin,Germany,28-Feb-01,36.98,2,negative,FALSE,05-Dec-01,17-Feb-08,surgery,alive,103.82,FALSE,current smoker,regularly,vegetarian
+689,Sam,Asman,sasmanj4@phpbb.com,689,Male,689,15,Sheffield,United Kingdom,08-Mar-15,33.37,4,positive,TRUE,28-Dec-10,20-Sep-17,radiation therapy,alive,11.68,FALSE,current smoker,regularly,vegetarian
+690,Nevins,Bardill,nbardillj5@unblog.fr,690,Male,690,44,Springfield,United States,14-Mar-00,23.19,1,negative,FALSE,19-Nov-09,21-Mar-08,surgery,alive,3.02,FALSE,former smoker,occasionally,omnivore
+691,Randolph,Robic,rrobicj6@123-reg.co.uk,691,Male,691,65,Walnut Grove,Canada,16-Jun-20,26.94,4,negative,FALSE,28-May-18,17-Mar-11,surgery,alive,108.71,TRUE,never smoked,regularly,vegetarian
+692,Ashely,Mirando,amirandoj7@npr.org,692,Female,692,71,Atlanta,United States,30-Dec-08,35.32,3,negative,FALSE,04-Dec-15,28-Apr-01,surgery,deceased,72.88,TRUE,current smoker,never,omnivore
+693,Wanids,Busfield,wbusfieldj8@cnbc.com,693,Female,693,27,Montgomery,United States,08-May-09,46.86,2,negative,TRUE,31-Dec-17,28-Mar-17,surgery,alive,47.84,FALSE,former smoker,never,vegetarian
+694,Killy,Brunnen,kbrunnenj9@hatena.ne.jp,694,Male,694,95,Moosomin,Canada,23-Sep-15,9.31,2,negative,TRUE,10-Feb-17,02-Jun-12,surgery,alive,33.09,TRUE,current smoker,regularly,vegetarian
+695,Donetta,Loughney,dloughneyja@thetimes.co.uk,695,Genderqueer,695,62,Belfast,United Kingdom,22-Apr-19,32.22,1,negative,TRUE,31-Jan-20,24-Jul-01,surgery,deceased,61.81,TRUE,never smoked,occasionally,omnivore
+696,Mahmud,Dammarell,mdammarelljb@ox.ac.uk,696,Non-binary,696,22,Macamic,Canada,05-Jun-20,15.66,2,negative,TRUE,30-Dec-16,02-May-07,radiation therapy,alive,92.65,TRUE,never smoked,regularly,vegan
+697,Alexandro,Rableau,arableaujc@51.la,697,Male,697,31,Tulsa,United States,02-Oct-19,27.35,2,negative,TRUE,18-Jan-13,15-May-09,radiation therapy,alive,104.98,FALSE,former smoker,occasionally,vegetarian
+698,Benito,Burling,bburlingjd@slashdot.org,698,Non-binary,698,118,New Orleans,United States,04-Sep-13,14.99,4,negative,FALSE,26-Mar-16,05-Feb-03,chemotherapy,deceased,36.29,TRUE,current smoker,regularly,omnivore
+699,Corina,Eallis,ceallisje@newsvine.com,699,Female,699,24,Louisville,United States,27-Jan-08,38.63,2,negative,FALSE,21-May-13,31-Dec-18,radiation therapy,deceased,46.47,TRUE,never smoked,regularly,vegan
+700,Lilla,Keighly,lkeighlyjf@storify.com,700,Female,700,68,Austin,United States,12-Jan-19,39.29,3,positive,TRUE,29-Nov-06,27-Feb-02,surgery,alive,17.51,TRUE,former smoker,regularly,vegan
+701,Clim,Witheford,cwithefordjg@prnewswire.com,701,Male,701,40,Greensboro,United States,27-Sep-11,21.85,3,positive,TRUE,01-Jan-10,28-Nov-08,radiation therapy,alive,39.67,TRUE,never smoked,regularly,vegan
+702,Reynard,De Pietri,rdepietrijh@china.com.cn,702,Male,702,50,Atlanta,United States,21-Aug-12,31.03,3,negative,TRUE,06-Dec-05,05-Feb-10,chemotherapy,alive,70.01,FALSE,former smoker,never,vegetarian
+703,Any,Monday,amondayji@bandcamp.com,703,Male,703,37,New York City,United States,06-Mar-19,38.24,2,negative,TRUE,01-Feb-15,28-Jul-21,radiation therapy,deceased,119.82,TRUE,former smoker,regularly,vegan
+704,Katha,Tease,kteasejj@buzzfeed.com,704,Female,704,1,Seattle,United States,09-Aug-05,11.29,3,negative,FALSE,25-Dec-01,19-Apr-02,chemotherapy,deceased,75.7,FALSE,former smoker,regularly,vegetarian
+705,Jenny,Egalton,jegaltonjk@ebay.co.uk,705,Female,705,71,Albany,United States,09-Aug-00,38.29,2,negative,FALSE,26-Aug-07,19-Nov-09,surgery,deceased,4.41,FALSE,current smoker,never,vegetarian
+706,Sallee,Leggett,sleggettjl@gizmodo.com,706,Female,706,86,Kansas City,United States,06-Mar-01,4.41,2,positive,FALSE,10-Dec-03,16-Sep-03,surgery,deceased,58.28,TRUE,former smoker,regularly,omnivore
+707,Garwin,Bethune,gbethunejm@networkadvertising.org,707,Male,707,19,Sheffield,United Kingdom,08-Nov-06,39.65,3,positive,FALSE,23-May-21,02-Dec-03,radiation therapy,deceased,0.11,FALSE,never smoked,regularly,omnivore
+708,Kandy,Beazley,kbeazleyjn@live.com,708,Female,708,58,Bryan,United States,22-Mar-18,38.98,4,positive,TRUE,20-Mar-20,09-Oct-08,radiation therapy,deceased,5.64,FALSE,former smoker,occasionally,vegan
+709,Henderson,Skelding,hskeldingjo@hao123.com,709,Male,709,88,Chicago,United States,30-May-11,10.29,1,negative,TRUE,18-Dec-18,21-Nov-08,chemotherapy,alive,80.48,FALSE,current smoker,regularly,vegetarian
+710,Frederique,Titta,ftittajp@noaa.gov,710,Female,710,45,Cache Creek,Canada,31-Dec-06,0.05,3,positive,FALSE,23-Jul-14,30-Oct-19,chemotherapy,alive,37.77,TRUE,former smoker,never,vegetarian
+711,Avivah,Shervil,asherviljq@soup.io,711,Female,711,49,Milton,Canada,15-May-15,47.44,4,negative,TRUE,10-Jun-01,09-Nov-11,surgery,deceased,107.19,TRUE,former smoker,regularly,omnivore
+712,David,Whitrod,dwhitrodjr@nhs.uk,712,Male,712,17,Madison,United States,12-Jul-10,24.72,4,negative,FALSE,18-Sep-15,10-May-08,chemotherapy,alive,96.79,FALSE,never smoked,never,vegetarian
+713,Marwin,Balasini,mbalasinijs@seesaa.net,713,Male,713,43,Sacramento,United States,09-Mar-05,34.37,2,negative,TRUE,15-Jun-04,15-Jul-17,chemotherapy,alive,88.34,TRUE,current smoker,never,vegetarian
+714,Wade,Maypowder,wmaypowderjt@meetup.com,714,Male,714,29,Atlanta,United States,19-May-14,49.14,4,positive,TRUE,19-Jan-05,17-Jan-10,surgery,deceased,115.36,FALSE,never smoked,regularly,omnivore
+715,Amelia,Haly,ahalyju@weather.com,715,Female,715,2,Espanola,Canada,04-Aug-02,25.96,3,positive,FALSE,01-Sep-20,29-Dec-07,radiation therapy,alive,4.76,TRUE,former smoker,never,omnivore
+716,Willem,Winckles,wwincklesjv@nyu.edu,716,Male,716,56,Charlottetown,Canada,23-Aug-16,45.72,1,negative,FALSE,12-Nov-15,22-May-06,chemotherapy,deceased,22.72,FALSE,former smoker,never,omnivore
+717,Andriette,Spier,aspierjw@naver.com,717,Female,717,13,Delray Beach,United States,01-Mar-06,14.8,1,negative,FALSE,07-Mar-06,20-Sep-21,surgery,deceased,77.23,TRUE,never smoked,regularly,omnivore
+718,Nedi,Jaslem,njaslemjx@nsw.gov.au,718,Female,718,62,Horton,United Kingdom,27-Jun-21,38.88,1,positive,FALSE,12-May-10,04-Jul-10,radiation therapy,alive,37.13,FALSE,current smoker,regularly,vegan
+719,Rosabel,Fassbindler,rfassbindlerjy@sina.com.cn,719,Female,719,1,Houston,United States,26-Sep-01,0.4,3,positive,TRUE,09-Oct-10,28-Apr-07,radiation therapy,deceased,23.62,TRUE,former smoker,occasionally,vegan
+720,Rosetta,Westell,rwestelljz@amazon.co.uk,720,Female,720,40,Santa Monica,United States,13-Sep-00,21.57,3,negative,FALSE,17-Feb-12,08-Sep-03,chemotherapy,deceased,38.69,TRUE,current smoker,regularly,vegetarian
+721,Salvidor,Shulver,sshulverk0@liveinternet.ru,721,Male,721,42,Fresno,United States,26-Dec-17,40.74,1,negative,TRUE,04-Oct-01,10-Feb-07,radiation therapy,deceased,7.03,TRUE,never smoked,never,omnivore
+722,Clo,Philipeau,cphilipeauk1@techcrunch.com,722,Female,722,98,Tacoma,United States,13-Jul-11,44.59,4,positive,TRUE,02-Feb-09,06-Jul-13,radiation therapy,deceased,82.51,TRUE,current smoker,regularly,vegetarian
+723,Chaunce,Jeafferson,cjeaffersonk2@bloglovin.com,723,Male,723,28,Leipzig,Germany,29-Nov-13,26.36,1,positive,FALSE,22-Apr-11,05-Nov-02,chemotherapy,deceased,119.97,TRUE,former smoker,regularly,omnivore
+724,Benjie,Curedell,bcuredellk3@bloomberg.com,724,Male,724,102,Barrhead,Canada,14-Mar-12,36.56,2,negative,TRUE,07-May-08,19-Jun-05,surgery,alive,3.19,FALSE,never smoked,occasionally,vegan
+725,Don,Garralts,dgarraltsk4@feedburner.com,725,Non-binary,725,36,Miami Beach,United States,14-Apr-05,6.38,2,negative,TRUE,16-Nov-11,08-Aug-06,chemotherapy,alive,81.9,TRUE,never smoked,occasionally,omnivore
+726,Dana,Emeny,demenyk5@techcrunch.com,726,Male,726,89,Paterson,United States,09-Feb-13,35.58,4,negative,FALSE,24-Jun-08,04-Nov-21,surgery,deceased,89.93,TRUE,former smoker,regularly,vegan
+727,Niels,Blackburne,nblackburnek6@amazonaws.com,727,Male,727,103,Sheffield,United Kingdom,07-Aug-18,19.14,3,positive,FALSE,29-Sep-17,05-May-19,chemotherapy,alive,76.45,TRUE,never smoked,occasionally,omnivore
+728,Samson,Bottom,sbottomk7@mac.com,728,Male,728,16,Pittsburgh,United States,10-Oct-13,13.46,2,positive,FALSE,27-Jun-17,22-Apr-03,chemotherapy,deceased,28.13,FALSE,current smoker,regularly,vegetarian
+729,Irwinn,Doncom,idoncomk8@reverbnation.com,729,Male,729,118,Saint-Félicien,Canada,29-Nov-08,27.84,2,negative,FALSE,17-Dec-03,09-Feb-15,surgery,alive,72.49,TRUE,former smoker,regularly,vegan
+730,Burtie,Zottoli,bzottolik9@taobao.com,730,Male,730,98,Macamic,Canada,04-Mar-21,48.47,2,positive,FALSE,27-Sep-14,10-Jan-04,surgery,deceased,77.6,FALSE,never smoked,occasionally,omnivore
+731,Byrle,Klosser,bklosserka@simplemachines.org,731,Male,731,41,El Paso,United States,02-May-10,24.7,1,positive,TRUE,27-Jul-09,22-Apr-12,radiation therapy,alive,88.18,TRUE,current smoker,occasionally,vegan
+732,Wendi,Binford,wbinfordkb@eepurl.com,732,Female,732,91,Columbus,United States,17-Jan-11,15.16,2,positive,FALSE,22-Feb-12,19-Jan-16,surgery,deceased,71.44,TRUE,never smoked,never,vegetarian
+733,Delia,De Bernardis,ddebernardiskc@quantcast.com,733,Female,733,6,Columbus,United States,08-Nov-21,31.66,1,positive,FALSE,08-Jan-05,10-Dec-04,chemotherapy,deceased,6.29,FALSE,current smoker,never,vegan
+734,Christa,Selwin,cselwinkd@delicious.com,734,Female,734,70,Braunschweig,Germany,05-Jan-18,28.65,2,negative,TRUE,03-Aug-11,03-Jun-06,radiation therapy,deceased,84.14,FALSE,never smoked,never,vegan
+735,Tammi,O'Hartnedy,tohartnedyke@nps.gov,735,Female,735,50,Little Rock,United States,01-May-16,37.96,2,positive,TRUE,19-Jan-13,06-Mar-17,chemotherapy,deceased,63.24,TRUE,former smoker,never,vegetarian
+736,Farra,Cordeau,fcordeaukf@studiopress.com,736,Female,736,45,Miami,United States,01-Dec-18,29.25,2,negative,TRUE,10-Jun-17,29-May-21,radiation therapy,alive,109.96,FALSE,former smoker,occasionally,vegan
+737,Noelyn,Gill,ngillkg@odnoklassniki.ru,737,Female,737,88,Boulder,United States,24-Apr-18,46.25,4,negative,TRUE,30-Mar-03,12-Jul-06,radiation therapy,deceased,59.06,TRUE,never smoked,occasionally,vegetarian
+738,Flory,Robathon,frobathonkh@amazon.de,738,Male,738,83,Waco,United States,15-Feb-03,31.47,2,positive,FALSE,17-Jan-15,25-Apr-11,radiation therapy,alive,34.85,TRUE,never smoked,occasionally,vegan
+739,Sula,Antonioni,santonioniki@umn.edu,739,Female,739,21,Topeka,United States,04-Aug-02,20.55,2,negative,FALSE,21-Sep-15,29-Oct-05,surgery,deceased,73.46,FALSE,never smoked,regularly,vegan
+740,Kristina,Challoner,kchallonerkj@usatoday.com,740,Female,740,48,Lexington,United States,31-Oct-21,25.71,2,negative,FALSE,01-Jan-02,24-Jan-09,chemotherapy,deceased,22.04,TRUE,current smoker,occasionally,omnivore
+741,Lorianna,O'Sullivan,losullivankk@dmoz.org,741,Female,741,32,Columbus,United States,04-Apr-18,21.95,2,positive,FALSE,27-Jan-07,18-Apr-05,radiation therapy,alive,14.58,TRUE,never smoked,occasionally,omnivore
+742,Hilton,Postill,hpostillkl@amazon.co.jp,742,Male,742,80,Saint Louis,United States,28-Sep-07,10.86,1,negative,TRUE,05-Aug-10,01-Mar-14,surgery,alive,1.73,TRUE,current smoker,regularly,omnivore
+743,Siegfried,Romanelli,sromanellikm@bravesites.com,743,Male,743,47,Brooklyn,United States,14-Dec-19,35.16,4,positive,TRUE,28-Jun-21,09-Oct-20,surgery,alive,25.04,TRUE,never smoked,occasionally,vegan
+744,Burtie,Disbury,bdisburykn@parallels.com,744,Male,744,62,Reno,United States,19-Dec-16,8.83,2,negative,TRUE,23-Feb-13,04-Jul-17,radiation therapy,deceased,3.03,FALSE,never smoked,never,vegetarian
+745,Brendon,Ardy,bardyko@prnewswire.com,745,Male,745,51,St. Thomas,Canada,08-Feb-17,33.19,3,negative,FALSE,11-Jun-06,28-Aug-16,chemotherapy,alive,36.19,TRUE,current smoker,regularly,vegan
+746,Darsie,Durrand,ddurrandkp@shop-pro.jp,746,Female,746,61,Wilkes Barre,United States,24-Oct-09,10.46,1,negative,TRUE,17-Sep-18,27-Jun-12,surgery,deceased,50.57,FALSE,never smoked,occasionally,vegetarian
+747,Farris,Goulborn,fgoulbornkq@sina.com.cn,747,Male,747,111,Annapolis,United States,03-Jul-20,44.02,2,positive,FALSE,24-Oct-00,16-Jan-13,surgery,deceased,16.23,TRUE,current smoker,regularly,vegetarian
+748,Justen,Gittoes,jgittoeskr@is.gd,748,Male,748,58,Niverville,Canada,23-Apr-15,6.71,4,negative,TRUE,08-Mar-01,22-Feb-10,surgery,deceased,73.78,FALSE,former smoker,occasionally,vegan
+749,Aridatha,Chattington,achattingtonks@uol.com.br,749,Female,749,59,Killam,Canada,19-Dec-02,25.72,1,positive,FALSE,17-Jul-06,03-Jun-19,surgery,deceased,56.13,TRUE,current smoker,regularly,vegan
+750,Beauregard,Eales,bealeskt@sakura.ne.jp,750,Male,750,89,Sainte-Anne-de-Bellevue,Canada,29-Oct-09,44.72,4,positive,FALSE,27-Dec-17,16-Sep-08,radiation therapy,alive,92.55,FALSE,current smoker,never,vegan
+751,Rasla,Mawhinney,rmawhinneyku@zdnet.com,751,Genderqueer,751,14,Midland,United States,05-May-02,10.52,1,positive,FALSE,17-Jan-14,26-Jan-00,chemotherapy,alive,104.86,FALSE,former smoker,occasionally,vegetarian
+752,Horacio,Guppie,hguppiekv@bandcamp.com,752,Male,752,19,Seattle,United States,18-Apr-16,22.4,3,positive,TRUE,22-Jul-07,13-May-03,radiation therapy,alive,21.63,FALSE,current smoker,occasionally,vegetarian
+753,Reece,Sherwill,rsherwillkw@nationalgeographic.com,753,Male,753,89,Aurora,United States,25-Aug-19,16.93,4,positive,FALSE,29-Nov-15,24-Oct-20,radiation therapy,alive,33.2,TRUE,current smoker,regularly,vegan
+754,Lodovico,Stanners,lstannerskx@adobe.com,754,Male,754,102,Charleston,United States,06-Jun-15,6.96,2,negative,FALSE,13-Nov-10,11-Jul-18,surgery,alive,111.11,FALSE,former smoker,occasionally,vegetarian
+755,Almeta,Cheers,acheersky@google.fr,755,Female,755,82,Burbank,United States,09-Apr-20,45.33,3,negative,FALSE,08-May-09,06-Dec-17,surgery,alive,14.28,TRUE,current smoker,never,vegetarian
+756,Austin,Calveley,acalveleykz@dyndns.org,756,Male,756,76,Denver,United States,06-Oct-20,2.49,1,negative,TRUE,16-Oct-02,11-Nov-06,radiation therapy,deceased,73.49,FALSE,never smoked,occasionally,vegetarian
+757,Piotr,Krale,pkralel0@sbwire.com,757,Male,757,59,Seattle,United States,20-Feb-00,5.19,2,negative,TRUE,30-Jul-13,11-Jan-05,radiation therapy,alive,93.1,TRUE,never smoked,never,vegan
+758,Haleigh,Joynes,hjoynesl1@delicious.com,758,Female,758,69,Düsseldorf,Germany,05-Nov-00,26.8,1,positive,TRUE,09-Apr-14,26-May-15,chemotherapy,alive,16.58,TRUE,former smoker,regularly,vegetarian
+759,Yvon,Hubery,yhuberyl2@bizjournals.com,759,Male,759,80,Berlin,Germany,05-Jul-06,31.87,4,negative,TRUE,04-Jan-07,10-Jul-18,radiation therapy,alive,56.57,TRUE,never smoked,occasionally,vegan
+760,Lucky,Simonnin,lsimonninl3@netscape.com,760,Female,760,49,Abbotsford,Canada,12-Oct-09,41.22,1,negative,TRUE,04-May-08,22-May-04,chemotherapy,deceased,2.14,FALSE,current smoker,never,omnivore
+761,Pietro,Sesons,psesonsl4@time.com,761,Male,761,118,Gananoque,Canada,11-Feb-03,35.66,3,positive,TRUE,30-Apr-06,13-Jul-08,radiation therapy,alive,47.46,FALSE,never smoked,regularly,omnivore
+762,Twyla,Tetther,ttettherl5@bloomberg.com,762,Female,762,117,Bronx,United States,02-Apr-09,33.92,4,negative,FALSE,01-Nov-02,17-Aug-03,chemotherapy,alive,78.3,TRUE,current smoker,occasionally,omnivore
+763,Kristien,Tunny,ktunnyl6@github.io,763,Female,763,116,Ormstown,Canada,15-Mar-03,30.23,3,negative,TRUE,16-Aug-20,14-Dec-03,radiation therapy,alive,76.34,FALSE,current smoker,occasionally,vegetarian
+764,Lin,Kaiser,lkaiserl7@sogou.com,764,Male,764,113,Fullerton,United States,11-Feb-02,11.63,2,positive,FALSE,18-Feb-16,04-Mar-00,radiation therapy,deceased,35.03,TRUE,never smoked,never,omnivore
+765,Caron,Gilman,cgilmanl8@ted.com,765,Female,765,73,Matagami,Canada,25-Mar-14,25.76,4,negative,TRUE,13-Oct-08,04-Feb-11,chemotherapy,alive,105.55,FALSE,current smoker,never,omnivore
+766,Ingemar,Corbett,icorbettl9@sitemeter.com,766,Male,766,61,Newton,United States,17-May-02,38.3,3,negative,FALSE,21-Jan-03,30-Mar-18,chemotherapy,alive,16.77,TRUE,current smoker,regularly,omnivore
+767,Normand,Pendre,npendrela@cmu.edu,767,Male,767,71,Denver,United States,28-Aug-09,46.43,3,negative,TRUE,04-Feb-00,13-Jan-18,radiation therapy,deceased,68.57,FALSE,former smoker,occasionally,vegetarian
+768,Dalia,Padkin,dpadkinlb@marriott.com,768,Female,768,42,Berlin,Germany,04-Nov-12,16.81,1,negative,FALSE,01-Dec-06,29-Apr-11,radiation therapy,alive,43.41,TRUE,never smoked,never,vegetarian
+769,Antoine,Veryan,averyanlc@facebook.com,769,Male,769,55,Bremen,Germany,30-Aug-04,36.9,3,negative,FALSE,18-Feb-18,15-May-15,surgery,alive,115.88,FALSE,current smoker,occasionally,vegan
+770,Stefania,Bratton,sbrattonld@yahoo.com,770,Female,770,33,Richmond,United States,21-Feb-08,14.8,3,negative,FALSE,02-Oct-18,04-Aug-04,chemotherapy,alive,117.31,FALSE,never smoked,never,vegetarian
+771,Chiarra,Casini,ccasinile@pinterest.com,771,Genderfluid,771,100,Detroit,United States,23-Dec-12,45.1,1,negative,TRUE,10-Aug-04,23-May-11,radiation therapy,deceased,107.21,TRUE,former smoker,regularly,vegan
+772,Caroljean,Beal,cbeallf@nytimes.com,772,Genderqueer,772,107,Charlotte,United States,23-Mar-15,26.83,3,positive,FALSE,03-Aug-19,22-Jul-08,radiation therapy,alive,87.11,TRUE,never smoked,never,omnivore
+773,Helena,Rubinowicz,hrubinowiczlg@myspace.com,773,Female,773,58,Terre Haute,United States,04-Nov-15,30.57,1,positive,FALSE,05-Mar-02,08-Jan-18,surgery,alive,95.6,TRUE,current smoker,regularly,omnivore
+774,Maddi,Tolland,mtollandlh@tmall.com,774,Female,774,76,Mercier,Canada,31-Dec-20,48.21,2,negative,TRUE,09-Aug-02,22-Oct-01,surgery,deceased,73.83,TRUE,former smoker,occasionally,vegan
+775,Chiarra,Skarr,cskarrli@thetimes.co.uk,775,Female,775,80,Lethbridge,Canada,11-Jul-15,7.15,3,negative,TRUE,17-Sep-15,06-May-07,radiation therapy,alive,69.56,TRUE,never smoked,occasionally,vegan
+776,Anders,Stendall,astendalllj@cloudflare.com,776,Male,776,33,Brooklyn,United States,21-Dec-16,840.87,2,negative,FALSE,14-May-11,30-Aug-21,radiation therapy,alive,7.07,TRUE,former smoker,never,vegan
+777,Ralf,Whiffen,rwhiffenlk@is.gd,777,Male,777,68,Ashley,United Kingdom,05-May-18,42.01,4,negative,TRUE,09-Aug-03,02-Feb-20,chemotherapy,deceased,67.57,FALSE,former smoker,never,omnivore
+778,Marnia,Forsdike,mforsdikell@globo.com,778,Female,778,118,Miami,United States,12-Oct-12,23.59,4,negative,TRUE,17-Dec-08,25-Apr-01,chemotherapy,deceased,99.39,FALSE,never smoked,occasionally,vegan
+779,Herold,Dargan,hdarganlm@squarespace.com,779,Male,779,17,Milton,United Kingdom,24-Nov-00,30.56,3,negative,FALSE,11-Feb-02,21-Nov-13,chemotherapy,deceased,83.47,FALSE,former smoker,occasionally,vegan
+780,Leonard,Burch,lburchln@stanford.edu,780,Bigender,780,43,Normanton,United Kingdom,22-Nov-13,41.96,2,positive,TRUE,07-Sep-05,21-Feb-09,chemotherapy,alive,49.62,TRUE,current smoker,never,omnivore
+781,Douglas,O'Fallowne,dofallownelo@comcast.net,781,Male,781,43,Lynchburg,United States,05-Jul-08,30.27,2,negative,FALSE,31-Jul-20,19-May-16,surgery,deceased,69.44,FALSE,never smoked,never,vegetarian
+782,Pierson,Heningham,pheninghamlp@berkeley.edu,782,Male,782,112,Berthierville,Canada,24-Jan-18,1.04,2,positive,TRUE,05-May-03,28-Jul-11,radiation therapy,alive,115.01,FALSE,never smoked,never,omnivore
+783,Nils,Roke,nrokelq@wikipedia.org,783,Male,783,56,Beaconsfield,Canada,08-Jan-07,11.73,4,positive,TRUE,21-Jan-07,16-Oct-09,chemotherapy,alive,6.49,TRUE,current smoker,never,vegetarian
+784,Linnet,Bellow,lbellowlr@shutterfly.com,784,Female,784,60,Cincinnati,United States,26-Sep-21,46.79,3,positive,TRUE,23-Dec-18,07-Jan-11,radiation therapy,deceased,71.91,FALSE,former smoker,never,vegan
+785,Aurel,McCusker,amccuskerls@sogou.com,785,Female,785,60,Charlotte,United States,21-May-12,42.05,2,negative,FALSE,03-Feb-00,28-May-11,surgery,alive,5.38,FALSE,former smoker,never,vegetarian
+786,Bertie,Jakoubec,bjakoubeclt@hud.gov,786,Male,786,84,Prince Rupert,Canada,28-Aug-07,40.36,3,negative,FALSE,11-Nov-03,20-Jul-06,surgery,deceased,94.92,FALSE,never smoked,regularly,vegetarian
+787,Hew,Simenet,hsimenetlu@sciencedaily.com,787,Male,787,85,Flushing,United States,30-Jul-14,24.29,3,negative,FALSE,16-Oct-02,30-Aug-15,surgery,deceased,62.88,FALSE,never smoked,occasionally,omnivore
+788,Gradey,Cashmore,gcashmorelv@imageshack.us,788,Male,788,82,Saint Louis,United States,05-Apr-06,33.51,1,negative,TRUE,12-Oct-06,03-Jul-08,surgery,deceased,101.81,FALSE,current smoker,regularly,vegan
+789,Karmen,Bennough,kbennoughlw@digg.com,789,Female,789,95,Cleveland,United States,22-Mar-06,6.65,1,positive,TRUE,05-May-13,10-Jul-03,surgery,alive,55.62,FALSE,former smoker,never,omnivore
+790,Fidel,Lawranson,flawransonlx@topsy.com,790,Male,790,50,Erfurt,Germany,24-Aug-07,4.57,3,negative,TRUE,07-Oct-11,10-Jul-17,chemotherapy,alive,97.69,TRUE,current smoker,occasionally,vegan
+791,Rosaline,Fewlass,rfewlassly@amazon.co.uk,791,Female,791,52,Erie,United States,15-Dec-19,4.72,3,negative,FALSE,21-Jul-21,07-Apr-09,radiation therapy,alive,61.97,FALSE,current smoker,regularly,omnivore
+792,Cesaro,Morgan,cmorganlz@reference.com,792,Male,792,25,Belfast,United Kingdom,01-Nov-03,26.23,3,positive,FALSE,21-Apr-08,20-May-00,surgery,alive,67.16,TRUE,never smoked,never,vegan
+793,Gennie,Dobell,gdobellm0@dyndns.org,793,Female,793,61,Atlanta,United States,13-Jun-02,17.09,2,positive,TRUE,15-Aug-12,28-Jun-11,radiation therapy,alive,92.18,TRUE,current smoker,regularly,vegetarian
+794,Giacomo,Crotty,gcrottym1@dedecms.com,794,Male,794,97,Mountain View,United States,02-Feb-16,7.6,4,positive,TRUE,16-Nov-08,13-May-05,surgery,alive,75.31,FALSE,current smoker,regularly,vegetarian
+795,Silvester,Reidie,sreidiem2@pbs.org,795,Male,795,1,Pictou,Canada,21-Aug-12,47.02,4,negative,FALSE,11-Jun-16,26-Apr-04,radiation therapy,deceased,28.65,TRUE,former smoker,occasionally,omnivore
+796,Debee,O'Crevy,docrevym3@theatlantic.com,796,Female,796,73,Wilkes Barre,United States,22-Mar-01,12.23,3,negative,FALSE,22-Jul-15,30-Dec-15,chemotherapy,alive,43.47,FALSE,never smoked,never,vegan
+797,Mariette,Worvill,mworvillm4@liveinternet.ru,797,Female,797,98,Harrisburg,United States,08-Nov-05,1.65,3,positive,TRUE,08-Apr-20,03-Nov-00,chemotherapy,deceased,45.51,FALSE,current smoker,occasionally,omnivore
+798,Chadwick,Handasyde,chandasydem5@myspace.com,798,Male,798,30,Baton Rouge,United States,06-Mar-14,29.18,3,negative,FALSE,15-Dec-15,07-Jul-04,surgery,deceased,65.86,TRUE,former smoker,occasionally,vegetarian
+799,Wenda,Kemer,wkemerm6@stumbleupon.com,799,Female,799,95,Reno,United States,19-Mar-21,37.89,1,negative,FALSE,12-Jun-03,03-Dec-21,radiation therapy,deceased,7.57,FALSE,never smoked,occasionally,omnivore
+800,Cleon,Fury,cfurym7@fastcompany.com,800,Non-binary,800,61,Minneapolis,United States,14-Jun-05,44.48,4,negative,TRUE,16-Jan-17,09-Nov-07,surgery,deceased,16.83,TRUE,former smoker,regularly,vegetarian
+801,Arri,Gallier,agallierm8@goodreads.com,801,Male,801,40,Wichita,United States,10-Mar-13,37.25,3,negative,FALSE,30-Jun-09,07-Aug-21,chemotherapy,deceased,112.62,FALSE,never smoked,occasionally,vegetarian
+802,Forrest,Kubek,fkubekm9@salon.com,802,Male,802,68,Macamic,Canada,11-Feb-07,26.15,1,positive,TRUE,07-Jun-03,23-Jan-11,radiation therapy,alive,89.29,FALSE,former smoker,occasionally,omnivore
+803,Jordan,Langsbury,jlangsburyma@myspace.com,803,Female,803,45,Dallas,United States,01-Feb-17,17.9,4,negative,FALSE,15-Apr-19,03-Jan-05,radiation therapy,alive,70.04,TRUE,never smoked,never,vegan
+804,Kylie,Pozzi,kpozzimb@cpanel.net,804,Male,804,110,Clearwater,United States,25-Jan-09,46.27,3,negative,FALSE,02-Jun-16,01-Apr-09,chemotherapy,alive,72.14,FALSE,former smoker,regularly,vegan
+805,Forster,Scholfield,fscholfieldmc@mit.edu,805,Bigender,805,82,Lexington,United States,26-May-06,42.97,3,positive,TRUE,02-Feb-11,19-Apr-14,chemotherapy,deceased,46.89,TRUE,current smoker,regularly,vegetarian
+806,Adelice,Korneichuk,akorneichukmd@stanford.edu,806,Female,806,89,München,Germany,17-May-08,16.25,3,negative,FALSE,28-Oct-21,05-Sep-18,radiation therapy,alive,33.99,TRUE,never smoked,never,vegan
+807,Cheslie,Daout,cdaoutme@yahoo.co.jp,807,Female,807,37,Vancouver,United States,14-Feb-12,30.07,4,positive,FALSE,27-Jul-21,05-Feb-07,surgery,alive,29.65,TRUE,never smoked,never,vegetarian
+808,Consolata,Stormonth,cstormonthmf@tinypic.com,808,Polygender,808,42,Fort Macleod,Canada,21-Jun-19,4.3,3,negative,FALSE,13-Oct-08,16-Feb-08,radiation therapy,deceased,113.66,FALSE,never smoked,never,vegetarian
+809,Elbertina,Schechter,eschechtermg@prweb.com,809,Female,809,10,Camlachie,Canada,23-Mar-08,23.33,1,positive,TRUE,08-Aug-13,11-Mar-14,surgery,deceased,35.26,FALSE,current smoker,never,vegan
+810,Rutherford,Edrich,redrichmh@blogs.com,810,Genderfluid,810,37,Boisbriand,Canada,30-Nov-10,35.45,2,positive,TRUE,26-Oct-07,04-Nov-17,chemotherapy,alive,82.78,TRUE,never smoked,occasionally,omnivore
+811,Oliy,Blackboro,oblackboromi@cyberchimps.com,811,Female,811,74,Dauphin,Canada,07-Feb-15,7.22,4,negative,FALSE,30-Dec-19,11-Jun-08,chemotherapy,deceased,106.21,FALSE,current smoker,never,vegan
+812,Mathew,Joburn,mjoburnmj@ifeng.com,812,Male,812,17,Mönchengladbach,Germany,04-Dec-13,16.76,1,negative,FALSE,31-Mar-12,26-Oct-18,surgery,deceased,45.67,TRUE,never smoked,occasionally,vegetarian
+813,Gates,Greaves,ggreavesmk@seesaa.net,813,Bigender,813,77,Winter Haven,United States,13-Oct-15,24.97,2,negative,TRUE,12-May-19,31-Aug-21,radiation therapy,alive,97.99,FALSE,never smoked,regularly,vegan
+814,Constantino,Josephov,cjosephovml@quantcast.com,814,Male,814,96,Fort Myers,United States,10-Jul-12,43.57,1,negative,TRUE,03-Nov-19,10-Jan-15,surgery,alive,68.05,TRUE,former smoker,never,vegetarian
+815,Crystie,Swainson,cswainsonmm@jigsy.com,815,Female,815,47,Atlanta,United States,11-Aug-03,18.16,2,positive,FALSE,11-Dec-21,12-Apr-11,chemotherapy,deceased,97.65,FALSE,current smoker,never,vegetarian
+816,Valenka,Fassman,vfassmanmn@prweb.com,816,Female,816,92,West Palm Beach,United States,26-Jan-13,42.81,2,positive,FALSE,01-Feb-01,09-Apr-16,surgery,alive,56.38,FALSE,former smoker,never,omnivore
+817,Theda,Charter,tchartermo@ebay.com,817,Female,817,50,Washington,United States,19-Jan-14,28.71,1,negative,FALSE,07-Aug-10,10-Sep-06,radiation therapy,deceased,57.09,TRUE,never smoked,regularly,vegan
+818,Alwin,Longland,alonglandmp@umn.edu,818,Genderfluid,818,67,Bakersfield,United States,14-Nov-02,25.31,1,positive,FALSE,03-Sep-17,24-Sep-16,surgery,deceased,27.7,FALSE,never smoked,never,vegetarian
+819,Ted,Marioneau,tmarioneaumq@bbc.co.uk,819,Female,819,88,Farnham,Canada,26-Nov-16,33.45,2,positive,FALSE,28-Apr-12,25-Jul-11,surgery,alive,19.17,TRUE,current smoker,regularly,vegetarian
+820,Goraud,Bickerdike,gbickerdikemr@icio.us,820,Genderqueer,820,21,Battle Creek,United States,26-Apr-21,6.55,1,negative,TRUE,24-Sep-00,12-Sep-10,radiation therapy,alive,108.77,FALSE,current smoker,occasionally,omnivore
+821,Matt,Putman,mputmanms@infoseek.co.jp,821,Male,821,117,Jacksonville,United States,19-May-16,4.43,3,positive,FALSE,24-Mar-12,29-May-02,radiation therapy,deceased,0.05,TRUE,former smoker,never,vegetarian
+822,Weider,Jowett,wjowettmt@dropbox.com,822,Male,822,109,Salt Lake City,United States,10-Nov-14,30.37,1,positive,TRUE,03-Nov-21,15-Apr-16,chemotherapy,deceased,18.09,FALSE,never smoked,regularly,vegetarian
+823,Regine,Nickolls,rnickollsmu@bandcamp.com,823,Female,823,4,North Cowichan,Canada,02-Sep-13,29.35,4,positive,FALSE,15-Oct-14,06-Aug-14,chemotherapy,deceased,93.42,FALSE,never smoked,never,omnivore
+824,Wadsworth,Bramsen,wbramsenmv@sitemeter.com,824,Male,824,103,Racine,United States,20-Jan-21,16.9,2,negative,TRUE,27-Aug-21,16-Aug-03,chemotherapy,deceased,82.2,TRUE,current smoker,regularly,vegan
+825,Wilt,Jessup,wjessupmw@cisco.com,825,Male,825,71,Dollard-Des Ormeaux,Canada,23-Oct-21,44.17,1,positive,FALSE,16-Aug-14,16-Jun-18,radiation therapy,alive,114.53,FALSE,never smoked,regularly,vegetarian
+826,Jeniffer,Knoble,jknoblemx@yelp.com,826,Female,826,59,Garden Grove,United States,27-Jan-08,24.3,3,negative,TRUE,11-Jun-03,21-Oct-00,chemotherapy,alive,76.35,FALSE,current smoker,occasionally,omnivore
+827,Zorine,McCarle,zmccarlemy@trellian.com,827,Bigender,827,11,Arlington,United States,27-Sep-08,6.71,3,negative,TRUE,04-Mar-07,02-Jul-06,chemotherapy,deceased,114.58,FALSE,never smoked,occasionally,vegan
+828,Corena,Darington,cdaringtonmz@godaddy.com,828,Female,828,91,Los Angeles,United States,08-May-04,22.33,2,negative,FALSE,01-Aug-15,08-Sep-21,chemotherapy,deceased,53.06,FALSE,former smoker,never,vegan
+829,Liliane,Coviello,lcoviellon0@mtv.com,829,Female,829,100,Winter Haven,United States,29-Mar-14,27.29,2,negative,TRUE,15-Oct-11,11-Jul-13,chemotherapy,deceased,85.96,FALSE,current smoker,regularly,omnivore
+830,Westbrooke,Bohike,wbohiken1@etsy.com,830,Male,830,5,Winter Haven,United States,17-May-14,13.05,2,positive,FALSE,04-Aug-20,04-Sep-02,radiation therapy,alive,85.11,TRUE,never smoked,occasionally,vegetarian
+831,Juan,Seckington,jseckingtonn2@dagondesign.com,831,Male,831,13,Pittsburgh,United States,09-Mar-21,38.8,1,positive,TRUE,11-Apr-01,17-May-01,surgery,alive,115.77,TRUE,never smoked,occasionally,vegan
+832,Ludovika,Norris,lnorrisn3@dion.ne.jp,832,Female,832,70,Oceanside,United States,10-Jun-16,38.26,2,negative,TRUE,11-Nov-03,04-Nov-15,radiation therapy,alive,115.08,FALSE,current smoker,regularly,vegan
+833,Sheffy,Faithorn,sfaithornn4@craigslist.org,833,Male,833,0,Oliver,Canada,14-Mar-09,31.48,3,positive,TRUE,10-Jul-17,23-Dec-01,radiation therapy,alive,118.71,FALSE,former smoker,occasionally,vegetarian
+834,Hazel,Gommowe,hgommowen5@xrea.com,834,Male,834,16,Belfast,United Kingdom,23-May-01,27.85,1,negative,TRUE,12-Oct-13,16-Dec-03,surgery,alive,107.72,FALSE,former smoker,regularly,vegetarian
+835,Luca,Kluger,lklugern6@miibeian.gov.cn,835,Male,835,27,Lawrenceville,United States,21-Jan-21,7,1,positive,TRUE,21-Mar-14,02-Jan-20,chemotherapy,deceased,58.98,TRUE,former smoker,regularly,omnivore
+836,Tiphani,Ugolini,tugolinin7@shareasale.com,836,Female,836,108,Miami,United States,13-Mar-17,29.93,4,positive,TRUE,25-Oct-10,05-Nov-18,chemotherapy,deceased,19.15,FALSE,current smoker,occasionally,omnivore
+837,Audrye,Towsey,atowseyn8@ifeng.com,837,Female,837,103,Maple Ridge,Canada,31-Aug-21,46.35,2,negative,TRUE,02-Jan-20,02-Sep-07,radiation therapy,deceased,118.7,FALSE,former smoker,regularly,vegetarian
+838,Fran,Godleman,fgodlemann9@facebook.com,838,Male,838,49,Harrison Brook,Canada,19-Sep-14,40.18,2,negative,TRUE,03-Oct-06,13-Feb-08,surgery,deceased,6.61,FALSE,current smoker,never,vegan
+839,Fredia,Spore,fsporena@elegantthemes.com,839,Female,839,34,Mesquite,United States,29-Dec-09,43.33,1,positive,TRUE,03-Mar-20,18-Apr-06,surgery,deceased,94.33,FALSE,never smoked,never,omnivore
+840,Dorelle,Stroband,dstrobandnb@hexun.com,840,Female,840,45,Saint-Constant,Canada,15-Apr-06,0.91,2,negative,FALSE,01-Jun-10,22-Dec-05,chemotherapy,deceased,10.32,TRUE,current smoker,occasionally,omnivore
+841,Torre,Alpin,talpinnc@hao123.com,841,Male,841,111,Sutton,United Kingdom,30-Jun-11,16.9,1,positive,FALSE,30-Apr-21,05-Jan-12,radiation therapy,deceased,118.91,TRUE,never smoked,never,vegetarian
+842,Odele,Terrell,oterrellnd@blinklist.com,842,Female,842,7,Baie-Comeau,Canada,03-Sep-09,27.83,1,negative,FALSE,27-Jul-18,01-May-09,radiation therapy,alive,3.44,FALSE,former smoker,never,vegan
+843,Edan,Bulbeck,ebulbeckne@moonfruit.com,843,Male,843,116,Rochester,United States,23-Aug-14,16.65,1,negative,FALSE,28-Aug-09,17-Oct-03,chemotherapy,alive,96.52,TRUE,current smoker,never,vegan
+844,Farlay,Fitzpayn,ffitzpaynnf@fema.gov,844,Male,844,19,Las Vegas,United States,23-Feb-21,36.25,4,negative,TRUE,13-Dec-17,29-May-11,radiation therapy,alive,105.66,TRUE,never smoked,occasionally,vegetarian
+845,Millie,Gretton,mgrettonng@google.pl,845,Female,845,49,Wolfville,Canada,10-May-08,11.49,4,positive,TRUE,23-Sep-00,08-Jun-15,chemotherapy,alive,92.88,TRUE,current smoker,occasionally,vegan
+846,Elijah,Casewell,ecasewellnh@w3.org,846,Male,846,110,Reston,United States,07-Feb-19,23.36,1,positive,TRUE,08-Oct-03,15-May-19,chemotherapy,deceased,50.51,FALSE,former smoker,occasionally,omnivore
+847,Leonard,Dewhirst,ldewhirstni@cnbc.com,847,Male,847,22,Seattle,United States,16-Jun-17,36.06,4,positive,TRUE,19-Nov-16,21-Mar-14,radiation therapy,deceased,73.34,FALSE,current smoker,regularly,omnivore
+848,Yevette,Lofts,yloftsnj@ehow.com,848,Female,848,75,Agassiz,Canada,13-May-10,3.37,4,negative,TRUE,09-Feb-11,18-Aug-19,chemotherapy,alive,95.91,FALSE,current smoker,occasionally,omnivore
+849,Henderson,Zack,hzacknk@homestead.com,849,Male,849,69,Winnipeg,Canada,05-Jan-19,45.25,1,negative,TRUE,12-May-14,30-May-12,radiation therapy,alive,117.25,FALSE,current smoker,regularly,vegetarian
+850,Allie,Lindemann,alindemannnl@nasa.gov,850,Male,850,83,Knoxville,United States,19-Nov-17,26.12,2,negative,FALSE,17-Jan-01,28-Nov-04,radiation therapy,deceased,67.08,TRUE,former smoker,regularly,omnivore
+851,Bendite,Leaf,bleafnm@chron.com,851,Female,851,64,Newark,United States,16-Jan-00,1.8,4,negative,TRUE,30-May-17,18-Oct-05,chemotherapy,deceased,99.75,TRUE,never smoked,never,omnivore
+852,Bessy,Kernell,bkernellnn@statcounter.com,852,Female,852,79,Nürnberg,Germany,01-Nov-05,29.47,1,positive,TRUE,28-May-05,17-Mar-04,chemotherapy,alive,70.75,FALSE,current smoker,occasionally,vegetarian
+853,Brannon,Tourville,btourvilleno@hc360.com,853,Male,853,78,Tampa,United States,26-Jun-05,27.4,2,positive,TRUE,10-May-20,31-Oct-09,chemotherapy,deceased,81.39,FALSE,current smoker,occasionally,omnivore
+854,Eveleen,Coop,ecoopnp@newyorker.com,854,Female,854,110,Windsor,Canada,05-Oct-13,47.33,1,positive,TRUE,08-Feb-17,16-Jul-10,chemotherapy,deceased,13.86,FALSE,former smoker,never,vegetarian
+855,Cecilius,Dagless,cdaglessnq@qq.com,855,Agender,855,67,Flushing,United States,18-Jan-05,7.94,1,negative,TRUE,04-Sep-16,27-Aug-15,radiation therapy,alive,58.13,TRUE,never smoked,regularly,omnivore
+856,Elyssa,Ohms,eohmsnr@china.com.cn,856,Female,856,63,Albany,United States,31-Jan-02,5.55,3,negative,FALSE,19-Nov-21,12-Jan-01,surgery,alive,30.99,TRUE,never smoked,occasionally,vegan
+857,Sue,Lydiate,slydiatens@google.com,857,Female,857,64,Lansing,United States,01-May-00,35.74,3,negative,FALSE,02-Feb-17,26-May-12,surgery,alive,30.77,FALSE,never smoked,regularly,vegetarian
+858,Caresse,Antic,canticnt@forbes.com,858,Female,858,94,Niagara Falls,Canada,28-Feb-20,8.41,3,positive,FALSE,15-Nov-09,25-Jun-17,chemotherapy,alive,113.88,TRUE,never smoked,never,vegetarian
+859,Lynnet,Jodlowski,ljodlowskinu@wix.com,859,Female,859,63,Louisville,United States,10-Dec-17,14.27,4,positive,TRUE,03-Apr-15,01-Aug-09,radiation therapy,alive,115.63,FALSE,never smoked,never,vegetarian
+860,Claudio,Braiden,cbraidennv@de.vu,860,Male,860,87,Paterson,United States,26-Nov-02,16.81,2,positive,TRUE,24-Oct-20,06-Nov-00,chemotherapy,deceased,35.05,FALSE,never smoked,regularly,vegetarian
+861,Jeannine,Punchard,jpunchardnw@tamu.edu,861,Female,861,118,Columbus,United States,12-Jun-00,32.03,4,positive,FALSE,13-Jan-07,27-Dec-03,radiation therapy,deceased,45.91,FALSE,never smoked,regularly,omnivore
+862,Marietta,Seebright,mseebrightnx@tmall.com,862,Male,862,18,Hatton,United Kingdom,03-Jul-07,6.99,4,negative,TRUE,23-Oct-06,26-Sep-17,radiation therapy,deceased,32.24,TRUE,current smoker,regularly,vegan
+863,Gael,Plenty,gplentyny@oakley.com,863,Polygender,863,56,Stettler,Canada,23-Jun-14,15.28,1,negative,TRUE,20-Apr-19,30-Apr-05,surgery,alive,53.59,FALSE,former smoker,regularly,omnivore
+864,Worthington,Bemand,wbemandnz@google.ru,864,Male,864,47,Minneapolis,United States,07-Jun-16,10.59,3,negative,FALSE,13-Sep-01,16-Nov-06,surgery,deceased,109.57,FALSE,current smoker,regularly,vegetarian
+865,Petey,Olliff,polliffo0@auda.org.au,865,Male,865,80,New Brunswick,United States,25-Aug-01,24.97,3,negative,FALSE,15-Feb-19,25-Oct-14,chemotherapy,deceased,84.95,TRUE,former smoker,occasionally,vegan
+866,Sander,Plessing,splessingo1@hhs.gov,866,Male,866,39,Decatur,United States,16-Jul-11,16.99,1,negative,FALSE,24-Jul-19,25-Jun-15,radiation therapy,deceased,59.3,TRUE,never smoked,occasionally,omnivore
+867,Sheffie,Baddeley,sbaddeleyo2@yahoo.com,867,Male,867,117,Washington,United States,06-Jul-11,48.29,2,positive,TRUE,03-Dec-15,21-May-02,surgery,alive,3.26,FALSE,current smoker,occasionally,omnivore
+868,Hillary,Gillam,hgillamo3@google.com.hk,868,Female,868,49,Richmond,United States,23-Aug-05,29.31,4,positive,TRUE,22-Apr-06,26-Nov-11,chemotherapy,alive,24.52,TRUE,never smoked,regularly,omnivore
+869,Patsy,Dowrey,pdowreyo4@barnesandnoble.com,869,Male,869,88,Alhambra,United States,26-Apr-01,41.88,3,negative,FALSE,06-Jun-05,15-Oct-19,chemotherapy,alive,12.71,TRUE,former smoker,never,vegan
+870,Hector,Iverson,hiversono5@theglobeandmail.com,870,Male,870,68,Lamont,Canada,08-Feb-03,46.72,1,negative,TRUE,28-Dec-19,14-Mar-03,chemotherapy,deceased,91.66,FALSE,current smoker,regularly,vegetarian
+871,Ripley,Safont,rsafonto6@mlb.com,871,Male,871,118,New York City,United States,09-Feb-16,23.2,4,negative,TRUE,13-May-20,09-Jan-11,chemotherapy,deceased,89.6,TRUE,never smoked,never,omnivore
+872,Bess,Millwall,bmillwallo7@studiopress.com,872,Female,872,73,Joliet,United States,24-Feb-05,1.86,3,negative,FALSE,28-Sep-08,20-Mar-14,surgery,deceased,26.98,FALSE,current smoker,never,vegan
+873,Bondy,Keepe,bkeepeo8@artisteer.com,873,Male,873,64,San Francisco,United States,04-Jun-18,32.02,2,positive,TRUE,06-Sep-20,28-Aug-07,chemotherapy,alive,76.24,FALSE,former smoker,never,vegetarian
+874,Alard,Kingsford,akingsfordo9@cornell.edu,874,Male,874,18,Springfield,United States,22-Dec-04,6.43,1,negative,FALSE,03-Feb-09,22-Aug-05,surgery,alive,50.6,FALSE,former smoker,occasionally,vegetarian
+875,Lek,Siuda,lsiudaoa@deviantart.com,875,Male,875,82,Aylmer,Canada,18-May-04,13.62,3,negative,FALSE,14-Mar-05,19-Jun-07,surgery,deceased,112.99,FALSE,current smoker,regularly,vegan
+876,Salomo,Willoughby,swilloughbyob@census.gov,876,Male,876,63,Thompson,Canada,04-Jan-09,14.03,1,positive,TRUE,19-Oct-03,05-Feb-06,chemotherapy,alive,51.19,TRUE,current smoker,regularly,omnivore
+877,Jania,Billings,jbillingsoc@reddit.com,877,Female,877,7,Van Nuys,United States,04-Jul-13,8.54,4,positive,FALSE,20-Sep-03,01-Sep-03,chemotherapy,deceased,82.77,FALSE,never smoked,regularly,omnivore
+878,Aubrey,Cosh,acoshod@topsy.com,878,Genderfluid,878,17,East Angus,Canada,22-Jul-19,48.06,3,positive,FALSE,20-Jun-04,24-Dec-11,chemotherapy,deceased,67.27,TRUE,current smoker,regularly,vegan
+879,Jeth,Wollrauch,jwollrauchoe@examiner.com,879,Male,879,42,Rocky Mountain House,Canada,14-Sep-13,28.99,4,negative,FALSE,24-Aug-16,02-Apr-21,surgery,alive,32.82,TRUE,current smoker,occasionally,vegan
+880,Augusto,Curr,acurrof@cdc.gov,880,Male,880,9,Toledo,United States,29-May-03,49.44,4,negative,TRUE,02-Oct-12,01-Sep-11,surgery,deceased,9.38,TRUE,never smoked,regularly,omnivore
+881,Tobie,Cleobury,tcleoburyog@example.com,881,Male,881,33,Wolfville,Canada,02-Oct-21,27.35,4,positive,FALSE,16-Oct-20,29-Mar-19,surgery,alive,53.17,TRUE,current smoker,never,omnivore
+882,Gardener,Stile,gstileoh@devhub.com,882,Male,882,31,Shreveport,United States,30-Jul-09,30.47,2,positive,TRUE,14-Jan-11,28-May-02,surgery,deceased,39.32,TRUE,current smoker,occasionally,vegetarian
+883,Cornall,Crust,ccrustoi@typepad.com,883,Male,883,11,Ford,United Kingdom,11-Oct-12,11.02,4,positive,FALSE,04-Sep-19,22-Feb-13,radiation therapy,deceased,17.32,FALSE,never smoked,regularly,vegan
+884,Colman,Tremblay,ctremblayoj@nsw.gov.au,884,Male,884,111,Mount Pearl,Canada,07-Mar-21,19.56,1,negative,TRUE,17-Apr-04,27-Aug-03,chemotherapy,alive,88.69,TRUE,never smoked,never,vegan
+885,Humbert,Reddle,hreddleok@timesonline.co.uk,885,Male,885,7,Parrsboro,Canada,10-Jul-04,3.74,2,negative,FALSE,21-Sep-17,30-Jul-05,radiation therapy,alive,100.46,TRUE,current smoker,occasionally,omnivore
+886,Olag,MacDonnell,omacdonnellol@delicious.com,886,Male,886,93,Kingsport,United States,06-Jun-04,5.44,3,negative,TRUE,15-Mar-03,23-Feb-14,radiation therapy,alive,14.53,FALSE,current smoker,regularly,omnivore
+887,Ceil,Straker,cstrakerom@rediff.com,887,Female,887,6,Beaumont,United States,22-Mar-06,49.19,4,negative,TRUE,14-Sep-10,02-Jul-15,chemotherapy,alive,106.98,TRUE,never smoked,never,vegan
+888,Jere,Hayward,jhaywardon@engadget.com,888,Male,888,35,Dillenburg,Germany,16-Aug-18,37.89,4,positive,FALSE,28-Jun-20,03-Oct-00,chemotherapy,deceased,66.18,TRUE,current smoker,regularly,vegetarian
+889,Bibi,Soro,bsorooo@is.gd,889,Female,889,44,Jackson,United States,13-Oct-19,23.01,2,negative,FALSE,14-Jul-10,01-Feb-04,radiation therapy,alive,9.65,FALSE,current smoker,never,omnivore
+890,Alfonse,Infante,ainfanteop@jiathis.com,890,Male,890,56,Inglewood,United States,25-Jun-17,30.69,3,negative,TRUE,18-Jan-15,11-Aug-08,chemotherapy,alive,62.05,FALSE,never smoked,occasionally,vegan
+891,Patrizius,Dahill,pdahilloq@tamu.edu,891,Male,891,88,Amos,Canada,29-Aug-01,27.44,4,positive,TRUE,14-May-17,15-Nov-01,chemotherapy,deceased,117.12,TRUE,current smoker,occasionally,vegan
+892,Brand,Gilfether,bgilfetheror@slashdot.org,892,Male,892,44,Katy,United States,21-Jul-10,11.38,2,negative,FALSE,24-Feb-14,29-Mar-17,chemotherapy,alive,79.7,TRUE,never smoked,regularly,vegan
+893,Michail,Bish,mbishos@shutterfly.com,893,Male,893,106,Louisville,United States,02-Aug-01,46.84,1,negative,TRUE,20-Feb-18,01-Jun-01,chemotherapy,alive,47.41,FALSE,current smoker,regularly,omnivore
+894,Dexter,Pavolini,dpavoliniot@patch.com,894,Male,894,60,Saint-Joseph-de-Coleraine,Canada,13-Jul-04,40.9,1,positive,FALSE,27-Jul-09,10-Dec-10,surgery,alive,45.84,FALSE,never smoked,regularly,vegan
+895,Walker,Shapter,wshapterou@i2i.jp,895,Male,895,19,Wilkes Barre,United States,18-Aug-09,26.05,1,positive,FALSE,27-Mar-13,14-Jan-10,radiation therapy,alive,81.03,FALSE,current smoker,regularly,omnivore
+896,Morris,Everiss,meverissov@weebly.com,896,Male,896,36,Port Washington,United States,08-Jul-01,44.19,2,negative,FALSE,27-Dec-08,17-Feb-12,surgery,deceased,77.54,FALSE,former smoker,regularly,omnivore
+897,Paul,Noke,pnokeow@trellian.com,897,Male,897,29,Oklahoma City,United States,31-Oct-03,18.87,3,positive,TRUE,10-Mar-01,19-Jul-16,surgery,deceased,84.59,TRUE,never smoked,never,omnivore
+898,Kendrick,Davidoff,kdavidoffox@home.pl,898,Male,898,45,Pittsburgh,United States,11-Apr-03,33.23,3,negative,FALSE,28-Mar-12,11-Aug-06,surgery,deceased,74.57,FALSE,current smoker,regularly,vegan
+899,Sayers,Szachniewicz,sszachniewiczoy@wordpress.org,899,Male,899,93,Sacramento,United States,20-Feb-00,15.98,3,positive,TRUE,12-Jul-16,27-Nov-08,surgery,deceased,59,FALSE,former smoker,regularly,vegan
+900,Elisa,De La Haye,edelahayeoz@google.cn,900,Female,900,27,Round Rock,United States,03-Jan-13,39.1,2,positive,FALSE,08-Mar-18,24-Dec-00,surgery,deceased,5.48,TRUE,former smoker,never,vegetarian
+901,Karisa,Ledamun,kledamunp0@desdev.cn,901,Female,901,15,Huntsville,United States,06-Feb-02,16.9,1,negative,TRUE,24-Mar-19,18-Aug-09,surgery,alive,31.12,TRUE,never smoked,regularly,vegan
+902,Monro,Stoeckle,mstoecklep1@ifeng.com,902,Male,902,33,Salinas,United States,04-May-05,42.52,2,negative,TRUE,23-Nov-12,03-Nov-06,chemotherapy,deceased,12.67,FALSE,never smoked,occasionally,vegan
+903,Prudence,Spoerl,pspoerlp2@sourceforge.net,903,Female,903,53,High River,Canada,02-Jan-18,34.69,2,negative,FALSE,18-Mar-20,20-Nov-13,chemotherapy,alive,60.08,TRUE,current smoker,occasionally,omnivore
+904,Selene,Windeatt,swindeattp3@hubpages.com,904,Female,904,110,Hamburg,Germany,09-May-21,16.23,4,positive,FALSE,11-Oct-08,16-Apr-15,chemotherapy,alive,18.47,TRUE,former smoker,regularly,omnivore
+905,Padget,Liepina,pliepinap4@hc360.com,905,Male,905,120,Columbus,United States,02-Dec-12,12.96,2,negative,FALSE,04-Apr-18,10-Nov-14,radiation therapy,deceased,103.35,FALSE,current smoker,never,vegetarian
+906,Astrid,Southwick,asouthwickp5@timesonline.co.uk,906,Female,906,45,Washington,United States,31-Dec-20,24.24,4,negative,TRUE,04-Sep-00,09-Dec-05,radiation therapy,alive,72.15,TRUE,never smoked,regularly,omnivore
+907,Tine,March,tmarchp6@berkeley.edu,907,Female,907,48,Ford,United Kingdom,23-Aug-15,3.5,4,positive,FALSE,27-Mar-02,06-Feb-01,radiation therapy,deceased,41.5,FALSE,never smoked,never,vegan
+908,Blanche,Bassingham,bbassinghamp7@so-net.ne.jp,908,Female,908,38,San Antonio,United States,08-Apr-12,24.84,3,negative,TRUE,14-Oct-06,11-Jan-06,chemotherapy,deceased,114.49,FALSE,former smoker,occasionally,vegan
+909,Augustus,Langley,alangleyp8@constantcontact.com,909,Male,909,108,Kansas City,United States,03-Feb-15,28.48,1,negative,FALSE,21-Jun-19,02-Jan-10,chemotherapy,deceased,19.7,FALSE,never smoked,regularly,omnivore
+910,Gaelan,Carvil,gcarvilp9@blogger.com,910,Male,910,102,Saint-Tite,Canada,03-Jun-21,0.17,4,negative,TRUE,06-Oct-01,19-Aug-00,surgery,deceased,40.24,FALSE,former smoker,regularly,vegan
+911,Raul,Antonellini,rantonellinipa@stanford.edu,911,Male,911,112,Sparwood,Canada,24-Apr-12,11.92,2,negative,FALSE,10-Feb-00,08-Jun-12,radiation therapy,alive,73.1,TRUE,former smoker,never,vegetarian
+912,Annette,Gadsby,agadsbypb@google.co.uk,912,Agender,912,21,Newark,United States,23-Mar-17,21.54,3,negative,TRUE,30-Oct-11,21-Mar-11,surgery,alive,53.96,FALSE,never smoked,occasionally,omnivore
+913,Ellis,Petriello,epetriellopc@phpbb.com,913,Male,913,11,Alexandria,United States,02-Nov-03,5.24,1,positive,TRUE,25-Feb-09,29-Oct-02,chemotherapy,alive,114.48,TRUE,current smoker,regularly,omnivore
+914,Tony,Oldcote,toldcotepd@myspace.com,914,Female,914,66,Carson City,United States,20-Jun-18,25.83,1,negative,FALSE,09-Apr-06,16-May-00,chemotherapy,deceased,11.13,FALSE,never smoked,never,vegan
+915,Ethelbert,Fassman,efassmanpe@nationalgeographic.com,915,Male,915,23,West Palm Beach,United States,01-Jan-09,10.35,2,positive,TRUE,22-Dec-19,16-Jul-14,radiation therapy,deceased,111.49,TRUE,never smoked,regularly,vegetarian
+916,Shane,Fullbrook,sfullbrookpf@prnewswire.com,916,Male,916,108,Winston Salem,United States,24-Oct-17,34.98,1,positive,TRUE,14-Nov-10,27-May-04,radiation therapy,deceased,16.71,FALSE,former smoker,occasionally,vegan
+917,Golda,Pavis,gpavispg@shop-pro.jp,917,Female,917,29,Rockford,United States,26-Apr-21,46.46,4,positive,TRUE,31-Jul-14,15-Feb-19,surgery,alive,51.62,TRUE,current smoker,never,omnivore
+918,Kalie,Campelli,kcampelliph@opensource.org,918,Female,918,51,Washington,United States,26-Nov-13,19.53,4,negative,TRUE,17-Jul-20,25-Apr-05,surgery,alive,84.21,FALSE,never smoked,regularly,vegan
+919,Romy,Aspin,raspinpi@lycos.com,919,Female,919,120,Summerside,Canada,23-Mar-07,29.21,1,positive,TRUE,11-Jan-07,02-Jun-12,surgery,alive,118.67,FALSE,never smoked,regularly,vegan
+920,Chrisy,Thresh,cthreshpj@ucoz.com,920,Male,920,3,Halle,Germany,15-Jun-04,47.6,2,positive,FALSE,12-Jan-00,09-Feb-05,surgery,deceased,112.74,FALSE,former smoker,regularly,omnivore
+921,Remington,Spragg,rspraggpk@creativecommons.org,921,Male,921,23,St. Catharines,Canada,16-Nov-14,13,1,positive,FALSE,31-May-13,24-Dec-09,chemotherapy,deceased,35.05,TRUE,current smoker,occasionally,omnivore
+922,Benni,Mantz,bmantzpl@mozilla.com,922,Female,922,52,Saint Louis,United States,25-Dec-07,37.65,3,positive,TRUE,27-Aug-04,15-May-03,chemotherapy,alive,76.14,FALSE,current smoker,occasionally,vegan
+923,Daile,Moreton,dmoretonpm@nytimes.com,923,Female,923,77,Paterson,United States,30-Jan-11,48.93,3,positive,TRUE,17-Mar-04,05-Jun-05,chemotherapy,alive,42.84,TRUE,former smoker,occasionally,omnivore
+924,Ilene,Reckus,ireckuspn@php.net,924,Female,924,52,Vaudreuil-Dorion,Canada,13-May-05,33.33,1,negative,FALSE,02-Aug-14,15-Dec-11,surgery,alive,5.92,FALSE,former smoker,occasionally,omnivore
+925,Ase,Davion,adavionpo@foxnews.com,925,Polygender,925,28,Saint Louis,United States,25-Aug-09,19.71,4,negative,FALSE,24-Apr-02,31-Jan-01,surgery,alive,102.58,FALSE,never smoked,regularly,omnivore
+926,Keslie,Blum,kblumpp@pagesperso-orange.fr,926,Female,926,95,Tampa,United States,09-Feb-13,45.87,1,negative,TRUE,30-Apr-11,02-Feb-04,radiation therapy,deceased,72.07,FALSE,former smoker,occasionally,omnivore
+927,Giff,Zannutti,gzannuttipq@networksolutions.com,927,Male,927,70,Clearwater,United States,31-Oct-20,35.47,3,positive,FALSE,30-Nov-00,12-Nov-09,chemotherapy,deceased,98,FALSE,current smoker,regularly,vegetarian
+928,Carla,Pleven,cplevenpr@foxnews.com,928,Female,928,4,Richmond,United States,01-Jul-09,22.91,1,negative,FALSE,20-Jul-18,07-Apr-01,radiation therapy,alive,0.32,TRUE,never smoked,occasionally,omnivore
+929,Ario,Lukacs,alukacsps@cnet.com,929,Male,929,33,Saint-Bruno-de-Guigues,Canada,18-Jan-15,27.37,1,positive,TRUE,05-Apr-06,26-Jul-00,surgery,alive,85.98,TRUE,never smoked,never,vegetarian
+930,Garek,Mulqueen,gmulqueenpt@loc.gov,930,Male,930,45,San Francisco,United States,10-Oct-15,7.77,2,positive,TRUE,20-Sep-07,08-Dec-19,radiation therapy,deceased,83.13,TRUE,never smoked,regularly,omnivore
+931,Kenny,Gerriet,kgerrietpu@mozilla.org,931,Male,931,67,Sainte-Martine,Canada,09-Jan-17,14.52,1,negative,FALSE,04-Jun-01,10-Feb-13,radiation therapy,deceased,21.26,TRUE,former smoker,occasionally,vegan
+932,Margaret,Rolland,mrollandpv@cargocollective.com,932,Female,932,62,Düsseldorf,Germany,30-Mar-19,11.97,4,positive,FALSE,19-Jul-07,01-Apr-06,radiation therapy,alive,5.74,TRUE,current smoker,regularly,omnivore
+933,Dru,Golly,dgollypw@fastcompany.com,933,Female,933,4,Mont-Tremblant,Canada,08-Jun-20,41.36,4,negative,TRUE,18-Jul-04,09-Aug-21,radiation therapy,deceased,38.07,TRUE,never smoked,regularly,vegetarian
+934,Goldi,Burgisi,gburgisipx@cornell.edu,934,Female,934,15,Los Angeles,United States,29-Sep-08,42.88,3,positive,TRUE,22-Oct-11,09-Mar-10,chemotherapy,deceased,87.96,FALSE,former smoker,never,vegetarian
+935,Meris,Burbridge,mburbridgepy@shutterfly.com,935,Female,935,27,Augusta,United States,27-Jul-21,15.07,1,negative,TRUE,09-Aug-16,14-Jul-12,surgery,alive,45.24,TRUE,current smoker,occasionally,omnivore
+936,Boot,Tolworthy,btolworthypz@theguardian.com,936,Male,936,46,Kansas City,United States,04-May-13,34.49,4,negative,TRUE,22-May-08,18-Oct-07,chemotherapy,deceased,72.47,TRUE,current smoker,regularly,vegan
+937,Gregoire,Shaves,gshavesq0@i2i.jp,937,Male,937,26,San Antonio,United States,30-Jan-00,38.34,2,positive,FALSE,09-Dec-00,08-Jul-07,radiation therapy,deceased,2.94,TRUE,former smoker,regularly,omnivore
+938,Sheilah,Babb,sbabbq1@census.gov,938,Female,938,48,Pinellas Park,United States,20-Oct-16,4.9,1,negative,FALSE,06-Mar-17,16-Apr-14,chemotherapy,deceased,94.64,TRUE,never smoked,regularly,vegetarian
+939,Andrew,Arrighetti,aarrighettiq2@hhs.gov,939,Male,939,92,Sainte-Adèle,Canada,25-May-20,40.2,3,positive,TRUE,15-Sep-02,27-Oct-03,surgery,alive,67.28,FALSE,current smoker,regularly,omnivore
+940,Darwin,Muglestone,dmuglestoneq3@answers.com,940,Male,940,87,Laurel,United States,05-Mar-19,0.85,2,positive,TRUE,18-Jan-02,21-Feb-11,chemotherapy,alive,76.44,FALSE,former smoker,occasionally,vegetarian
+941,Durward,Oaten,doatenq4@bravesites.com,941,Male,941,113,Hartford,United States,30-Jun-17,7.19,1,positive,FALSE,10-Jul-19,26-Nov-18,chemotherapy,deceased,88.62,FALSE,current smoker,regularly,omnivore
+942,Lanny,Halligan,lhalliganq5@auda.org.au,942,Male,942,40,Lac-Mégantic,Canada,06-Jun-03,26.59,4,positive,FALSE,12-Mar-19,18-Dec-09,surgery,deceased,56.32,TRUE,never smoked,never,omnivore
+943,Lucine,Portsmouth,lportsmouthq6@webmd.com,943,Female,943,63,Miami Beach,United States,04-Jun-00,37.48,4,positive,TRUE,15-Feb-03,16-Aug-20,chemotherapy,deceased,68.66,FALSE,never smoked,never,omnivore
+944,Hilary,Deamer,hdeamerq7@smugmug.com,944,Male,944,70,Washington,United States,08-May-12,0.69,1,positive,FALSE,17-Nov-16,21-Sep-07,chemotherapy,deceased,95.63,TRUE,former smoker,occasionally,vegetarian
+945,Cassondra,Shervil,cshervilq8@mtv.com,945,Female,945,114,High River,Canada,01-Jul-03,2.86,1,negative,FALSE,28-Jun-18,20-Jan-08,chemotherapy,deceased,18.07,TRUE,never smoked,occasionally,omnivore
+946,Ardith,Iacovone,aiacovoneq9@skyrock.com,946,Female,946,32,Aylmer,Canada,10-Jan-09,38.46,3,positive,TRUE,12-Jun-01,09-Feb-03,chemotherapy,deceased,46.55,FALSE,current smoker,occasionally,vegan
+947,Marylinda,Klaassens,mklaassensqa@walmart.com,947,Female,947,40,Wabana,Canada,22-Jul-17,1.16,4,positive,TRUE,24-Jun-12,01-May-08,chemotherapy,deceased,44.55,TRUE,current smoker,regularly,vegetarian
+948,Amata,Marns,amarnsqb@sina.com.cn,948,Female,948,74,Boise,United States,05-Jun-03,8.95,2,negative,TRUE,07-Sep-06,03-Sep-21,chemotherapy,alive,88.8,TRUE,never smoked,regularly,vegetarian
+949,Allin,Scudamore,ascudamoreqc@java.com,949,Male,949,102,Penticton,Canada,18-Oct-00,27.36,2,negative,FALSE,16-Dec-04,05-Jan-13,radiation therapy,deceased,117.91,FALSE,former smoker,occasionally,vegan
+950,Amory,Chellenham,achellenhamqd@ow.ly,950,Male,950,75,Wuppertal,Germany,14-Mar-07,9.21,2,negative,FALSE,22-Oct-14,07-Dec-02,surgery,deceased,98.39,FALSE,current smoker,never,vegan
+951,Connie,Mynett,cmynettqe@home.pl,951,Female,951,70,Huntsville,United States,03-Jun-05,37.42,1,positive,FALSE,09-Jul-20,22-Dec-04,chemotherapy,alive,77.77,FALSE,former smoker,never,omnivore
+952,Perice,Remer,premerqf@tumblr.com,952,Male,952,69,Miami,United States,04-May-15,22.94,1,negative,FALSE,19-Jul-21,26-Jul-20,chemotherapy,deceased,1.52,FALSE,current smoker,regularly,vegetarian
+953,Hillary,Diano,hdianoqg@shinystat.com,953,Female,953,35,Huntsville,United States,18-Oct-10,16.8,1,positive,FALSE,09-May-18,02-Oct-20,radiation therapy,deceased,43.87,TRUE,current smoker,occasionally,omnivore
+954,Sarina,Romaint,sromaintqh@cnet.com,954,Female,954,77,Salt Lake City,United States,08-Oct-00,37.87,3,negative,TRUE,12-Apr-02,03-Sep-18,radiation therapy,alive,53.63,FALSE,former smoker,never,omnivore
+955,Rivalee,Emblin,remblinqi@gnu.org,955,Female,955,106,Inuvik,Canada,26-Jun-05,24.89,4,negative,TRUE,25-Nov-13,02-Dec-03,chemotherapy,alive,18.69,TRUE,current smoker,never,vegan
+956,Nataniel,Walentynowicz,nwalentynowiczqj@1und1.de,956,Male,956,39,Devon,Canada,21-Dec-07,37.37,3,positive,TRUE,20-Jan-05,15-Oct-05,chemotherapy,deceased,108.76,TRUE,former smoker,regularly,vegan
+957,Bayard,Tyt,btytqk@yelp.com,957,Male,957,30,Pasadena,United States,29-Jun-07,18.31,1,positive,FALSE,19-Jul-21,21-Oct-06,radiation therapy,alive,17.49,FALSE,current smoker,occasionally,omnivore
+958,Merilyn,Deyes,mdeyesql@kickstarter.com,958,Female,958,15,Eaton,United Kingdom,16-Apr-03,49.22,3,positive,FALSE,06-Jul-04,29-Mar-03,radiation therapy,deceased,20.63,FALSE,never smoked,regularly,omnivore
+959,Bax,Connick,bconnickqm@com.com,959,Genderqueer,959,16,Champaign,United States,16-Mar-05,34.12,4,positive,TRUE,26-Dec-19,22-Apr-08,chemotherapy,alive,87.52,FALSE,never smoked,never,vegetarian
+960,Elianore,Pietroni,epietroniqn@canalblog.com,960,Female,960,104,Huntington,United States,17-Nov-10,13.59,2,negative,FALSE,09-Jul-17,14-Sep-14,radiation therapy,alive,59.6,TRUE,never smoked,regularly,vegetarian
+961,Pauly,Pennino,ppenninoqo@typepad.com,961,Bigender,961,49,Houston,United States,15-Nov-18,13.98,3,negative,FALSE,29-Oct-18,30-Sep-05,chemotherapy,deceased,40.16,TRUE,current smoker,occasionally,vegetarian
+962,Martainn,Wiggington,mwiggingtonqp@digg.com,962,Male,962,70,Savannah,United States,27-Dec-06,0.31,4,negative,TRUE,09-Mar-02,31-Dec-12,chemotherapy,alive,78.62,TRUE,never smoked,occasionally,vegan
+963,Elden,Reveland,erevelandqq@angelfire.com,963,Genderqueer,963,21,San Bernardino,United States,05-Mar-04,46.36,4,positive,FALSE,27-Jun-12,16-Jun-18,chemotherapy,deceased,43.36,FALSE,never smoked,regularly,omnivore
+964,Katti,Bracknall,kbracknallqr@etsy.com,964,Female,964,35,Pilot Butte,Canada,11-Oct-05,13.35,3,positive,FALSE,02-Jun-06,21-Dec-19,radiation therapy,deceased,7.75,FALSE,current smoker,never,vegetarian
+965,Cristin,Rogers,crogersqs@google.co.jp,965,Female,965,91,Tacoma,United States,13-Apr-12,49.34,4,negative,TRUE,06-Sep-09,07-Aug-15,surgery,alive,88.52,TRUE,former smoker,regularly,vegan
+966,Emelda,Iddenden,eiddendenqt@360.cn,966,Genderfluid,966,118,Detroit,United States,19-Sep-01,21.42,4,positive,TRUE,30-Oct-14,27-Apr-17,chemotherapy,alive,52.47,TRUE,current smoker,never,omnivore
+967,Evvy,Beaufoy,ebeaufoyqu@irs.gov,967,Female,967,85,Saint-Bruno,Canada,16-Aug-12,29.58,4,positive,FALSE,19-Dec-01,21-Jul-01,surgery,alive,76.06,TRUE,former smoker,regularly,omnivore
+968,Kathye,Hamshar,khamsharqv@domainmarket.com,968,Bigender,968,103,Memphis,United States,11-Mar-13,14.34,4,positive,FALSE,18-Jan-14,31-Oct-21,surgery,deceased,51.64,FALSE,former smoker,regularly,vegan
+969,Nelson,Steel,nsteelqw@narod.ru,969,Male,969,49,Topeka,United States,11-Feb-11,20.18,1,positive,TRUE,29-Oct-18,27-Nov-02,chemotherapy,deceased,9.55,TRUE,current smoker,regularly,vegan
+970,Pietro,Kille,pkilleqx@facebook.com,970,Male,970,60,Columbus,United States,28-Mar-20,34.07,3,negative,TRUE,11-Aug-10,14-Sep-09,surgery,deceased,85.12,FALSE,never smoked,occasionally,vegetarian
+971,Marcie,Kuhlmey,mkuhlmeyqy@bbb.org,971,Female,971,62,Peterborough,Canada,01-Jul-13,31.7,3,positive,FALSE,03-Oct-17,22-Sep-05,chemotherapy,deceased,119.21,TRUE,former smoker,regularly,omnivore
+972,Delinda,Raubenheimer,draubenheimerqz@vkontakte.ru,972,Female,972,72,Jasper Park Lodge,Canada,24-Dec-02,45.92,4,positive,FALSE,19-Oct-00,07-May-09,radiation therapy,deceased,42.79,TRUE,former smoker,never,omnivore
+973,Vonni,Nutting,vnuttingr0@bloglovin.com,973,Female,973,71,Minneapolis,United States,28-Jan-20,45.34,1,negative,TRUE,02-Sep-05,08-Jul-21,radiation therapy,deceased,39.62,FALSE,former smoker,never,omnivore
+974,Annelise,Kennford,akennfordr1@bandcamp.com,974,Female,974,119,Atlanta,United States,09-Dec-04,2.23,3,negative,FALSE,04-Aug-01,05-Sep-16,surgery,deceased,74.3,TRUE,former smoker,never,omnivore
+975,Baillie,Breydin,bbreydinr2@springer.com,975,Male,975,110,Lorraine,Canada,30-Nov-02,25.06,2,negative,TRUE,30-Dec-12,27-May-02,chemotherapy,deceased,10.69,TRUE,former smoker,occasionally,omnivore
+976,Sande,Andreaccio,sandreaccior3@biglobe.ne.jp,976,Female,976,6,New York City,United States,17-Oct-13,36.2,1,positive,FALSE,28-Apr-13,24-Aug-08,radiation therapy,deceased,89.06,TRUE,current smoker,occasionally,omnivore
+977,Dulcea,Ewbank,dewbankr4@boston.com,977,Female,977,36,Hamm,Germany,23-Feb-16,48.25,1,negative,TRUE,16-Jul-10,24-Jun-21,chemotherapy,alive,117,FALSE,former smoker,occasionally,vegan
+978,Luelle,Cisneros,lcisnerosr5@cocolog-nifty.com,978,Female,978,97,Columbia,United States,14-Dec-21,49.47,2,positive,TRUE,13-Nov-02,07-Sep-06,surgery,deceased,82.43,TRUE,former smoker,never,vegan
+979,Cortie,MacKaile,cmackailer6@rakuten.co.jp,979,Genderfluid,979,25,Bay Roberts,Canada,31-Jan-18,4.7,2,negative,TRUE,27-Oct-17,31-Dec-13,radiation therapy,alive,102.23,TRUE,former smoker,never,omnivore
+980,Scottie,Hoolaghan,shoolaghanr7@theguardian.com,980,Male,980,64,Pittsburgh,United States,26-Oct-20,26.08,4,negative,TRUE,15-Jun-08,02-Feb-02,surgery,deceased,23.6,TRUE,current smoker,regularly,vegetarian
+981,Hirsch,Bamfield,hbamfieldr8@instagram.com,981,Male,981,8,Saint Louis,United States,18-Jun-16,5.14,4,positive,FALSE,14-Nov-02,24-Feb-18,chemotherapy,deceased,51.54,TRUE,current smoker,occasionally,vegetarian
+982,Charlotta,Petrasek,cpetrasekr9@hostgator.com,982,Female,982,69,Ludwigshafen am Rhein,Germany,26-Sep-06,35.57,3,negative,FALSE,18-Dec-09,22-Jun-11,radiation therapy,alive,9.14,FALSE,never smoked,never,vegetarian
+983,Lindie,Blockey,lblockeyra@trellian.com,983,Female,983,47,Smoky Lake,Canada,19-Oct-06,19.73,3,negative,FALSE,03-Oct-06,04-Apr-13,chemotherapy,deceased,32.09,FALSE,former smoker,regularly,vegetarian
+984,Eadie,Deaton,edeatonrb@columbia.edu,984,Female,984,68,Montgomery,United States,18-Sep-08,16.37,4,positive,FALSE,28-May-18,08-Sep-13,radiation therapy,alive,81.83,FALSE,never smoked,occasionally,vegetarian
+985,Felipa,Hunsworth,fhunsworthrc@yahoo.co.jp,985,Genderqueer,985,34,Macamic,Canada,14-Nov-01,16.37,3,negative,FALSE,27-Jul-01,14-Nov-20,radiation therapy,deceased,92.98,FALSE,former smoker,never,vegan
+986,Dierdre,May,dmayrd@mapy.cz,986,Female,986,105,Kansas City,United States,10-Dec-04,4.79,1,positive,TRUE,07-Jan-14,10-Nov-15,radiation therapy,deceased,56.96,TRUE,former smoker,never,vegan
+987,Lian,Kilshall,lkilshallre@fc2.com,987,Female,987,34,Milton,Canada,13-Oct-00,43.79,3,positive,FALSE,14-Dec-07,12-Nov-11,surgery,alive,94.26,TRUE,never smoked,regularly,vegetarian
+988,Gibb,Robillard,grobillardrf@loc.gov,988,Male,988,9,Fort Wayne,United States,17-Mar-00,8.47,1,negative,FALSE,29-Nov-06,26-Sep-09,surgery,alive,93.99,FALSE,former smoker,regularly,vegan
+989,Maddi,Splaven,msplavenrg@ucsd.edu,989,Non-binary,989,75,Newton,United Kingdom,26-May-04,27.8,1,negative,TRUE,06-Jun-18,28-Jun-08,surgery,deceased,2.19,FALSE,former smoker,regularly,vegan
+990,Hildegarde,Enderwick,henderwickrh@businessweek.com,990,Female,990,86,Köln,Germany,23-May-06,41.43,2,negative,FALSE,14-Sep-15,28-Jul-10,radiation therapy,deceased,78.33,FALSE,former smoker,never,omnivore
+991,Nollie,McReath,nmcreathri@google.ru,991,Male,991,119,Springfield,United States,02-Aug-19,42.26,4,negative,FALSE,01-Mar-21,14-Jan-05,radiation therapy,deceased,76.97,FALSE,never smoked,never,omnivore
+992,Eachelle,Steptow,esteptowrj@chron.com,992,Female,992,9,Van Nuys,United States,29-Mar-05,3.96,2,negative,FALSE,12-Aug-21,19-Jun-21,chemotherapy,deceased,69.7,TRUE,current smoker,regularly,vegetarian
+993,Marget,Glendinning,mglendinningrk@a8.net,993,Female,993,32,Osnabrück,Germany,27-Feb-01,13.52,4,positive,TRUE,12-Mar-08,02-May-03,chemotherapy,deceased,49.71,TRUE,never smoked,never,vegetarian
+994,Stanley,Hathorn,shathornrl@tumblr.com,994,Male,994,80,Münster,Germany,22-Aug-13,8.94,3,positive,FALSE,10-Jan-07,14-Sep-20,chemotherapy,alive,97.63,FALSE,never smoked,regularly,vegetarian
+995,Gerald,Ecclestone,gecclestonerm@fotki.com,995,Male,995,6,Tyler,United States,06-Jun-20,40.92,4,positive,TRUE,16-Sep-20,27-Jan-14,chemotherapy,alive,57.62,FALSE,current smoker,occasionally,vegetarian
+996,Koenraad,Shorto,kshortorn@behance.net,996,Male,996,10,New Orleans,United States,17-Mar-11,49.76,1,positive,FALSE,29-Jun-16,06-May-21,chemotherapy,deceased,80.34,TRUE,former smoker,regularly,vegetarian
+997,Nicolai,Beament,nbeamentro@chron.com,997,Male,997,32,Drayton Valley,Canada,07-Apr-13,43.31,1,positive,FALSE,23-Jan-08,22-Dec-18,chemotherapy,alive,5.05,FALSE,former smoker,occasionally,vegan
+998,Vivia,Weblin,vweblinrp@businessweek.com,998,Female,998,79,Nürnberg,Germany,03-Feb-05,39.45,4,negative,FALSE,07-Jun-12,23-Feb-07,chemotherapy,alive,64.43,TRUE,former smoker,occasionally,vegan
+999,Edy,Rasp,erasprq@myspace.com,999,Female,999,41,Tampa,United States,27-Feb-04,40.58,4,positive,TRUE,23-Dec-08,08-Dec-05,radiation therapy,alive,62.89,FALSE,former smoker,regularly,vegan
+1000,Peggie,Ambrogini,pambroginirr@joomla.org,1000,Female,1000,114,Princeville,Canada,18-Jul-15,16.91,2,positive,FALSE,02-Sep-12,28-Sep-08,surgery,alive,92.74,FALSE,current smoker,occasionally,omnivore
+1000,Peggie,Ambrogini,pambroginirr@joomla.org,1000,Female,1000,114,,,18-Jul-15,16.91,2,positive,FALSE,02-Sep-12,28-Sep-08,surgery,alive,92.74,FALSE,current smoker,occasionally,omnivore
+998,Vivia,Weblin,vweblinrp@businessweek.com,998,Female,998,79,Nürnberg,Germany,03-Feb-05,39.45,4,negative,FALSE,07-Jun-12,23-Feb-07,chemotherapy,alive,64.43,TRUE,former smoker,occasionally,vegan
+999,Edy,Rasp,erasprq@myspace.com,999,Female,999,41,Tampa,United States,27-Feb-04,40.58,4,positive,TRUE,23-Dec-08,08-Dec-05,radiation therapy,alive,62.89,FALSE,former smoker,regularly,vegan
